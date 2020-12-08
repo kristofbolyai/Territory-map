@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+	<title>Wynn Map Maker</title>
+
+
+	<link rel="stylesheet" type="text/css" href="./main.css" />
+
+	<meta charset="utf-8" />
+	<meta name="description" content="Wynncraft Custom Territory Map Maker">
+	<meta name="keywords" content="wynn,map,maker,territories">
+	<meta name="author" content="bolyai & Nitrogen2Oxygen">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta property="og:title" content="Wynn Map Maker">
+	<meta property="og:description" content="Wynncraft Custom Territory Map Maker">
+	<meta property="og:image" content="https://wynnmapmaker.tk/map.jpg">
+	<meta property="og:url" content="https://wynnmapmaker.tk/">
+
+
+	<link rel="icon" href="favicon.ico">
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+		integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+		crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+		integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+		integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+		crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css"
+		integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+		crossorigin="" />
+	<script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js"
+		integrity="sha512-GffPMF3RvMeYyc1LWMHtK8EbPv0iNZ8/oTtHPx9/cc2ILxQ+u905qIwdpULaqDkyBKgOaB57QTMg7ztg8Jm2Og=="
+		crossorigin=""></script>
+
+	<script src="./main.js"></script>
+</head>
+
+<body>
+	<div class="container">
+		<div class="row">
+			<div style="overflow: scroll;" id="menu">
+				<div class="menu-section">
+					<p class="menu-text menu-title guild-name">Wynncraft Map Maker Utility</p>
+					<p class="menu-text guild-name">Version 1.0.3</p>
+					<div id="guild-leaderboard" class="menu-text guild-name">
+						<button id="help" class="btn btn-primary" data-toggle="popover" title="Wynn Map Maker Controls"
+							data-content="
+						<div>
+							Spacebar - Toggles Sidebar
+							<br>
+							H - Toggles guild tag visibility
+							<br>
+							L - Toggle map legend
+						</div>
+						" data-html="true">Help</button>
+						<br>
+						<br>
+						<div>
+							<input id="file-button" type="file" hidden="hidden">
+							<button type="button" id="import-button" class="btn btn-primary">Import</button>
+							<button class="btn btn-primary" onclick="exportMap()">Export</button>
+						</div>
+					</div>
+				</div>
+				<hr style="width: 100%; color: black; height: 1px; background-color:white;" />
+				<div class="menu-section">
+					<p id="currentTerritory" class="menu-text menu-title guild-name">Select 1 or more territory to edit
+					</p>
+					<div>
+						<span style="visibility: hidden;" id="enable-button" class="menu-text guild-name"> (W.I.P.)
+							Enabled: <input type="checkbox" checked="true" id="territory-toggle"></span><br>
+						<span style="visibility: hidden;" id="terr-select" class="menu-text guild-name">Territory Owner:
+							<select id="guilds">
+								<option value="null">None</option>
+							</select></span> <br>
+						<button class="btn btn-primary" onclick="rectangleselect = !rectangleselect">Toggle rectangle
+							selection tool</button><br>
+						<button class="btn btn-primary" onclick="removeselectionmarkers()">Remove all selection
+							markers</button><br>
+						<button class="btn btn-primary" onclick="removeselections()">Remove all selections</button>
+					</div>
+				</div>
+				<hr style="width: 100%; color: black; height: 1px; background-color:white;" />
+				<div class="menu-section">
+					<p class="menu-text menu-title guild-name">Manage Guilds:</p>
+					<div>
+						<span class="section-title guild-name">Add Guild:</span>
+						<!--<p class="menu-text">Dev note: add a place to add and remove guilds and set their colors</p>-->
+						<br>
+						<div>
+							<label class="menu-text input-label" for="name">Guild Prefix:</label>
+							<input class="add-guild" type="text" id="name" name="name" maxlength=3
+								placeholder="Ex. Fox"><br>
+							<label class="menu-text input-label" for="color">Map color:</label>
+							<input type="color" id="color" name="color">
+						</div>
+						<br>
+						<button class="btn btn-primary" onclick="addguild()">Add</button>
+						<br><br>
+						<div class="guild-select"><span class="section-title guild-name">Change Guild Color:</span><br>
+							<select class="guild-select" id="changeguild">
+								<option value="null">--</option>
+							</select>
+							<input type="color" id="changecolor" name="color"><br><br>
+						</div>
+						<button class="btn btn-primary" onclick="changecolor()">Change</button>
+						<br><br>
+						<div class="guild-select">
+							<span class="section-title guild-name">Remove Guild:</span>
+							<select id="removeguild">
+								<option value="null">--</option>
+							</select><br><br>
+						</div>
+						<button class="btn btn-primary" onclick="removeguild()">Remove</button>
+					</div>
+				</div>
+				<hr style="width: 100%; color: black; height: 1px; background-color:white;" />
+				<div class="menu-section">
+					<p class="menu-text menu-title guild-name">Commands</p>
+					<div>
+						<button class="btn btn-primary" onclick="pullApi()">Pull From Wynn API</button>
+						<p id="api-loading" class="menu-text guild-name"></p>
+					</div>
+				</div>
+				<hr style="width: 100%; color: black; height: 1px; background-color:white;" />
+				<div class="menu-section">
+					<p class="menu-text menu-title guild-name">Credits</p>
+					<div>
+						<p class="menu-text guild-name">
+							<b>Developers:</b> Nitrogen2Oxygen & bolyai of the HM Royal Engineers of Fox<br><br>
+							<b>Special Thanks:</b><br>
+							<a href="https://wynndata.tk/map" target="_blank">Wynndata.tk</a> for providing the 2D
+							map<br>
+							<a href="https://br0kenmotor.github.io/map" target="_blank">br0kenmotor.github.io</a> for
+							the original map layout<br>
+							<br><br>
+							Report bugs to @Nitro#6904 or @bolyai#8857 on Discord<br>
+							Unaffiliated with the Wynncraft server
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="container">
+		<div class="row">
+			<div style="overflow: scroll;" id="legend">
+				<div class="menu-section">
+					<p class="menu-text menu-title guild-name">Map Legend</p>
+					<button class="btn btn-primary" onclick="reloadLegend()">Reload</button>
+					<ul style="padding-inline-start: 0px;" id="guild-list">
+
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="map"></div>
+</body>
+
+</html>

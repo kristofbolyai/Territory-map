@@ -1,0 +1,269 @@
+/* -------------- Basic map styling -------------- */
+
+html, body { 
+	height: 100%; 
+}
+
+.leaflet-tooltip.territoryName {
+  padding: 0;
+  border-radius: 0;
+  display: block;
+  border: 0;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  box-shadow: none;
+  background-color: transparent;
+  font-weight: 700;
+  white-space: initial;
+  text-align: center;
+  text-shadow: 1px 1px 0 #000, -1px 1px 0 #000, -1px -1px 0 #000, 1px -1px 0 #000, 0 0 2px #000;
+}
+
+.leaflet-tooltip.territoryName .territoryGuildName {
+  position: relative;
+}
+
+body {
+	background: black;
+	margin: 0;
+	padding: 0; 
+}
+
+#map {
+	width: 100%; height: 100%;
+	background: black;
+	margin: 0 auto;
+	z-index: 1;
+}
+
+/* Tooltip styling */
+
+.guild-name, p a {
+  background: transparent !important;
+  border: transparent !important;
+  color: white !important;
+  box-shadow: none !important;
+  text-align: center !important;
+  overflow-wrap: break-word !important;
+  white-space: normal !important;
+  width: 75px;
+}
+
+.identifier {
+   font-weight: bold !important;
+   margin: 0 0 0 0 !important;
+}
+
+.leaflet-tooltip-left.guild-name::before {
+  border-left-color: transparent !important;
+}
+.leaflet-tooltip-right.guild-name::before {
+  border-right-color: transparent !important;
+}
+
+.section-title {
+  font-weight: bolder;
+	font: 18px/1.5 "Helvetica Neue", Arial, Helvetica, sans-serif;
+  text-shadow: 0px 0px 3px white, -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  text-align: left !important;
+  width: 100%;
+}
+
+.add-guild {
+  width: 50%;
+  padding: 8px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 1px solid #555;
+  outline: none;
+}
+
+/*Button sytling*/
+.input-button {
+  display: inline-block;
+	outline: none;
+	cursor: pointer;
+	text-align: center;
+	text-decoration: none;
+	font: 14px/100% Arial, Helvetica, sans-serif;
+	padding: .5em 2em .55em;
+	text-shadow: 0 1px 1px rgba(0,0,0,.3);
+	-webkit-border-radius: .5em; 
+	-moz-border-radius: .5em;
+	border-radius: .5em;
+	-webkit-box-shadow: 0 1px 2px rgba(0,0,0,.2);
+	-moz-box-shadow: 0 1px 2px rgba(0,0,0,.2);
+  box-shadow: 0 1px 2px rgba(0,0,0,.2);
+  color: #d9eef7;
+  border: solid 1px #0076a3;
+  background: #0095cd;
+  background: -webkit-gradient(linear, left top, left bottom, from(#00adee), to(#0078a5));
+}
+.input-button:hover {
+	text-decoration: none;
+}
+.input-button:active {
+	position: relative;
+	top: 1px;
+}
+
+/* -------------- Info overlay styling --------------- */
+#info {
+    position: fixed; /* Sit on top of the page content */
+    width: 100%; /* Full width (cover the whole page) */
+    height: 10%; /* Full height (cover the whole page) */
+	top: 0; 
+	left: 0;
+	right: 0;
+	background-color: rgb(0, 0, 0, 0.0); /* White background with opacity */
+	z-index: 3; 
+	transition: opacity 5s;
+	opacity: 1;
+	text-align: center;
+}
+
+#info span {
+	margin: 0 auto;
+}
+
+
+/* -------------- Menu overlay styling  -------------- */
+
+.input-label {
+  color: white;
+}
+
+#menu {
+  position: fixed; /* Sit on top of the page content */
+	display: block; /* UwU */
+  width: 20%; /* Full width (cover the whole page) */
+  height: 100%; /* Full height (cover the whole page) */
+	top: 0; 
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background-color: rgb(119, 204, 255, .1); /* White background with opacity */
+	z-index: 2; 
+  cursor: pointer; /* Add a pointer on hover */
+}
+
+#legend {
+  position: fixed; /* Sit on top of the page content */
+	display: block; /* UwU */
+  width: 20%; /* Full width (cover the whole page) */
+  height: 100%; /* Full height (cover the whole page) */
+	top: 0; 
+	right: 0;
+	bottom: 0;
+	background-color: rgb(119, 204, 255, .1); /* White background with opacity */
+	z-index: 2; 
+  cursor: pointer; /* Add a pointer on hover */
+}
+
+.menu-text, p a {
+	text-align: left !important;
+	font: 16px/1.5 "Helvetica Neue", Arial, Helvetica, sans-serif;
+	width: 100%;
+}
+
+p a {
+	text-decoration: none;
+}
+
+.menu-title {
+	font-weight: bolder;
+	font-size: 20px;
+	text-shadow: 0px 0px 3px white, -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+#guild-leaderboard {
+	max-height: 200px;
+	overflow-y: auto;
+}
+
+.leaderboard-item {
+	margin-bottom: 5px;
+
+}
+
+/* Slider styling */
+
+
+.slidecontainer {
+  width: 100%;
+}
+
+.slider {
+  width: 85%;
+  margin-right: 5%;
+  -webkit-appearance: none;  /* Override default CSS styles */
+  appearance: none;
+  height: 7px; /* Specified height */
+  border-radius: 10px;  
+  background: #d3d3d3; /* Grey background */
+  outline: none; /* Remove outline */
+  opacity: 0.7; /* Set transparency (for mouse-over effects on hover) */
+  -webkit-transition: .2s; /* 0.2 seconds transition on hover */
+  transition: opacity .2s;
+}
+
+.slider:hover {
+  opacity: 1; /* Fully shown on mouse-over */
+}
+
+.slider::-webkit-slider-thumb {
+  -webkit-appearance: none; /* Override default look */
+  appearance: none;
+  width: 15px; /* Set a specific slider handle width */
+  height: 15px; /* Slider handle height */
+  border-radius: 50%; 
+  background: grey; /* Green background */
+  cursor: pointer; /* Cursor on hover */
+}
+
+.slider::-moz-range-thumb {
+  width: 15px; /* Set a specific slider handle width */
+  height: 15px; /* Slider handle height */
+  border-radius: 50%;
+  background: grey; /* Green background */
+  cursor: pointer; /* Cursor on hover */
+}
+
+
+/* Scrollbar */
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f2f2f2; 
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555; 
+}
+
+.menu-section {
+  margin-left: 5%;
+   margin-top: 5%;
+}
+
+.guild-color {
+  display: inline-block;
+  width: .75rem;
+  height: .75rem;
+  border-radius: .75rem;
+  margin-right: .5rem;
+  -webkit-filter: drop-shadow(0 0 2px rgba(255,255,255,0.5));
+  filter: drop-shadow(0 0 2px rgba(255,255,255,0.5));
+}

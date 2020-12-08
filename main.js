@@ -6,7 +6,7 @@ var actual_JSON;
 var markers = [];
 var map;
 var rectangleselect = false;
-var visible = true;
+var visible = false;
 
 $(document).ready(function () {
     // Help popup
@@ -15,30 +15,15 @@ $(document).ready(function () {
             trigger: 'focus'
         })
     })
-    // Inittialize controls
-    $('body').bind('keypress', function (e) {
-        if (e.target.id === "name") return;
-        if (e.which == 32) {
-            toggleMenu();
-        }
-        else if (e.key == "h") {
-            visible = !visible;
-            if (visible) render();
-            else changeVisibility();
-        } else if (e.key == "l") {
-            toggleLegend();
-        }
-
-    })
     // Initialize map
-    var realButton = document.getElementById('file-button');
-    var importButton = document.getElementById('import-button');
+    // var realButton = document.getElementById('file-button');
+    // var importButton = document.getElementById('import-button');
 
-    importButton.addEventListener('click', function () {
-        realButton.click();
-        realButton.addEventListener('change', importMap, false);
-    });
-    actual_JSON = getData();
+    // importButton.addEventListener('click', function () {
+    //     realButton.click();
+    //     realButton.addEventListener('change', importMap, false);
+    // });
+    newTerritoryData = JSON.parse(newTerritoryData);
     run();
 });
 
@@ -78,56 +63,6 @@ function addguild() {
     color.value = "#000000";
     reloadLegend();
     alert("Successfully added the guild!");
-}
-function changecolor() {
-    let select = document.getElementById('changeguild');
-    let color = document.getElementById("changecolor");
-    if (select.selectedIndex === 0) {
-        alert("No guild selected!");
-        return;
-    }
-    for (let i in Guilds) {
-        if (Guilds[i].name === select.value) {
-            Guilds[i].changecolor(color.value);
-            Object.keys(Territories).forEach(territory => {
-                let guild = Territories[territory];
-                if (guild === select.value) {
-                    rectangles[territory].unbindTooltip();
-                    rectangles[territory].bindTooltip('<span class="territoryGuildName" style="color: ' + Guilds[i].mapcolor + '">' + Guilds[i].name + '</span>', { sticky: true, interactive: false, permanent: true, direction: 'center', className: 'territoryName', opacity: 1 })
-                    rectangles[territory].setStyle({
-                        color: Guilds[i].mapcolor,
-                    });
-                }
-            });
-            break;
-        }
-    }
-    reloadLegend();
-    alert(`Successfully changed ${select.value}'s color to ${color.value}`);
-    select.selectedIndex = 0;
-    color.value = '#000000';
-}
-function removeguild() {
-    let select = document.getElementById("removeguild");
-    if (select.selectedIndex === 0) {
-        alert("No guild selected!");
-        return;
-    }
-    Guilds = Guilds.filter(x => (x.name != select.value));
-    Object.keys(Territories).forEach(territory => {
-        let guild = Territories[territory];
-        if (guild === select.value) {
-            rectangles[territory].unbindTooltip();
-            rectangles[territory].bindTooltip('<span class="territoryGuildName" style="color: #FFFFFF">FFA</span>', { sticky: true, interactive: false, permanent: true, direction: 'center', className: 'territoryName', opacity: 1 })
-            rectangles[territory].setStyle({
-                color: 'rgba(255,255,255,1)'
-            });
-            Territories[territory] = null;
-        }
-    });
-    select.remove(select.selectedIndex);
-    reloadLegend()
-    alert("Successfully removed the guild!");
 }
 
 function initTerrs() {
@@ -204,36 +139,6 @@ function toggleLegend() {
 
 function run() {
     initTerrs();
-    // Initializing events
-    var guildSelect = document.getElementById('guilds');
-    guildSelect.addEventListener('change', function () {
-        if (guildSelect.selectedIndex === 0) {
-            Object.values(selectedTerritory).forEach(territory => {
-                Territories[territory] = "-";
-                rectangles[territory].unbindTooltip();
-                rectangles[territory].bindTooltip('<span class="territoryGuildName" style="color: #FFFFFF">FFA</span>', { sticky: true, interactive: false, permanent: true, direction: 'center', className: 'territoryName', opacity: 1 })
-                rectangles[territory].setStyle({
-                    color: 'rgba(255,255,255,1)'
-                });
-            });
-        }
-        else {
-            for (let i = 0; i < Guilds.length; i++) {
-                if (Guilds[i].name === guildSelect.value) {
-                    Object.values(selectedTerritory).forEach(territory => {
-                        Territories[territory] = guildSelect.value;
-                        rectangles[territory].unbindTooltip();
-                        rectangles[territory].bindTooltip('<span class="territoryGuildName" style="color: ' + Guilds[i].mapcolor + '">' + Guilds[i].name + '</span>', { sticky: true, interactive: false, permanent: true, direction: 'center', className: 'territoryName', opacity: 1 })
-                        rectangles[territory].setStyle({
-                            color: Guilds[i].mapcolor,
-                        });
-                    });
-                    break;
-                }
-            }
-        }
-        reloadLegend();
-    });
     // initializing map
     let bounds = [];
     let images = [];
@@ -246,7 +151,7 @@ function run() {
         zoom: 8
     });
 
-    map.on('click', onclickevent);
+    //map.on('click', onclickevent);
 
     L.control.zoom({
         position: 'topright'
@@ -296,13 +201,7 @@ function run() {
                     { color: "rgb(0, 0, 0, 0)", weight: 2 })
                 rectangles[territory["name"]] = rectangle;
                 rectangle.on('click', function () {
-                    if (selectedTerritory.includes(territory.name)) {
-                        selectedTerritory = selectedTerritory.filter(index => index != territory.name);
-                    }
-                    else
-                        selectedTerritory.push(territory.name);
-                    console.log('Selected ' + selectedTerritory);
-                    reloadMenu();
+
                 });
                 rectangle.addTo(map);
             }
@@ -314,85 +213,118 @@ function run() {
     //on zoom end, update map based on zoom
     map.on('zoomend', () => {
         prevZoom = map.getZoom();
+        setTimeout(render, 500);
     });
 
     //setInterval(render, 2000)
 }
 
+function drawBetween(g1, g2) {
+    if (!g1 || !g2) {
+        console.log("not drawing line, terr does not exist");
+        return false;
+    }
+    let territory1 = territories.find(x => x.name.toLowerCase().replace('’', "'") == g1.toLowerCase());
+    let territory2 = territories.find(x => x.name.toLowerCase().replace('’', "'") == g2.toLowerCase());
+    if (!territory1 || !territory2) {
+        console.log("not drawing line, terr does not exist", g1, g2);
+        return false;
+    }
+
+
+    //
+    let bounds = [[], []];
+    let smaller, bigger;
+    let f = parseInt(territory1["start"].split(",")[0]);
+    let s = parseInt(territory1["end"].split(",")[0]);
+    if (f > s) {
+        smaller = s;
+        bigger = f;
+    }
+    else {
+        smaller = f;
+        bigger = s;
+    }
+    let diffx = bigger - smaller;
+    diffx /= 2;
+    bounds[0].push(bigger - diffx);
+
+    //
+    f = parseInt(territory1["start"].split(",")[1]);
+    s = parseInt(territory1["end"].split(",")[1]);
+    if (f > s) {
+        smaller = s;
+        bigger = f;
+    }
+    else {
+        smaller = f;
+        bigger = s;
+    }
+    let diffz = bigger - smaller;
+    diffz /= 2;
+    bounds[0].push(bigger - diffz);
+
+    f = parseInt(territory2["start"].split(",")[0]);
+    s = parseInt(territory2["end"].split(",")[0]);
+    if (f > s) {
+        smaller = s;
+        bigger = f;
+    }
+    else {
+        smaller = f;
+        bigger = s;
+    }
+    diffx = bigger - smaller;
+    diffx /= 2;
+    bounds[1].push(bigger - diffx);
+
+    f = parseInt(territory2["start"].split(",")[1]);
+    s = parseInt(territory2["end"].split(",")[1]);
+    if (f > s) {
+        smaller = s;
+        bigger = f;
+    }
+    else {
+        smaller = f;
+        bigger = s;
+    }
+    diffz = bigger - smaller;
+    diffz /= 2;
+    bounds[1].push(bigger - diffz);
+
+    // bounds[0] = [bounds[0][0], bounds[0][2]];
+    // bounds[1] = [bounds[1][0], bounds[1][2]];
+    for (let i in bounds) {
+        bounds[i][0] *= .001
+        bounds[i][1] *= .001
+    }
+
+    bounds[0].reverse();
+    bounds[1].reverse();
+
+    bounds[0][0] *= -1;
+    bounds[1][0] *= -1;
+    if (index >= colors.length)
+        index = 0;
+    return L.polyline(bounds, { color: colors[0] }).addTo(map);
+}
+
+let colors = ['red', 'magenta', 'yellow', 'blue'];
+let index = 0;
+
+function drawRoutes() {
+    for (const name in newTerritoryData) {
+        let x = newTerritoryData[name];
+        for (const route of x.Routes) {
+            let r = drawBetween(name, route);
+            if (r)
+                routes.push(r);
+        }
+    }
+}
+
 function reloadLegend() {
-    // Empty out the current list
-    $('#guild-list').empty();
-    // Get data for new list
-    var data = [];
-    var pos = 0;
-    let ownedterrs = 0;
-    Guilds.forEach(g => {
-        let name = g.name;
-        let color = g.mapcolor
-        let currPos = pos;
-        data[currPos] = [name, color, 0];
-        for (let i in Territories) {
-            let owner = Territories[i];
-            if (owner === name) {
-                data[currPos][2]++;
-                ownedterrs++;
-            }
-        }
-        pos++;
-    });
-    // Add data to legend
-    data.sort((a, b) => b[2] - a[2]);
-    console.log(data);
-    let ffas = territories.length - ownedterrs;
-    $('#guild-list').append(`
-      <div>
-      <a href="javascript:void(0)" data-target="#FFA-terrs" data-toggle="collapse" aria-expanded="false" aria-controls="FFA-terrs">
-            <span class="guild-color" style="background-color: #FFFFFF"></span>
-            <span class="menu-text guild-name">FFA - ${ffas}</span>
-        </a>
-      </div>
-      <div class="collapse" id="FFA-terrs">
-          <ul id="FFA-terr-list">
-          </ul>
-       </div>
-      `);
-    let terrs = [];
-    for (let i in Territories) {
-        if (!Territories[i] || Territories[i] === '-') {
-            terrs.push(i);
-        }
-    }
-    terrs.sort();
-    for (let terr of terrs) {
-        $(`#FFA-terr-list`).append(`
-            <li><span class="menu-text guild-name">${terr}</span></li>
-            `);
-    }
-    data.forEach(d => {
-        $('#guild-list').append(`
-          <div>
-            <a href="javascript:void(0)" data-target="#${d[0]}-terrs" data-toggle="collapse" aria-expanded="false" aria-controls="${d[0]}-terrs">
-                <span class="guild-color" style="background-color: ${d[1]}"></span>
-                <span class="menu-text guild-name">${d[0]} - ${d[2]}</span>
-            </a>
-          </div>
-          <div class="collapse" id="${d[0]}-terrs">
-            <ul id="${d[0]}-terr-list">
-            </ul>
-          </div>`);
-        let terrs = [];
-        for (let i in Territories) {
-            if (Territories[i] === d[0]) {
-                terrs.push(i);
-            }
-        }
-        terrs.sort();
-        for (let terr of terrs) {
-            $(`#${d[0]}-terr-list`).append(`
-              <li><span class="menu-text guild-name">${terr}</span></li>
-              `);
-        }
-    })
+
 }
 function reloadMenu() {
     // Change menu to territory
@@ -548,17 +480,6 @@ function pullApi() {
         })
 }
 
-function getData() {
-    var Data;
-    function callback(data) {
-        console.log("Data obtained successfully");
-        Data = data
-        actual_JSON = data;
-    }
-    var jqxhr = $.getJSON("guildTags.json", callback);
-    return Data;
-}
-
 function checkRectOverlap(rect1, rect2) {
     /*
      * Each array in parameter is one rectangle
@@ -583,33 +504,89 @@ function checkRectOverlap(rect1, rect2) {
 
 function render() {
     console.log("RENDERING");
+    if (!visible) changeVisibility();
     Object.keys(Territories).forEach(territory => {
-        let guild = Territories[territory];
-        if (!guild || guild === "-") {
-            rectangles[territory].unbindTooltip();
-            rectangles[territory].bindTooltip('<span class="territoryGuildName" style="color: #FFFFFF">FFA</span>', { sticky: true, interactive: false, permanent: true, direction: 'center', className: 'territoryName', opacity: 1 })
-            rectangles[territory].setStyle({
-                color: 'rgba(255,255,255,1)'
-            });
-        } else {
-            for (let i in Guilds) {
-                if (Guilds[i].name === guild) {
-                    rectangles[territory].unbindTooltip();
-                    rectangles[territory].bindTooltip('<span class="territoryGuildName" style="color: ' + Guilds[i].mapcolor + '">' + Guilds[i].name + '</span>', { sticky: true, interactive: false, permanent: true, direction: 'center', className: 'territoryName', opacity: 1 })
-                    rectangles[territory].setStyle({
-                        color: Guilds[i].mapcolor,
-                    });
-                    break;
+        rectangles[territory].unbindTooltip();
+        rectangles[territory].unbindPopup();
+        if (map.getZoom() >= 9 && visible)
+            rectangles[territory].bindTooltip('<span class="territoryGuildName" style="color: #FFFFFF">' + territory + '</span>', { sticky: true, interactive: false, permanent: true, direction: 'center', className: 'territoryName', opacity: 1 })
+        let c;
+        let oldtn = territory;
+        territory = territory.replace('’', "'");
+        if (newTerritoryData[territory]) {
+            let x = newTerritoryData[territory];
+            if (x.Resources.length > 1) {
+                c = red;
+            }
+            else {
+                switch (x.Resources[0]) {
+                    case "Wood":
+                        c = brown;
+                        break;
+                    case "Ore":
+                        c = gray;
+                        break;
+                    case "Fish":
+                        c = blue;
+                        break;
+                    case "Crops":
+                        c = yellow;
+                        break;
                 }
             }
         }
+        else
+            c = "#ffffff";
+        rectangles[oldtn].setStyle({
+            color: c
+        });
     });
-    if (!visible) changeVisibility();
     reloadLegend();
 }
+
+let red = "#e80c0c";
+let blue = "#0f1ddb";
+let brown = "#45160a";
+let yellow = "#fffb17";
+let gray = "#82827c";
 
 function changeVisibility() {
     Object.keys(Territories).forEach(territory => {
         rectangles[territory].unbindTooltip();
     });
+}
+
+let routesOn = false;
+let routes = [];
+
+function showr() {
+    routesOn = !routesOn;
+    if (routesOn)
+        document.getElementById("showr").value = "Hide routes";
+    else
+        document.getElementById("showr").value = "Show routes";
+
+    if (routesOn) {
+        drawRoutes();
+    }
+    else {
+        for (const x of routes) {
+            try {
+                map.removeLayer(x);
+            } catch (error) {
+
+            }
+        }
+        routes = [];
+    }
+}
+
+function shownames() {
+    visible = !visible;
+    if (visible)
+        document.getElementById("shown").value = "Hide territory names";
+    else
+        document.getElementById("shown").value = "Show territory names";
+
+    render();
 }

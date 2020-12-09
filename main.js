@@ -24,7 +24,7 @@ $(document).ready(function () {
     //     realButton.addEventListener('change', importMap, false);
     // });
     newTerritoryData = JSON.parse(newTerritoryData);
-    run();
+    initTerrs();
 });
 
 class Guild {
@@ -65,14 +65,26 @@ function addguild() {
     alert("Successfully added the guild!");
 }
 
+let territories;
+
 function initTerrs() {
     var xhttp = new XMLHttpRequest();
     xhttp.onreadystatechange = function () {
         if (this.readyState == 4 && this.status == 200) {
             territories = JSON.parse(this.responseText);
+            //ADD FILTER HERE
+            territories = territories.filter(x => newTerritoryData.hasOwnProperty(x.name));
+            for (const x in newtloc) {
+                let a = {};
+                a.start = newtloc[x].start;
+                a.end = newtloc[x].end;
+                a.name = x;
+                territories.push(a);
+            }
             for (let i in territories) {
                 Territories[territories[i].name] = null;
             }
+            run();
         }
     };
     xhttp.open("GET", "https://raw.githubusercontent.com/DevScyu/Wynn/master/territories.json", true);
@@ -138,7 +150,6 @@ function toggleLegend() {
 }
 
 function run() {
-    initTerrs();
     // initializing map
     let bounds = [];
     let images = [];
@@ -181,34 +192,29 @@ function run() {
     let prevZoom = 7;
 
     //setting up territories
-    fetch("https://raw.githubusercontent.com/DevScyu/Wynn/master/territories.json")
-        .then(response =>
-            response.json())
-        .then(json => {
-            for (let territory of json) {
-                let bounds = [territory["start"].split(","), territory["end"].split(",")];
-                for (let i in bounds) {
-                    bounds[i][0] *= .001
-                    bounds[i][1] *= .001
-                }
+    for (let territory of territories) {
+        let bounds = [territory["start"].split(","), territory["end"].split(",")];
+        for (let i in bounds) {
+            bounds[i][0] *= .001
+            bounds[i][1] *= .001
+        }
 
-                bounds[0].reverse();
-                bounds[1].reverse();
+        bounds[0].reverse();
+        bounds[1].reverse();
 
-                bounds[0][0] *= -1;
-                bounds[1][0] *= -1;
-                let rectangle = L.rectangle(bounds,
-                    { color: "rgb(0, 0, 0, 0)", weight: 2 })
-                rectangles[territory["name"]] = rectangle;
-                rectangle.on('click', function () {
+        bounds[0][0] *= -1;
+        bounds[1][0] *= -1;
+        let rectangle = L.rectangle(bounds,
+            { color: "rgb(0, 0, 0, 0)", weight: 2 })
+        rectangles[territory["name"]] = rectangle;
+        rectangle.on('click', function () {
 
-                });
-                rectangle.addTo(map);
-            }
-        }).then(() => {
-            render();
-            reloadLegend();
         });
+        rectangle.addTo(map);
+    }
+
+    render();
+    reloadLegend();
 
     //on zoom end, update map based on zoom
     map.on('zoomend', () => {
@@ -515,6 +521,7 @@ function render() {
         territory = territory.replace('’', "'");
         if (newTerritoryData[territory]) {
             let x = newTerritoryData[territory];
+            rectangles[oldtn].bindPopup(`<b>${territory}</b><br><b>Resources:</b><br>${x.Resources.toString().replaceAll(",", "<br>")}<br><b>Trade routes:</b><br>${x.Routes.toString().replaceAll(",", "<br>")}`);
             if (x.Resources.length > 1) {
                 c = red;
             }

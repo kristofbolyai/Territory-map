@@ -208,7 +208,15 @@ function run() {
             { color: "rgb(0, 0, 0, 0)", weight: 2 })
         rectangles[territory["name"]] = rectangle;
         rectangle.on('click', function () {
-
+            if (selmode) {
+                if (!selected.includes(territory.name))
+                    selected.push(territory.name);
+                else
+                {
+                    selected = selected.filter(x => x !== territory.name);
+                }
+            }
+            updatesel();
         });
         rectangle.addTo(map);
     }
@@ -544,6 +552,8 @@ function render() {
         }
         else
             c = "#ffffff";
+        if (selected.includes(territory))
+            c = green;
         rectangles[oldtn].setStyle({
             color: c
         });
@@ -556,6 +566,7 @@ let blue = "#0f1ddb";
 let brown = "#45160a";
 let yellow = "#fffb17";
 let gray = "#82827c";
+let green = '#09d60f';
 
 function changeVisibility() {
     Object.keys(Territories).forEach(territory => {
@@ -597,3 +608,45 @@ function shownames() {
 
     render();
 }
+
+let selected = [];
+let selmode = false;
+
+function sel() {
+    selmode = !selmode;
+    if (!selmode)
+    {
+        document.getElementById("sel").value = "Turn on select mode";
+        selected = [];
+        updatesel();
+    }
+    else
+        document.getElementById("sel").value = "Turn off select mode";
+}
+
+function updatesel()
+{
+    setTimeout(render, 1);
+    var ul = document.getElementById("sellist");
+    var selc = document.getElementById("selcount");
+    selc.innerText = `Selected territories (${selected.length})`;
+    ul.innerHTML = '';
+    for (const x of selected) {
+        var li = document.createElement("li");
+        li.appendChild(document.createTextNode(x));
+        ul.appendChild(li);
+    }
+}
+
+function copy()
+{
+    updateClipboard(btoa(selected.toString()));
+}
+
+function updateClipboard(newClip) {
+    navigator.clipboard.writeText(newClip).then(function() {
+      /* clipboard successfully set */
+    }, function() {
+      /* clipboard write failed */
+    });
+  }

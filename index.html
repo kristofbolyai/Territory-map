@@ -3,21 +3,17 @@
 
 <head>
 
-	<title>Wynn Map Maker</title>
+	<title>Wynncraft 1.20 BETA Map</title>
 
 
 	<link rel="stylesheet" type="text/css" href="./main.css" />
 
 	<meta charset="utf-8" />
-	<meta name="description" content="Wynncraft Custom Territory Map Maker">
+	<meta name="description" content="Wynncraft 1.20 BETA Map">
 	<meta name="keywords" content="wynn,map,maker,territories">
-	<meta name="author" content="bolyai & Nitrogen2Oxygen">
+	<meta name="author" content="bolyai">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta property="og:title" content="Wynn Map Maker">
-	<meta property="og:description" content="Wynncraft Custom Territory Map Maker">
-	<meta property="og:image" content="https://wynnmapmaker.tk/map.jpg">
-	<meta property="og:url" content="https://wynnmapmaker.tk/">
-
 
 	<link rel="icon" href="favicon.ico">
 
@@ -48,11 +44,19 @@
 			<div style="overflow: scroll;" id="menu">
 				<div class="menu-section">
 					<p class="menu-text menu-title guild-name">Wynncraft 1.20 Map</p>
-					<p class="menu-text guild-name">Version 1.0.0</p>
+					<p class="menu-text guild-name">Version 1.1.3</p>
 				</div>
 				<hr style="width: 100%; color: black; height: 1px; background-color:white;" />
 				<input id="showr" class="input-button" type="button" value="Show routes" onclick="showr()">
 				<input id="shown" class="input-button" type="button" value="Show territory names" onclick="shownames()">
+				<hr style="width: 100%; color: black; height: 1px; background-color:white;" />
+				<input id="sel" class="input-button" type="button" value="Turn on select mode" onclick="sel()">
+				<input id="copy" class="input-button" type="button" value="Copy data" onclick="copy()">
+				<hr style="width: 100%; color: black; height: 1px; background-color:white;" />
+				<h3 id="selcount" style="color: white;margin-left: 5%;">Selected territories (0)</h3>
+				<ul id = "sellist" style="color: white">
+					
+				</ul>
 				<hr style="width: 100%; color: black; height: 1px; background-color:white;" />
 				<div class="menu-section">
 					<p class="menu-text menu-title guild-name">Credits</p>
@@ -65,7 +69,7 @@
 							<a href="https://br0kenmotor.github.io/map" target="_blank">br0kenmotor.github.io</a> for
 							the original map layout<br>
 							<br><br>
-							@bolyai#8857<br>
+							bolyai#8857<br>
 							Unaffiliated with the Wynncraft server
 						</p>
 					</div>

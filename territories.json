@@ -5,6 +5,11 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Fish"
         ]
     },
     "Maro Peaks": {
@@ -14,6 +19,13 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Olux": {
@@ -25,6 +37,13 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Plains": {
@@ -35,6 +54,11 @@
             "Maltic Plains"
         ],
         "Resources": [
+            "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood",
             "Crops"
         ]
     },
@@ -47,6 +71,13 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Path To Thanos": {
@@ -56,6 +87,11 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Fish"
         ]
     },
     "Light Realm East Lower": {
@@ -63,14 +99,16 @@
             "Light Realm East",
             "Orphion's Seal"
         ],
-        "Resources": []
+        "Resources": [],
+        "Storage": []
     },
     "Light Realm Mushrooms": {
         "Routes": [
             "Light Realm Corruption",
             "Orphion's Seal"
         ],
-        "Resources": []
+        "Resources": [],
+        "Storage": []
     },
     "Mining Base Lower": {
         "Routes": [
@@ -78,6 +116,13 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Savannah West Lower": {
@@ -87,6 +132,10 @@
             "Savannah West Upper"
         ],
         "Resources": [
+            "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
             "Crops"
         ]
     },
@@ -99,6 +148,12 @@
         ],
         "Resources": [
             "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Ragni North Entrance": {
@@ -108,6 +163,11 @@
             "Ragni"
         ],
         "Resources": [
+            "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood",
             "Crops"
         ]
     },
@@ -121,6 +181,13 @@
         ],
         "Resources": [
             "Fish"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Llevigar Plains West Lower": {
@@ -132,6 +199,10 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore"
         ]
     },
     "Nesaak Plains South East": {
@@ -142,6 +213,10 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood"
         ]
     },
     "Royal Gate": {
@@ -149,6 +224,10 @@
             "Phinas Farm"
         ],
         "Resources": [
+            "Fish"
+        ],
+        "Storage": [
+            "Emeralds",
             "Fish"
         ]
     },
@@ -162,6 +241,13 @@
         ],
         "Resources": [
             "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Llevigar Plains East Lower": {
@@ -172,6 +258,10 @@
             "Llevigar Farm Plains East"
         ],
         "Resources": [
+            "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
             "Ore"
         ]
     },
@@ -184,6 +274,10 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood"
         ]
     },
     "Swamp Dark Forest Transition Upper": {
@@ -193,6 +287,10 @@
             "Swamp Dark Forest Transition Mid"
         ],
         "Resources": [
+            "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
             "Ore"
         ]
     },
@@ -205,6 +303,13 @@
         ],
         "Resources": [
             "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Active Volcano": {
@@ -214,6 +319,10 @@
             "Volcanic Slope"
         ],
         "Resources": [
+            "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
             "Ore"
         ]
     },
@@ -226,6 +335,13 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Aldorei Lowlands": {
@@ -236,6 +352,11 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood",
+            "Crops"
         ]
     },
     "Dernel Jungle Mid": {
@@ -244,6 +365,10 @@
             "Dernel Jungle Upper"
         ],
         "Resources": [
+            "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
             "Wood"
         ]
     },
@@ -255,6 +380,10 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood"
         ]
     },
     "Llevigar Gate East": {
@@ -265,6 +394,10 @@
             "Llevigar Farm Plains East"
         ],
         "Resources": [
+            "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
             "Ore"
         ]
     },
@@ -278,6 +411,11 @@
         ],
         "Resources": [
             "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood",
+            "Crops"
         ]
     },
     "Swamp East Mid-Upper": {
@@ -288,6 +426,10 @@
             "Swamp East Upper"
         ],
         "Resources": [
+            "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
             "Ore"
         ]
     },
@@ -300,6 +442,10 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood"
         ]
     },
     "Sanctuary Bridge": {
@@ -308,6 +454,11 @@
             "Nesaak Plains Upper North West"
         ],
         "Resources": [
+            "Fish"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood",
             "Fish"
         ]
     },
@@ -320,6 +471,13 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Desert West Upper": {
@@ -328,6 +486,10 @@
             "Desert Upper"
         ],
         "Resources": [
+            "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
             "Crops"
         ]
     },
@@ -338,6 +500,10 @@
             "Swamp West Mid-Upper"
         ],
         "Resources": [
+            "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
             "Ore"
         ]
     },
@@ -351,6 +517,11 @@
         ],
         "Resources": [
             "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood",
+            "Crops"
         ]
     },
     "Gert Camp": {
@@ -360,6 +531,13 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Savannah West Upper": {
@@ -370,6 +548,13 @@
             "Cathedral Harbour"
         ],
         "Resources": [
+            "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
             "Crops"
         ]
     },
@@ -382,6 +567,12 @@
         ],
         "Resources": [
             "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Fish",
+            "Crops"
         ]
     },
     "Ahmsord": {
@@ -393,6 +584,13 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Swamp Mountain Transition Mid": {
@@ -403,6 +601,10 @@
         ],
         "Resources": [
             "Fish"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Fish"
         ]
     },
     "Bob's Tomb": {
@@ -412,6 +614,10 @@
             "Nesaak Village"
         ],
         "Resources": [
+            "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
             "Wood"
         ]
     },
@@ -424,6 +630,10 @@
         ],
         "Resources": [
             "Fish"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Fish"
         ]
     },
     "Rymek West Upper": {
@@ -435,6 +645,10 @@
         ],
         "Resources": [
             "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Crops"
         ]
     },
     "Canyon Valley South": {
@@ -445,6 +659,11 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Fish"
         ]
     },
     "Lutho": {
@@ -453,6 +672,13 @@
             "Sinister Forest"
         ],
         "Resources": [
+            "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
             "Crops"
         ]
     },
@@ -464,6 +690,10 @@
             "Sunspark Camp"
         ],
         "Resources": [
+            "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
             "Ore"
         ]
     },
@@ -477,6 +707,13 @@
         ],
         "Resources": [
             "Fish"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Canyon Path North Mid": {
@@ -488,6 +725,11 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Fish"
         ]
     },
     "The Silent Road": {
@@ -496,6 +738,13 @@
             "Mine Base Plains"
         ],
         "Resources": [
+            "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
             "Crops"
         ]
     },
@@ -507,6 +756,13 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Gylia Lake South West": {
@@ -517,6 +773,13 @@
         ],
         "Resources": [
             "Fish"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Canyon Mountain East": {
@@ -526,6 +789,13 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Plains Lake": {
@@ -536,6 +806,13 @@
             "Nether Plains Upper"
         ],
         "Resources": [
+            "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
             "Crops"
         ]
     },
@@ -548,6 +825,13 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Dark Forest Cinfras Transition": {
@@ -558,6 +842,13 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Nether Plains Lower": {
@@ -569,6 +860,10 @@
         ],
         "Resources": [
             "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Crops"
         ]
     },
     "Cliffside Lake": {
@@ -578,6 +873,13 @@
         ],
         "Resources": [
             "Fish"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Nemract Plains West": {
@@ -588,6 +890,13 @@
             "Nivla Woods Edge"
         ],
         "Resources": [
+            "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
             "Crops"
         ]
     },
@@ -600,6 +909,13 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Ranol's Farm": {
@@ -609,6 +925,13 @@
             "Thesead Suburbs"
         ],
         "Resources": [
+            "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
             "Crops"
         ]
     },
@@ -620,6 +943,13 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Twain Mansion": {
@@ -627,6 +957,11 @@
             "Twain Lake"
         ],
         "Resources": [
+            "Fish"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood",
             "Fish"
         ]
     },
@@ -638,6 +973,10 @@
         ],
         "Resources": [
             "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Crops"
         ]
     },
     "Worm Tunnel": {
@@ -646,6 +985,13 @@
             "Grey Ruins"
         ],
         "Resources": [
+            "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
             "Crops"
         ]
     },
@@ -658,6 +1004,13 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Bremminglar": {
@@ -666,6 +1019,10 @@
             "Savannah West Upper"
         ],
         "Resources": [
+            "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
             "Crops"
         ]
     },
@@ -677,6 +1034,13 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Nesaak Bridge Transition": {
@@ -686,6 +1050,10 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood"
         ]
     },
     "Thanos Valley West": {
@@ -694,6 +1062,11 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Fish"
         ]
     },
     "Llevigar Entrance": {
@@ -702,6 +1075,13 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Volcanic Slope": {
@@ -710,6 +1090,10 @@
             "Lava Lake"
         ],
         "Resources": [
+            "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
             "Ore"
         ]
     },
@@ -722,6 +1106,10 @@
         ],
         "Resources": [
             "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Crops"
         ]
     },
     "Canyon Waterfall Mid North": {
@@ -732,6 +1120,11 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Fish"
         ]
     },
     "Canyon Waterfall North": {
@@ -739,6 +1132,10 @@
             "Canyon Upper North West"
         ],
         "Resources": [
+            "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
             "Ore"
         ]
     },
@@ -751,6 +1148,13 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Pirate Town": {
@@ -761,6 +1165,13 @@
         ],
         "Resources": [
             "Fish"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Aldorei Valley Lower": {
@@ -769,6 +1180,13 @@
             "Aldorei Valley Mid"
         ],
         "Resources": [
+            "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
             "Crops"
         ]
     },
@@ -782,6 +1200,10 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood"
         ]
     },
     "Rymek West Mid": {
@@ -791,6 +1213,10 @@
             "Rymek West Lower"
         ],
         "Resources": [
+            "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
             "Crops"
         ]
     },
@@ -804,6 +1230,10 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood"
         ]
     },
     "Nodguj Nation": {
@@ -816,6 +1246,13 @@
         ],
         "Resources": [
             "Fish"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Icy Descent": {
@@ -824,6 +1261,10 @@
             "Lusuco"
         ],
         "Resources": [
+            "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
             "Wood"
         ]
     },
@@ -835,6 +1276,11 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Crops"
         ]
     },
     "Llevigar Farm Plains East": {
@@ -846,6 +1292,10 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore"
         ]
     },
     "Hobbit River": {
@@ -855,6 +1305,10 @@
             "Light Forest West Lower"
         ],
         "Resources": [
+            "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
             "Wood"
         ]
     },
@@ -867,6 +1321,10 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood"
         ]
     },
     "Corkus Docks": {
@@ -874,6 +1332,10 @@
             "Corkus Mountain"
         ],
         "Resources": [
+            "Fish"
+        ],
+        "Storage": [
+            "Emeralds",
             "Fish"
         ]
     },
@@ -885,6 +1347,10 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood"
         ]
     },
     "Canyon Upper North West": {
@@ -894,6 +1360,13 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Ahmsord Outskirts": {
@@ -905,6 +1378,13 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Desert West Lower": {
@@ -915,6 +1395,10 @@
         ],
         "Resources": [
             "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Crops"
         ]
     },
     "Swamp West Mid-Upper": {
@@ -924,6 +1408,10 @@
             "Swamp West Mid"
         ],
         "Resources": [
+            "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
             "Ore"
         ]
     },
@@ -937,6 +1425,13 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Krolton's Cave": {
@@ -948,6 +1443,13 @@
         ],
         "Resources": [
             "Fish"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Desert East Upper": {
@@ -955,6 +1457,10 @@
             "Desert East Mid"
         ],
         "Resources": [
+            "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
             "Crops"
         ]
     },
@@ -966,6 +1472,13 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Paths of Sludge": {
@@ -974,6 +1487,13 @@
             "Lutho"
         ],
         "Resources": [
+            "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
             "Crops"
         ]
     },
@@ -986,6 +1506,10 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood"
         ]
     },
     "Spiraling Trees": {
@@ -993,7 +1517,8 @@
             "Light Realm Entrance",
             "Road to Corruption"
         ],
-        "Resources": []
+        "Resources": [],
+        "Storage": []
     },
     "Arachnid Route": {
         "Routes": [
@@ -1003,6 +1528,11 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood",
+            "Crops"
         ]
     },
     "Lone Farmstead": {
@@ -1012,6 +1542,10 @@
             "Abandoned Manor"
         ],
         "Resources": [
+            "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
             "Wood"
         ]
     },
@@ -1023,6 +1557,13 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Road to Elkurn": {
@@ -1033,6 +1574,11 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood",
+            "Crops"
         ]
     },
     "Cinfras": {
@@ -1044,6 +1590,13 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Rooster Island": {
@@ -1055,6 +1608,13 @@
         ],
         "Resources": [
             "Fish"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Swamp Plains Basin": {
@@ -1066,6 +1626,10 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore"
         ]
     },
     "Canyon Dropoff": {
@@ -1074,6 +1638,10 @@
             "Cliff Side of the Lost"
         ],
         "Resources": [
+            "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
             "Ore"
         ]
     },
@@ -1084,6 +1652,12 @@
         ],
         "Resources": [
             "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Tree Island": {
@@ -1093,6 +1667,13 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Light Realm East Mid-Upper": {
@@ -1101,7 +1682,8 @@
             "Light Realm Entrance Upper",
             "Light Realm East Upper"
         ],
-        "Resources": []
+        "Resources": [],
+        "Storage": []
     },
     "Aldorei Valley Mid": {
         "Routes": [
@@ -1109,6 +1691,13 @@
             "Aldorei Valley Lower"
         ],
         "Resources": [
+            "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
             "Crops"
         ]
     },
@@ -1120,6 +1709,13 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "South Farmers Valley": {
@@ -1132,6 +1728,11 @@
         ],
         "Resources": [
             "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood",
+            "Crops"
         ]
     },
     "Katoa Ranch": {
@@ -1140,6 +1741,11 @@
             "Ragni North Suburbs"
         ],
         "Resources": [
+            "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood",
             "Crops"
         ]
     },
@@ -1152,6 +1758,10 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood"
         ]
     },
     "Ragni North Suburbs": {
@@ -1161,6 +1771,11 @@
             "Ragni Plains"
         ],
         "Resources": [
+            "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood",
             "Crops"
         ]
     },
@@ -1173,6 +1788,10 @@
         ],
         "Resources": [
             "Fish"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Fish"
         ]
     },
     "Durum Isles Lower": {
@@ -1183,6 +1802,10 @@
         ],
         "Resources": [
             "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Crops"
         ]
     },
     "Wizard Tower North": {
@@ -1192,6 +1815,11 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Fish"
         ]
     },
     "Orc Battlegrounds": {
@@ -1201,6 +1829,13 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Light Forest South Exit": {
@@ -1210,6 +1845,13 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Thanos": {
@@ -1221,6 +1863,10 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore"
         ]
     },
     "Path To Ozoth's Spire Lower": {
@@ -1229,6 +1875,10 @@
             "Thanos"
         ],
         "Resources": [
+            "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
             "Ore"
         ]
     },
@@ -1242,6 +1892,10 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore"
         ]
     },
     "Cinfras County Mid-Lower": {
@@ -1252,6 +1906,10 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood"
         ]
     },
     "Tower of Ascension": {
@@ -1259,6 +1917,10 @@
             "Icy Descent"
         ],
         "Resources": [
+            "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
             "Wood"
         ]
     },
@@ -1271,6 +1933,13 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Path To Military Base": {
@@ -1280,6 +1949,11 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Fish"
         ]
     },
     "Nivla Woods": {
@@ -1291,6 +1965,12 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Cliffside Waterfall": {
@@ -1299,13 +1979,19 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Fish"
         ]
     },
     "Frozen Fort": {
         "Routes": [
             "Sky Falls"
         ],
-        "Resources": []
+        "Resources": [],
+        "Storage": []
     },
     "Path to Cinfras": {
         "Routes": [
@@ -1314,6 +2000,13 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Light Realm Entrance Upper": {
@@ -1323,7 +2016,8 @@
             "Light Realm East Mid-Upper",
             "Light Realm Entrance"
         ],
-        "Resources": []
+        "Resources": [],
+        "Storage": []
     },
     "Temple Island": {
         "Routes": [
@@ -1335,6 +2029,13 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Rymek East Lower": {
@@ -1343,6 +2044,10 @@
             "Rymek East Mid"
         ],
         "Resources": [
+            "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
             "Ore"
         ]
     },
@@ -1353,6 +2058,13 @@
         ],
         "Resources": [
             "Fish"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Kandon-Beda": {
@@ -1360,6 +2072,10 @@
             "Canyon Of The Lost"
         ],
         "Resources": [
+            "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
             "Ore"
         ]
     },
@@ -1371,6 +2087,11 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Crops"
         ]
     },
     "South Nivla Woods": {
@@ -1383,6 +2104,11 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood",
+            "Crops"
         ]
     },
     "Heart of Decay": {
@@ -1392,6 +2118,10 @@
             "Mushroom Hill"
         ],
         "Resources": [
+            "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
             "Wood"
         ]
     },
@@ -1403,6 +2133,10 @@
         ],
         "Resources": [
             "Fish"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Fish"
         ]
     },
     "Quartz Mines South West": {
@@ -1413,6 +2147,13 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Pigmen Ravines": {
@@ -1422,6 +2163,11 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood"
         ]
     },
     "Mushroom Hill": {
@@ -1433,6 +2179,11 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood",
+            "Crops"
         ]
     },
     "Avos Workshop": {
@@ -1440,6 +2191,10 @@
             "Avos Temple"
         ],
         "Resources": [
+            "Fish"
+        ],
+        "Storage": [
+            "Emeralds",
             "Fish"
         ]
     },
@@ -1453,6 +2208,10 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood"
         ]
     },
     "Desert Mid-Lower": {
@@ -1465,6 +2224,10 @@
         ],
         "Resources": [
             "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Crops"
         ]
     },
     "Light Forest West Upper": {
@@ -1476,6 +2239,10 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood"
         ]
     },
     "Swamp Mountain Transition Lower": {
@@ -1483,6 +2250,10 @@
             "Swamp Mountain Transition Mid"
         ],
         "Resources": [
+            "Fish"
+        ],
+        "Storage": [
+            "Emeralds",
             "Fish"
         ]
     },
@@ -1495,6 +2266,13 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Corkus City Mine": {
@@ -1504,6 +2282,10 @@
             "Corkus Sea Cove"
         ],
         "Resources": [
+            "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
             "Ore"
         ]
     },
@@ -1517,6 +2299,13 @@
         ],
         "Resources": [
             "Fish"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Light Forest Entrance": {
@@ -1528,6 +2317,13 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Jofash Docks": {
@@ -1538,6 +2334,10 @@
         ],
         "Resources": [
             "Fish"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Fish"
         ]
     },
     "Bandit Camp Exit": {
@@ -1547,6 +2347,10 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore"
         ]
     },
     "Coastal Trail": {
@@ -1555,6 +2359,12 @@
             "Ragni Plains"
         ],
         "Resources": [
+            "Fish",
+            "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood",
             "Fish",
             "Crops"
         ]
@@ -1569,6 +2379,13 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Thanos Exit Upper": {
@@ -1581,6 +2398,13 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Ragni Main Entrance": {
@@ -1591,6 +2415,10 @@
         ],
         "Resources": [
             "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Crops"
         ]
     },
     "Ghostly Path": {
@@ -1599,6 +2427,10 @@
             "Burning Farm"
         ],
         "Resources": [
+            "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
             "Ore"
         ]
     },
@@ -1610,6 +2442,11 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Fish"
         ]
     },
     "Canyon Fortress": {
@@ -1618,6 +2455,10 @@
             "Valley of the Lost"
         ],
         "Resources": [
+            "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
             "Ore"
         ]
     },
@@ -1629,6 +2470,13 @@
             "Nether Plains Upper"
         ],
         "Resources": [
+            "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
             "Crops"
         ]
     },
@@ -1643,6 +2491,13 @@
         ],
         "Resources": [
             "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Entrance to Thesead South": {
@@ -1654,6 +2509,13 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Elkurn": {
@@ -1665,6 +2527,11 @@
         ],
         "Resources": [
             "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood",
+            "Crops"
         ]
     },
     "Mummy's Tomb": {
@@ -1672,6 +2539,10 @@
             "Desert Upper"
         ],
         "Resources": [
+            "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
             "Crops"
         ]
     },
@@ -1681,6 +2552,10 @@
             "Canyon Path North West"
         ],
         "Resources": [
+            "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
             "Ore"
         ]
     },
@@ -1693,6 +2568,13 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Thesead Suburbs": {
@@ -1704,6 +2586,13 @@
         ],
         "Resources": [
             "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Dernel Jungle Upper": {
@@ -1711,6 +2600,11 @@
             "Dernel Jungle Mid"
         ],
         "Resources": [
+            "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
             "Wood"
         ]
     },
@@ -1721,6 +2615,11 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Fish"
         ]
     },
     "Desert Mid-Upper": {
@@ -1732,6 +2631,10 @@
         ],
         "Resources": [
             "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Crops"
         ]
     },
     "Meteor Crater": {
@@ -1742,6 +2645,10 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore"
         ]
     },
     "Forgotten Town": {
@@ -1751,13 +2658,21 @@
         ],
         "Resources": [
             "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Light Realm East": {
         "Routes": [
             "Light Realm East Lower"
         ],
-        "Resources": []
+        "Resources": [],
+        "Storage": []
     },
     "Nemract Quarry": {
         "Routes": [
@@ -1766,6 +2681,10 @@
             "Nemract Road"
         ],
         "Resources": [
+            "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
             "Crops"
         ]
     },
@@ -1780,6 +2699,13 @@
         ],
         "Resources": [
             "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Swamp West Upper": {
@@ -1791,6 +2717,10 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore"
         ]
     },
     "Savannah East Upper": {
@@ -1800,6 +2730,10 @@
             "Savannah West Upper"
         ],
         "Resources": [
+            "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
             "Crops"
         ]
     },
@@ -1812,6 +2746,13 @@
         ],
         "Resources": [
             "Fish"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Sunspark Camp": {
@@ -1824,6 +2765,11 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Crops"
         ]
     },
     "Icy Island": {
@@ -1835,6 +2781,10 @@
         ],
         "Resources": [
             "Fish"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Fish"
         ]
     },
     "Bandit Cave Lower": {
@@ -1844,6 +2794,11 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Fish"
         ]
     },
     "Swamp Dark Forest Transition Lower": {
@@ -1857,6 +2812,13 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Ragni East Suburbs": {
@@ -1866,6 +2828,11 @@
             "Maltic Plains"
         ],
         "Resources": [
+            "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood",
             "Crops"
         ]
     },
@@ -1878,6 +2845,13 @@
         ],
         "Resources": [
             "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Quartz Mines North East": {
@@ -1889,6 +2863,13 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Bandit Cave Upper": {
@@ -1897,6 +2878,11 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Fish"
         ]
     },
     "Thesead": {
@@ -1906,6 +2892,13 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Military Base Upper": {
@@ -1915,6 +2908,11 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Fish"
         ]
     },
     "Volcano Upper": {
@@ -1925,6 +2923,10 @@
             "Tree Island"
         ],
         "Resources": [
+            "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
             "Ore"
         ]
     },
@@ -1938,6 +2940,10 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore"
         ]
     },
     "Lava Lake Bridge": {
@@ -1947,6 +2953,10 @@
             "Active Volcano"
         ],
         "Resources": [
+            "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
             "Ore"
         ]
     },
@@ -1958,6 +2968,10 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood"
         ]
     },
     "Light Forest East Mid": {
@@ -1968,6 +2982,13 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Raider's Base Upper": {
@@ -1977,6 +2998,10 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore"
         ]
     },
     "Jungle Upper": {
@@ -1984,6 +3009,10 @@
             "Jungle Mid"
         ],
         "Resources": [
+            "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
             "Wood"
         ]
     },
@@ -1994,6 +3023,10 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood"
         ]
     },
     "Lost Atoll": {
@@ -2003,6 +3036,10 @@
             "Tree Island"
         ],
         "Resources": [
+            "Fish"
+        ],
+        "Storage": [
+            "Emeralds",
             "Fish"
         ]
     },
@@ -2015,6 +3052,10 @@
         ],
         "Resources": [
             "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Crops"
         ]
     },
     "Dead Island South East": {
@@ -2026,6 +3067,10 @@
         ],
         "Resources": [
             "Fish"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Fish"
         ]
     },
     "Rymek East Mid": {
@@ -2035,6 +3080,10 @@
             "Rymek West Mid"
         ],
         "Resources": [
+            "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
             "Crops"
         ]
     },
@@ -2047,6 +3096,13 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Light Forest West Mid": {
@@ -2059,6 +3115,13 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Detlas Trail West Plains": {
@@ -2070,6 +3133,13 @@
         ],
         "Resources": [
             "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Mountain Edge": {
@@ -2077,6 +3147,10 @@
             "Cliff Side of the Lost"
         ],
         "Resources": [
+            "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
             "Ore"
         ]
     },
@@ -2089,6 +3163,10 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood"
         ]
     },
     "Abandoned Pass": {
@@ -2098,6 +3176,12 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Crops"
         ]
     },
     "Aldorei Valley South Entrance": {
@@ -2108,6 +3192,13 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Corkus Countryside": {
@@ -2119,6 +3210,10 @@
         ],
         "Resources": [
             "Fish"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Fish"
         ]
     },
     "Detlas": {
@@ -2128,6 +3223,10 @@
             "Detlas Close Suburbs"
         ],
         "Resources": [
+            "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
             "Crops"
         ]
     },
@@ -2140,6 +3239,13 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Mountain Path": {
@@ -2147,6 +3253,10 @@
             "Canyon Dropoff"
         ],
         "Resources": [
+            "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
             "Ore"
         ]
     },
@@ -2159,6 +3269,10 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood"
         ]
     },
     "Zhight Island": {
@@ -2169,6 +3283,13 @@
         ],
         "Resources": [
             "Fish"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Toxic Caves": {
@@ -2176,6 +3297,10 @@
             "Toxic Drip"
         ],
         "Resources": [
+            "Fish"
+        ],
+        "Storage": [
+            "Emeralds",
             "Fish"
         ]
     },
@@ -2187,6 +3312,10 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood"
         ]
     },
     "Desolate Valley": {
@@ -2196,6 +3325,10 @@
             "Nesaak Transition"
         ],
         "Resources": [
+            "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
             "Crops"
         ]
     },
@@ -2207,6 +3340,13 @@
         ],
         "Resources": [
             "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Jungle Lower": {
@@ -2216,6 +3356,10 @@
             "Jungle Mid"
         ],
         "Resources": [
+            "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
             "Wood"
         ]
     },
@@ -2228,6 +3372,13 @@
         ],
         "Resources": [
             "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Entrance to Thesead North": {
@@ -2237,6 +3388,11 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Fish"
         ]
     },
     "Detlas Far Suburbs": {
@@ -2249,6 +3405,13 @@
         ],
         "Resources": [
             "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Lighthouse Plateau": {
@@ -2259,6 +3422,10 @@
         ],
         "Resources": [
             "Fish"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Fish"
         ]
     },
     "Dernel Jungle Lower": {
@@ -2267,6 +3434,10 @@
             "Jungle Lower"
         ],
         "Resources": [
+            "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
             "Wood"
         ]
     },
@@ -2277,6 +3448,11 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Fish"
         ]
     },
     "Taproot Descent": {
@@ -2289,6 +3465,13 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Dark Forest Village": {
@@ -2299,6 +3482,10 @@
             "Old Crossroads South"
         ],
         "Resources": [
+            "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
             "Wood"
         ]
     },
@@ -2311,6 +3498,10 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore"
         ]
     },
     "Avos Temple": {
@@ -2320,6 +3511,10 @@
         ],
         "Resources": [
             "Fish"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Fish"
         ]
     },
     "Great Bridge Nesaak": {
@@ -2328,6 +3523,10 @@
             "Great Bridge Jungle"
         ],
         "Resources": [
+            "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
             "Wood"
         ]
     },
@@ -2339,6 +3538,13 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Military Base Lower": {
@@ -2349,6 +3555,11 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Fish"
         ]
     },
     "Maltic": {
@@ -2361,6 +3572,11 @@
         ],
         "Resources": [
             "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood",
+            "Crops"
         ]
     },
     "Ternaves Plains Upper": {
@@ -2372,6 +3588,11 @@
         ],
         "Resources": [
             "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Crops"
         ]
     },
     "Raider's Base Lower": {
@@ -2380,6 +3601,12 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish"
         ]
     },
     "Llevigar Gate West": {
@@ -2389,6 +3616,11 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Crops"
         ]
     },
     "Cinfras Entrance": {
@@ -2400,6 +3632,13 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Forest of Eyes": {
@@ -2409,6 +3648,13 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Corkus Statue": {
@@ -2418,6 +3664,13 @@
         ],
         "Resources": [
             "Fish"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Twisted Ridge": {
@@ -2426,6 +3679,10 @@
             "Viscera Pits West"
         ],
         "Resources": [
+            "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
             "Wood"
         ]
     },
@@ -2438,6 +3695,13 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Canyon Survivor": {
@@ -2447,6 +3711,13 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Hive": {
@@ -2455,6 +3726,10 @@
             "Hive South"
         ],
         "Resources": [
+            "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
             "Crops"
         ]
     },
@@ -2466,6 +3741,10 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood"
         ]
     },
     "Light Forest West Lower": {
@@ -2475,6 +3754,10 @@
             "Hobbit River"
         ],
         "Resources": [
+            "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
             "Wood"
         ]
     },
@@ -2488,6 +3771,13 @@
         ],
         "Resources": [
             "Fish"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Forgotten Path": {
@@ -2498,6 +3788,13 @@
         ],
         "Resources": [
             "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Lusuco": {
@@ -2505,6 +3802,10 @@
             "Icy Descent"
         ],
         "Resources": [
+            "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
             "Wood"
         ]
     },
@@ -2515,6 +3816,12 @@
             "Ternaves Plains Lower"
         ],
         "Resources": [
+            "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Fish",
             "Crops"
         ]
     },
@@ -2527,6 +3834,10 @@
         ],
         "Resources": [
             "Fish"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Fish"
         ]
     },
     "Great Bridge Jungle": {
@@ -2537,6 +3848,10 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood"
         ]
     },
     "Swamp Island": {
@@ -2546,6 +3861,10 @@
             "Ahmsord Outskirts"
         ],
         "Resources": [
+            "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
             "Wood"
         ]
     },
@@ -2558,6 +3877,13 @@
         ],
         "Resources": [
             "Fish"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Temple of the Lost East": {
@@ -2567,6 +3893,13 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Canyon Walk Way": {
@@ -2577,6 +3910,13 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Gateway to Nothing": {
@@ -2586,6 +3926,10 @@
             "Toxic Drip"
         ],
         "Resources": [
+            "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
             "Crops"
         ]
     },
@@ -2598,6 +3942,11 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Crops"
         ]
     },
     "Half Moon Island": {
@@ -2605,6 +3954,10 @@
             "Mage Island"
         ],
         "Resources": [
+            "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
             "Crops"
         ]
     },
@@ -2616,6 +3969,13 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Jungle Lake": {
@@ -2626,6 +3986,13 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Canyon Entrance Waterfall": {
@@ -2634,6 +4001,10 @@
             "Canyon Path North West"
         ],
         "Resources": [
+            "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
             "Ore"
         ]
     },
@@ -2644,6 +4015,10 @@
             "Twisted Housing"
         ],
         "Resources": [
+            "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
             "Wood"
         ]
     },
@@ -2657,6 +4032,11 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Crops"
         ]
     },
     "Corkus Forest South": {
@@ -2667,6 +4047,10 @@
             "Corkus Forest North"
         ],
         "Resources": [
+            "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
             "Wood"
         ]
     },
@@ -2681,6 +4065,10 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood"
         ]
     },
     "Efilim East Plains": {
@@ -2689,6 +4077,10 @@
             "Efilim South East Plains"
         ],
         "Resources": [
+            "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
             "Wood"
         ]
     },
@@ -2701,6 +4093,11 @@
         ],
         "Resources": [
             "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Fish",
+            "Crops"
         ]
     },
     "Canyon Lower South East": {
@@ -2712,6 +4109,13 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Snail Island": {
@@ -2719,6 +4123,10 @@
             "Temple Island"
         ],
         "Resources": [
+            "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
             "Wood"
         ]
     },
@@ -2729,6 +4137,13 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Cliff Side of the Lost": {
@@ -2741,6 +4156,13 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Light Realm Corruption": {
@@ -2749,7 +4171,8 @@
             "Light Realm Mushrooms",
             "Road to Corruption"
         ],
-        "Resources": []
+        "Resources": [],
+        "Storage": []
     },
     "Gelibord Castle": {
         "Routes": [
@@ -2757,6 +4180,10 @@
             "Taproot Descent"
         ],
         "Resources": [
+            "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
             "Wood"
         ]
     },
@@ -2770,6 +4197,10 @@
         ],
         "Resources": [
             "Fish"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Fish"
         ]
     },
     "Phinas Farm": {
@@ -2778,6 +4209,10 @@
             "Lighthouse Plateau"
         ],
         "Resources": [
+            "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
             "Crops"
         ]
     },
@@ -2788,6 +4223,13 @@
         ],
         "Resources": [
             "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Jofash Tunnel": {
@@ -2796,6 +4238,10 @@
             "Jofash Docks"
         ],
         "Resources": [
+            "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
             "Ore"
         ]
     },
@@ -2807,6 +4253,13 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Cherry Blossom Forest": {
@@ -2817,6 +4270,13 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Road to Time Valley": {
@@ -2827,6 +4287,11 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood",
+            "Crops"
         ]
     },
     "Detlas Trail East Plains": {
@@ -2839,6 +4304,13 @@
         ],
         "Resources": [
             "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Sablestone Camp": {
@@ -2850,6 +4322,11 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Crops"
         ]
     },
     "Viscera Pits East": {
@@ -2860,6 +4337,10 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood"
         ]
     },
     "The Broken Road": {
@@ -2868,6 +4349,13 @@
             "Worm Tunnel"
         ],
         "Resources": [
+            "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
             "Crops"
         ]
     },
@@ -2879,6 +4367,10 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore"
         ]
     },
     "Lava Lake": {
@@ -2889,6 +4381,10 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore"
         ]
     },
     "Aldorei's Waterfall": {
@@ -2897,6 +4393,13 @@
             "Aldorei Valley Upper"
         ],
         "Resources": [
+            "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
             "Crops"
         ]
     },
@@ -2909,6 +4412,13 @@
         ],
         "Resources": [
             "Fish"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Elkurn Fields": {
@@ -2920,6 +4430,11 @@
         ],
         "Resources": [
             "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood",
+            "Crops"
         ]
     },
     "Jungle Mid": {
@@ -2930,6 +4445,10 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood"
         ]
     },
     "Void Valley": {
@@ -2937,6 +4456,11 @@
             "Gateway to Nothing"
         ],
         "Resources": [
+            "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
             "Crops"
         ]
     },
@@ -2946,6 +4470,13 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Quartz Mines North West": {
@@ -2957,6 +4488,13 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Almuj City": {
@@ -2969,6 +4507,10 @@
         ],
         "Resources": [
             "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Crops"
         ]
     },
     "Kandon Farm": {
@@ -2976,6 +4518,12 @@
             "Kandon Ridge"
         ],
         "Resources": [
+            "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood",
+            "Fish",
             "Crops"
         ]
     },
@@ -2989,6 +4537,11 @@
         "Resources": [
             "Fish",
             "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Fish",
+            "Crops"
         ]
     },
     "Corkus Sea Port": {
@@ -3000,6 +4553,10 @@
         ],
         "Resources": [
             "Fish"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Fish"
         ]
     },
     "Sinister Forest": {
@@ -3009,6 +4566,13 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Astraulus' Tower": {
@@ -3018,6 +4582,10 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood"
         ]
     },
     "Grey Ruins": {
@@ -3026,6 +4594,13 @@
             "Worm Tunnel"
         ],
         "Resources": [
+            "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
             "Crops"
         ]
     },
@@ -3037,6 +4612,10 @@
         ],
         "Resources": [
             "Fish"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Fish"
         ]
     },
     "Bizarre Passage": {
@@ -3045,6 +4624,12 @@
             "The Gate"
         ],
         "Resources": [
+            "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood",
+            "Fish",
             "Crops"
         ]
     },
@@ -3057,6 +4642,13 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Orphion's Seal Upper": {
@@ -3067,7 +4659,8 @@
             "Light Realm East Mid",
             "Light Realm Corruption"
         ],
-        "Resources": []
+        "Resources": [],
+        "Storage": []
     },
     "Bandits Toll": {
         "Routes": [
@@ -3078,6 +4671,13 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Cinfras County Lower": {
@@ -3087,6 +4687,10 @@
             "Cinfras's Small Farm"
         ],
         "Resources": [
+            "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
             "Wood"
         ]
     },
@@ -3098,6 +4702,13 @@
         ],
         "Resources": [
             "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Dead Island North West": {
@@ -3106,6 +4717,10 @@
             "Dead Island South West"
         ],
         "Resources": [
+            "Fish"
+        ],
+        "Storage": [
+            "Emeralds",
             "Fish"
         ]
     },
@@ -3119,6 +4734,13 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Plains Coast": {
@@ -3129,6 +4751,13 @@
         ],
         "Resources": [
             "Fish"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Desert East Lower": {
@@ -3138,6 +4767,10 @@
             "Desert East Mid"
         ],
         "Resources": [
+            "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
             "Crops"
         ]
     },
@@ -3149,6 +4782,11 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Fish"
         ]
     },
     "Llevigar": {
@@ -3159,6 +4797,13 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Llevigar Plains East Upper": {
@@ -3171,6 +4816,11 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Crops"
         ]
     },
     "Rymek East Upper": {
@@ -3180,6 +4830,10 @@
             "Rymek West Upper"
         ],
         "Resources": [
+            "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
             "Crops"
         ]
     },
@@ -3191,6 +4845,11 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Crops"
         ]
     },
     "Time Valley": {
@@ -3201,6 +4860,11 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood",
+            "Fish"
         ]
     },
     "Cinfras Thanos Transition": {
@@ -3211,6 +4875,13 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Swamp Mountain Transition Mid-Upper": {
@@ -3220,6 +4891,10 @@
             "Swamp Mountain Transition Upper"
         ],
         "Resources": [
+            "Fish"
+        ],
+        "Storage": [
+            "Emeralds",
             "Fish"
         ]
     },
@@ -3231,6 +4906,13 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Ternaves Plains Lower": {
@@ -3243,6 +4925,12 @@
         ],
         "Resources": [
             "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Fish",
+            "Crops"
         ]
     },
     "Orphion's Seal": {
@@ -3251,7 +4939,8 @@
             "Orphion's Seal Upper",
             "Light Realm Mushrooms"
         ],
-        "Resources": []
+        "Resources": [],
+        "Storage": []
     },
     "Volcano Lower": {
         "Routes": [
@@ -3261,6 +4950,13 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Mining Base Upper": {
@@ -3271,6 +4967,11 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Crops"
         ]
     },
     "Hive South": {
@@ -3283,6 +4984,12 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Fish",
+            "Crops"
         ]
     },
     "Santa's Hideout": {
@@ -3291,6 +4998,10 @@
             "Mage Island"
         ],
         "Resources": [
+            "Fish"
+        ],
+        "Storage": [
+            "Emeralds",
             "Fish"
         ]
     },
@@ -3301,6 +5012,13 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Road To Mine": {
@@ -3311,6 +5029,10 @@
         ],
         "Resources": [
             "Fish"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Fish"
         ]
     },
     "Swamp West Lower": {
@@ -3320,6 +5042,10 @@
             "Swamp West Mid"
         ],
         "Resources": [
+            "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
             "Ore"
         ]
     },
@@ -3332,6 +5058,11 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood",
+            "Crops"
         ]
     },
     "Entrance to Rodoroc": {
@@ -3342,6 +5073,13 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Light Realm Entrance": {
@@ -3350,7 +5088,8 @@
             "Light Realm Entrance Upper",
             "Light Realm East Upper"
         ],
-        "Resources": []
+        "Resources": [],
+        "Storage": []
     },
     "Light Forest Canyon": {
         "Routes": [
@@ -3360,6 +5099,13 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Bloody Beach": {
@@ -3372,6 +5118,13 @@
         ],
         "Resources": [
             "Fish"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Corkus Castle": {
@@ -3379,6 +5132,10 @@
             "Corkus City"
         ],
         "Resources": [
+            "Fish"
+        ],
+        "Storage": [
+            "Emeralds",
             "Fish"
         ]
     },
@@ -3390,6 +5147,10 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood"
         ]
     },
     "Sky Castle": {
@@ -3397,6 +5158,10 @@
             "Path to Ahmsord Lower"
         ],
         "Resources": [
+            "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
             "Wood"
         ]
     },
@@ -3409,6 +5174,13 @@
             "Wood",
             "Fish",
             "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Fleris Trail": {
@@ -3416,6 +5188,10 @@
             "Road To Light Forest"
         ],
         "Resources": [
+            "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
             "Wood"
         ]
     },
@@ -3428,6 +5204,10 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood"
         ]
     },
     "Old Coal Mine": {
@@ -3436,6 +5216,11 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood"
         ]
     },
     "Pigmen Ravines Entrance": {
@@ -3446,6 +5231,13 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Path to Talor": {
@@ -3459,6 +5251,13 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Corkus Outskirts": {
@@ -3469,6 +5268,10 @@
         ],
         "Resources": [
             "Fish"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Fish"
         ]
     },
     "Guild Hall": {
@@ -3476,6 +5279,10 @@
             "Cinfras"
         ],
         "Resources": [
+            "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
             "Wood"
         ]
     },
@@ -3488,6 +5295,10 @@
         ],
         "Resources": [
             "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Crops"
         ]
     },
     "Efilim South Plains": {
@@ -3498,6 +5309,10 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood"
         ]
     },
     "Path to Ahmsord Upper": {
@@ -3506,6 +5321,10 @@
             "Path to Ahmsord Lower"
         ],
         "Resources": [
+            "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
             "Wood"
         ]
     },
@@ -3516,6 +5335,11 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Fish"
         ]
     },
     "Canyon Mountain South": {
@@ -3525,6 +5349,11 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Fish"
         ]
     },
     "Nesaak Village": {
@@ -3537,13 +5366,20 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood"
         ]
     },
     "Herb Cave": {
         "Routes": [
             "Great Bridge Jungle"
         ],
-        "Resources": []
+        "Resources": [],
+        "Storage": [
+            "Wood"
+        ]
     },
     "Light Forest East Upper": {
         "Routes": [
@@ -3552,6 +5388,13 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Air Temple Lower": {
@@ -3562,6 +5405,13 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Sky Island Ascent": {
@@ -3573,6 +5423,12 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish"
         ]
     },
     "Eltom": {
@@ -3581,6 +5437,13 @@
             "Entrance to Rodoroc"
         ],
         "Resources": [
+            "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
             "Crops"
         ]
     },
@@ -3593,6 +5456,11 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood",
+            "Crops"
         ]
     },
     "Molten Reach": {
@@ -3602,6 +5470,13 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Mantis Nest": {
@@ -3614,6 +5489,13 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Quartz Mines South East": {
@@ -3623,6 +5505,12 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Crops"
         ]
     },
     "Dragonling Nests": {
@@ -3631,6 +5519,10 @@
             "Astraulus' Tower"
         ],
         "Resources": [
+            "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
             "Wood"
         ]
     },
@@ -3641,6 +5533,10 @@
             "Corkus Countryside"
         ],
         "Resources": [
+            "Fish"
+        ],
+        "Storage": [
+            "Emeralds",
             "Fish"
         ]
     },
@@ -3653,6 +5549,10 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood"
         ]
     },
     "Dead Island North East": {
@@ -3662,6 +5562,10 @@
             "Dead Island North West"
         ],
         "Resources": [
+            "Fish"
+        ],
+        "Storage": [
+            "Emeralds",
             "Fish"
         ]
     },
@@ -3673,6 +5577,13 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Nesaak Transition": {
@@ -3684,6 +5595,10 @@
         ],
         "Resources": [
             "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Crops"
         ]
     },
     "Light Realm East Mid": {
@@ -3692,7 +5607,8 @@
             "Orphion's Seal Upper",
             "Light Realm East Mid-Upper"
         ],
-        "Resources": []
+        "Resources": [],
+        "Storage": []
     },
     "Entrance to Kander": {
         "Routes": [
@@ -3703,6 +5619,13 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Swamp Mountain Base": {
@@ -3714,6 +5637,11 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Crops"
         ]
     },
     "Loamsprout Camp": {
@@ -3725,6 +5653,10 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore"
         ]
     },
     "Desert Upper": {
@@ -3735,6 +5667,10 @@
         ],
         "Resources": [
             "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Crops"
         ]
     },
     "Aldorei Valley Upper": {
@@ -3743,6 +5679,13 @@
             "Aldorei Valley Mid"
         ],
         "Resources": [
+            "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
             "Crops"
         ]
     },
@@ -3754,6 +5697,10 @@
         ],
         "Resources": [
             "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Crops"
         ]
     },
     "Abandoned Farm": {
@@ -3762,6 +5709,11 @@
             "Time Valley"
         ],
         "Resources": [
+            "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood",
             "Crops"
         ]
     },
@@ -3772,6 +5724,11 @@
         ],
         "Resources": [
             "Fish"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood",
+            "Fish"
         ]
     },
     "Durum Isles East": {
@@ -3781,6 +5738,12 @@
         ],
         "Resources": [
             "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Fish",
+            "Crops"
         ]
     },
     "Thanos Exit": {
@@ -3789,6 +5752,11 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Fish"
         ]
     },
     "Light Realm East Upper": {
@@ -3796,7 +5764,8 @@
             "Light Realm East Mid-Upper",
             "Light Realm Entrance"
         ],
-        "Resources": []
+        "Resources": [],
+        "Storage": []
     },
     "Nemract Road": {
         "Routes": [
@@ -3809,6 +5778,13 @@
         ],
         "Resources": [
             "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Pre-Light Forest Transition": {
@@ -3820,6 +5796,13 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Angel Refuge": {
@@ -3828,6 +5811,10 @@
             "Ahmsord Outskirts"
         ],
         "Resources": [
+            "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
             "Wood"
         ]
     },
@@ -3838,6 +5825,11 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood",
+            "Crops"
         ]
     },
     "Temple of Legends": {
@@ -3847,6 +5839,10 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood"
         ]
     },
     "Lion Lair": {
@@ -3854,6 +5850,10 @@
             "Bremminglar"
         ],
         "Resources": [
+            "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
             "Crops"
         ]
     },
@@ -3864,7 +5864,8 @@
             "Light Realm Entrance Upper",
             "Light Realm Corruption"
         ],
-        "Resources": []
+        "Resources": [],
+        "Storage": []
     },
     "Efilim Village": {
         "Routes": [
@@ -3874,6 +5875,11 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood",
+            "Crops"
         ]
     },
     "Swamp Mountain Transition Upper": {
@@ -3884,6 +5890,10 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore"
         ]
     },
     "Rymek West Lower": {
@@ -3892,6 +5902,10 @@
             "Rymek East Lower"
         ],
         "Resources": [
+            "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
             "Ore"
         ]
     },
@@ -3903,6 +5917,11 @@
         ],
         "Resources": [
             "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood",
+            "Crops"
         ]
     },
     "Emerald Trail": {
@@ -3913,6 +5932,11 @@
         ],
         "Resources": [
             "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood",
+            "Crops"
         ]
     },
     "South Pigmen Ravines": {
@@ -3922,6 +5946,13 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Southern Outpost": {
@@ -3931,6 +5962,13 @@
         ],
         "Resources": [
             "Fish"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Ruined Houses": {
@@ -3941,6 +5979,10 @@
         ],
         "Resources": [
             "Fish"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Fish"
         ]
     },
     "Nesaak Plains Mid North West": {
@@ -3949,6 +5991,10 @@
             "Nesaak Plains Upper North West"
         ],
         "Resources": [
+            "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
             "Wood"
         ]
     },
@@ -3961,6 +6007,13 @@
         ],
         "Resources": [
             "Fish"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Dead Island South West": {
@@ -3972,6 +6025,10 @@
         ],
         "Resources": [
             "Fish"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Fish"
         ]
     },
     "Desert Lower": {
@@ -3981,6 +6038,10 @@
             "Desert Mid-Lower"
         ],
         "Resources": [
+            "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
             "Crops"
         ]
     },
@@ -3992,6 +6053,13 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Light Forest South Entrance": {
@@ -4000,6 +6068,10 @@
             "Light Forest West Lower"
         ],
         "Resources": [
+            "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
             "Wood"
         ]
     },
@@ -4012,6 +6084,11 @@
         ],
         "Resources": [
             "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Wood",
+            "Crops"
         ]
     },
     "Military Base": {
@@ -4021,6 +6098,11 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Fish"
         ]
     },
     "The Bear Zoo": {
@@ -4030,6 +6112,13 @@
         ],
         "Resources": [
             "Fish"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Old Crossroads South": {
@@ -4042,6 +6131,13 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Canyon Path South West": {
@@ -4051,6 +6147,11 @@
         ],
         "Resources": [
             "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Fish"
         ]
     },
     "Canyon Path North West": {
@@ -4059,6 +6160,13 @@
             "Canyon Entrance Waterfall"
         ],
         "Resources": [
+            "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
             "Crops"
         ]
     },
@@ -4069,6 +6177,13 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Central Islands": {
@@ -4081,6 +6196,13 @@
         ],
         "Resources": [
             "Wood"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
         ]
     },
     "Canyon Of The Lost": {
@@ -4091,6 +6213,10 @@
             "Valley of the Lost"
         ],
         "Resources": [
+            "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
             "Ore"
         ]
     }

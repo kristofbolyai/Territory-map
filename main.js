@@ -211,8 +211,7 @@ function run() {
             if (selmode) {
                 if (!selected.includes(territory.name))
                     selected.push(territory.name);
-                else
-                {
+                else {
                     selected = selected.filter(x => x !== territory.name);
                 }
             }
@@ -320,7 +319,10 @@ function drawBetween(g1, g2) {
     bounds[1][0] *= -1;
     if (index >= colors.length)
         index = 0;
-    return L.polyline(bounds, { color: colors[0] }).addTo(map);
+    if (selected.includes(g2) && selected.includes(g1))
+        return L.polyline(bounds, { color: colors[3] }).addTo(map);
+    else
+        return L.polyline(bounds, { color: colors[0] }).addTo(map);
 }
 
 let colors = ['red', 'magenta', 'yellow', 'blue'];
@@ -529,7 +531,8 @@ function render() {
         territory = territory.replace('’', "'");
         if (newTerritoryData[territory]) {
             let x = newTerritoryData[territory];
-            rectangles[oldtn].bindPopup(`<b>${territory}</b><br><b>Resources:</b><br>${x.Resources.toString().replaceAll(",", "<br>")}<br><b>Trade routes:</b><br>${x.Routes.toString().replaceAll(",", "<br>")}`);
+            if (!selmode)
+                rectangles[oldtn].bindPopup(`<b>${territory}</b><br><b>Resources:</b><br>${x.Resources.toString().replaceAll(",", "<br>")}<br><b>Trade routes:</b><br>${x.Routes.toString().replaceAll(",", "<br>")}`);
             if (x.Resources.length > 1) {
                 c = red;
             }
@@ -614,8 +617,7 @@ let selmode = false;
 
 function sel() {
     selmode = !selmode;
-    if (!selmode)
-    {
+    if (!selmode) {
         document.getElementById("sel").value = "Turn on select mode";
         selected = [];
         updatesel();
@@ -624,9 +626,17 @@ function sel() {
         document.getElementById("sel").value = "Turn off select mode";
 }
 
-function updatesel()
-{
+function updatesel() {
     setTimeout(render, 1);
+    for (const x of routes) {
+        try {
+            map.removeLayer(x);
+        } catch (error) {
+
+        }
+    }
+    routes = [];
+    drawRoutes();
     var ul = document.getElementById("sellist");
     var selc = document.getElementById("selcount");
     selc.innerText = `Selected territories (${selected.length})`;
@@ -638,15 +648,14 @@ function updatesel()
     }
 }
 
-function copy()
-{
+function copy() {
     updateClipboard(btoa(selected.toString()));
 }
 
 function updateClipboard(newClip) {
-    navigator.clipboard.writeText(newClip).then(function() {
-      /* clipboard successfully set */
-    }, function() {
-      /* clipboard write failed */
+    navigator.clipboard.writeText(newClip).then(function () {
+        /* clipboard successfully set */
+    }, function () {
+        /* clipboard write failed */
     });
-  }
+}

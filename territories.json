@@ -38,7 +38,7 @@
             "Maltic Plains"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [],
         "Emeralds": true
@@ -71,7 +71,7 @@
             "Selchar"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -89,7 +89,7 @@
             "Savannah West Upper"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -106,7 +106,7 @@
             "Rooster Island"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [],
         "Emeralds": true
@@ -205,7 +205,7 @@
             "Plains Lake"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -224,7 +224,7 @@
             "Savannah West Lower"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -311,7 +311,7 @@
             "Nesaak Plains Upper North West"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
@@ -326,7 +326,7 @@
             "Almuj City"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -348,7 +348,7 @@
             "Plains"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -368,7 +368,7 @@
             "Savannah East Upper"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -387,7 +387,7 @@
             "Santa's Hideout"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [],
         "Emeralds": true
@@ -412,7 +412,7 @@
             "Swamp West Upper"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
@@ -442,7 +442,7 @@
             "Ruined Houses"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
@@ -495,7 +495,7 @@
             "Otherwordly Monolith"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [],
         "Emeralds": true
@@ -509,7 +509,7 @@
             "Corkus Countryside"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [],
         "Emeralds": true
@@ -537,7 +537,7 @@
             "The Broken Road"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -576,7 +576,7 @@
             "Gylia Lake South East"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
@@ -633,7 +633,7 @@
             "Cliffside Passage"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
@@ -652,7 +652,7 @@
             "Arachnid Route"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -670,8 +670,8 @@
         "Resources": [
             "Ore",
             "Wood",
-            " Fish",
-            " Crops"
+            "Fish",
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -802,8 +802,8 @@
         "Resources": [
             "Ore",
             "Wood",
-            " Fish",
-            " Crops"
+            "Fish",
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -819,7 +819,7 @@
             "Durum Isles Lower"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -848,7 +848,7 @@
             "Taproot Descent"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -867,7 +867,7 @@
             "Lost Atoll"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [],
         "Emeralds": true
@@ -913,7 +913,7 @@
             "Orc Road"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -929,7 +929,7 @@
             "Path to Talor"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -942,7 +942,7 @@
             "Corkus Mountain"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
@@ -994,7 +994,7 @@
             "Desert Mid-Lower"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -1025,7 +1025,7 @@
             "Canyon Mountain South"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
@@ -1041,7 +1041,7 @@
             "Phinas Farm"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [],
         "Emeralds": true
@@ -1052,7 +1052,7 @@
             "Toxic Drip"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -1099,7 +1099,7 @@
             "South Nivla Woods"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
@@ -1120,7 +1120,7 @@
             "Selchar"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
@@ -1167,7 +1167,7 @@
             "Gateway to Nothing"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [],
         "Emeralds": true
@@ -1212,7 +1212,7 @@
             "Detlas Trail West Plains"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -1227,7 +1227,7 @@
             "Aldorei Valley Lower"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -1266,7 +1266,7 @@
             "Plains"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -1281,7 +1281,7 @@
             "Ragni North Suburbs"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [],
         "Emeralds": true
@@ -1309,7 +1309,7 @@
             "Ragni Plains"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -1391,7 +1391,7 @@
             "Grey Ruins"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [],
         "Emeralds": true
@@ -1418,8 +1418,8 @@
         "Resources": [
             "Ore",
             "Wood",
-            " Fish",
-            " Crops"
+            "Fish",
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -1453,7 +1453,7 @@
             "Volcanic Slope"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -1468,8 +1468,8 @@
         "Resources": [
             "Ore",
             "Wood",
-            " Fish",
-            " Crops"
+            "Fish",
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -1503,7 +1503,7 @@
             "Sky Falls"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [],
         "Emeralds": true
@@ -1556,7 +1556,7 @@
             "Santa's Hideout"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
@@ -1709,8 +1709,8 @@
         "Resources": [
             "Ore",
             "Wood",
-            " Fish",
-            " Crops"
+            "Fish",
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -1727,8 +1727,8 @@
         "Resources": [
             "Ore",
             "Wood",
-            " Fish",
-            " Crops"
+            "Fish",
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -1741,7 +1741,7 @@
             "Avos Temple"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
@@ -1756,7 +1756,7 @@
             "Swamp Mountain Transition Mid"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [],
         "Emeralds": true
@@ -1787,7 +1787,7 @@
             "Dead Island North East"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
@@ -1816,7 +1816,7 @@
             "Emerald Trail"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -1835,8 +1835,8 @@
         "Resources": [
             "Ore",
             "Wood",
-            " Fish",
-            " Crops"
+            "Fish",
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -1856,7 +1856,7 @@
             "Loamsprout Camp"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -1876,7 +1876,7 @@
             "Detlas Far Suburbs"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -1895,7 +1895,7 @@
             "Road To Mine"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
@@ -1928,7 +1928,7 @@
             "Thesead"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -1966,7 +1966,7 @@
             "Desert East Mid"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -1980,7 +1980,7 @@
             "Grey Ruins"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -1999,7 +1999,7 @@
             "Nemract Plains West"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -2017,7 +2017,7 @@
             "Plains Lake"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -2033,7 +2033,7 @@
             "Desert East Mid"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -2048,7 +2048,7 @@
             "Savannah West Upper"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -2086,7 +2086,7 @@
             "Santa's Hideout"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [],
         "Emeralds": true
@@ -2186,7 +2186,7 @@
             "Path to Light"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [],
         "Emeralds": true
@@ -2271,8 +2271,8 @@
         "Resources": [
             "Ore",
             "Wood",
-            " Fish",
-            " Crops"
+            "Fish",
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -2288,7 +2288,7 @@
             "Dead Island North East"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
@@ -2408,8 +2408,8 @@
         "Resources": [
             "Ore",
             "Wood",
-            " Fish",
-            " Crops"
+            "Fish",
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -2460,7 +2460,7 @@
             "Detlas Trail East Plains"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [],
         "Emeralds": true
@@ -2551,7 +2551,7 @@
             "Corkus City"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
@@ -2569,7 +2569,7 @@
             "Pirate Town"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
@@ -2586,7 +2586,7 @@
             "Toxic Drip"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [],
         "Emeralds": true
@@ -2615,7 +2615,7 @@
             "Plains Lake"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -2634,7 +2634,7 @@
             "Ragni Main Entrance"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [],
         "Emeralds": true
@@ -2660,7 +2660,7 @@
             "Nemract Cathedral"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -2698,8 +2698,8 @@
         "Resources": [
             "Ore",
             "Wood",
-            " Fish",
-            " Crops"
+            "Fish",
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -2718,7 +2718,7 @@
             "Southern Outpost"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
@@ -2788,7 +2788,7 @@
             "Desert Upper"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -2849,7 +2849,7 @@
             "Bloody Beach"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [],
         "Emeralds": true
@@ -2882,7 +2882,7 @@
             "Rymek West Mid"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -2898,7 +2898,7 @@
             "Forgotten Path"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -2917,7 +2917,7 @@
             "Otherwordly Monolith"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [],
         "Emeralds": true
@@ -2952,8 +2952,8 @@
         "Resources": [
             "Ore",
             "Wood",
-            " Fish",
-            " Crops"
+            "Fish",
+            "Crops"
         ],
         "Storage": [],
         "Emeralds": false
@@ -3000,7 +3000,7 @@
             "Maltic Plains"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -3017,7 +3017,7 @@
             "Desolate Valley"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [],
         "Emeralds": true
@@ -3030,7 +3030,7 @@
             "Ternaves Plains Lower"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -3124,7 +3124,7 @@
             "Detlas Trail East Plains"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -3139,7 +3139,7 @@
             "Pirate Town"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [],
         "Emeralds": true
@@ -3150,7 +3150,7 @@
             "Viscera Pits West"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
@@ -3185,7 +3185,7 @@
             "Detlas Suburbs"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -3202,7 +3202,7 @@
             "Cliff Side of the Lost"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -3240,7 +3240,7 @@
             "Path To Ozoth's Spire Mid"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -3275,7 +3275,7 @@
             "Rymek West Mid"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -3290,7 +3290,7 @@
             "Swamp Dark Forest Transition Lower"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -3308,7 +3308,7 @@
             "Icy Descent"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [],
         "Emeralds": true
@@ -3320,7 +3320,7 @@
             "Ternaves Plains Lower"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [],
         "Emeralds": true
@@ -3364,7 +3364,7 @@
             "Toxic Drip"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -3394,7 +3394,7 @@
             "Mage Island"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -3471,7 +3471,7 @@
             "Orc Road"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [],
         "Emeralds": true
@@ -3519,7 +3519,7 @@
             "Plains Lake"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [],
         "Emeralds": true
@@ -3579,7 +3579,7 @@
             "Savannah West Upper"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
@@ -3611,7 +3611,7 @@
             "Lighthouse Plateau"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [],
         "Emeralds": true
@@ -3687,7 +3687,7 @@
             "The Silent Road"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -3706,7 +3706,7 @@
             "Aldorei Valley Upper"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -3725,7 +3725,7 @@
             "Jitak's Farm"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
@@ -3743,7 +3743,7 @@
             "Dernel Jungle Mid"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
@@ -3760,7 +3760,7 @@
             "Thanos"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
@@ -3811,7 +3811,7 @@
             "Gateway to Nothing"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [],
         "Emeralds": true
@@ -3821,7 +3821,7 @@
             "Kandon Ridge"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [],
         "Emeralds": true
@@ -3866,7 +3866,7 @@
             "Desert Mid-Upper"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
@@ -3882,7 +3882,7 @@
             "Light Forest West Upper"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -3940,8 +3940,8 @@
         "Resources": [
             "Ore",
             "Wood",
-            " Fish",
-            " Crops"
+            "Fish",
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -3977,7 +3977,7 @@
             "Nemract Quarry"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
@@ -3995,7 +3995,7 @@
             "Desert East Mid"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -4077,7 +4077,7 @@
             "Swamp East Upper"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
@@ -4126,7 +4126,7 @@
             "Gert Camp"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
@@ -4247,7 +4247,7 @@
             "Corkus City South"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
@@ -4329,7 +4329,7 @@
             "Corkus City"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
@@ -4396,7 +4396,7 @@
             "Mine Base Plains"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -4412,7 +4412,7 @@
             "Bizarre Passage"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [],
         "Emeralds": true
@@ -4508,7 +4508,7 @@
             "Corkus Countryside"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
@@ -4528,8 +4528,8 @@
             "South Farmers Valley"
         ],
         "Resources": [
-            " Fish",
-            " Crops"
+            "Fish",
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -4596,7 +4596,7 @@
             "Corkus Sea Cove"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
@@ -4649,8 +4649,8 @@
         "Resources": [
             "Ore",
             "Wood",
-            " Fish",
-            " Crops"
+            "Fish",
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -4667,7 +4667,7 @@
             "Detlas Suburbs"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -4738,7 +4738,7 @@
             "Entrance to Rodoroc"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [],
         "Emeralds": true
@@ -4768,7 +4768,7 @@
             "Llevigar Plains West Lower"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -4834,7 +4834,7 @@
             "Forgotten Town"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [],
         "Emeralds": true
@@ -4846,7 +4846,7 @@
             "Corkus Docks"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
@@ -4862,7 +4862,7 @@
             "Final Step"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -4899,8 +4899,8 @@
         "Resources": [
             "Ore",
             "Wood",
-            " Fish",
-            " Crops"
+            "Fish",
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -4936,7 +4936,7 @@
             "Desolate Valley"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -5002,7 +5002,7 @@
             "South Nivla Woods"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -5023,8 +5023,8 @@
         "Resources": [
             "Ore",
             "Wood",
-            " Fish",
-            " Crops"
+            "Fish",
+            "Crops"
         ],
         "Storage": [],
         "Emeralds": false
@@ -5035,7 +5035,7 @@
             "Aldorei's Waterfall"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -5053,7 +5053,7 @@
             "Mushroom Hill"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -5067,7 +5067,7 @@
             "Twain Mansion"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [],
         "Emeralds": true
@@ -5077,7 +5077,7 @@
             "Great Bridge Jungle"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [],
         "Emeralds": true
@@ -5088,7 +5088,7 @@
             "Mage Island"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -5232,7 +5232,7 @@
             "Detlas Far Suburbs"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -5247,7 +5247,7 @@
             "South Farmers Valley"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -5263,7 +5263,7 @@
             "Factory Entrance"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
@@ -5280,7 +5280,7 @@
             "Maltic Plains"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -5329,7 +5329,7 @@
             "Paths of Sludge"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [],
         "Emeralds": true
@@ -5341,8 +5341,8 @@
         "Resources": [
             "Ore",
             "Wood",
-            " Fish",
-            " Crops"
+            "Fish",
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -5359,7 +5359,7 @@
             "Skiens Island"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
@@ -5390,8 +5390,8 @@
         "Resources": [
             "Ore",
             "Wood",
-            " Fish",
-            " Crops"
+            "Fish",
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -5412,8 +5412,8 @@
         "Resources": [
             "Ore",
             "Wood",
-            " Fish",
-            " Crops"
+            "Fish",
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -5431,7 +5431,7 @@
             "Desert Mid-Upper"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -5445,7 +5445,7 @@
             "Lighthouse Plateau"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
@@ -5466,7 +5466,7 @@
             "Ruined Houses"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
@@ -5480,7 +5480,7 @@
             "Zhight Island"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
@@ -5498,7 +5498,7 @@
             "Jofash Docks"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
@@ -5603,7 +5603,7 @@
             "Canyon Path South East"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -5677,7 +5677,7 @@
             "Aldorei Valley West Entrance"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -5712,7 +5712,7 @@
             "Desert West Lower"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -5726,7 +5726,7 @@
             "Time Valley"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -5748,7 +5748,7 @@
             "Desolate Valley"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -5805,7 +5805,7 @@
             "Ragni North Suburbs"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -5839,7 +5839,7 @@
             "Eltom"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -5968,7 +5968,7 @@
             "Desert East Lower"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -6020,7 +6020,7 @@
             "Elkurn Fields"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [],
         "Emeralds": true
@@ -6050,7 +6050,7 @@
             "Light Forest East Lower"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
@@ -6070,7 +6070,7 @@
             "Avos Temple"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
@@ -6135,7 +6135,7 @@
             "Corkus City Mine"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
@@ -6153,7 +6153,7 @@
             "Thanos Exit Upper"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [],
         "Emeralds": true
@@ -6167,7 +6167,7 @@
             "Nodguj Nation"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
@@ -6228,7 +6228,7 @@
             "Desert Mid-Lower"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [],
         "Emeralds": true
@@ -6259,7 +6259,7 @@
             "Paths of Sludge"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [],
         "Emeralds": true
@@ -6287,7 +6287,7 @@
             "Desert East Lower"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -6344,8 +6344,8 @@
         "Resources": [
             "Ore",
             "Wood",
-            " Fish",
-            " Crops"
+            "Fish",
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -6448,8 +6448,8 @@
         "Resources": [
             "Ore",
             "Wood",
-            " Fish",
-            " Crops"
+            "Fish",
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -6516,7 +6516,7 @@
             "Nemract Quarry"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -6534,7 +6534,7 @@
             "Molten Reach"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
@@ -6584,7 +6584,7 @@
             "Ancient Nemract"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
@@ -6603,7 +6603,7 @@
             "Coastal Trail"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",

@@ -232,13 +232,13 @@ function run() {
     //setInterval(render, 2000)
 }
 
-function drawBetween(g1, g2) {
+function drawBetween(g1, g2, directional) {
     if (!g1 || !g2) {
         console.log("not drawing line, terr does not exist");
         return false;
     }
-    let territory1 = territories.find(x => x.name.toLowerCase().replace('’', "'") == g1.toLowerCase());
-    let territory2 = territories.find(x => x.name.toLowerCase().replace('’', "'") == g2.toLowerCase());
+    let territory1 = territories.find(x => x.name.toLowerCase().replace('’', "'") === g1.toLowerCase());
+    let territory2 = territories.find(x => x.name.toLowerCase().replace('’', "'") === g2.toLowerCase());
     if (!territory1 || !territory2) {
         console.log("not drawing line, terr does not exist", g1, g2);
         return false;
@@ -320,19 +320,29 @@ function drawBetween(g1, g2) {
     if (index >= colors.length)
         index = 0;
     if (selected.includes(g2) && selected.includes(g1))
-        return L.polyline(bounds, { color: colors[3] }).addTo(map);
+    {
+        if (directional)
+            return L.polyline(bounds, { color: colors[2] }).arrowheads({size: "10px"}).addTo(map);
+        else
+            return L.polyline(bounds, { color: colors[3] }).addTo(map);
+    }
     else
-        return L.polyline(bounds, { color: colors[0] }).addTo(map);
+    {
+        if (directional)
+            return L.polyline(bounds, { color: colors[1] }).arrowheads({size: "10px"}).addTo(map);
+        else
+            return L.polyline(bounds, { color: colors[0] }).addTo(map);
+    }
 }
 
-let colors = ['red', 'magenta', 'yellow', 'blue'];
+let colors = ['red', 'darkred', 'darkblue', 'blue'];
 let index = 0;
 
 function drawRoutes() {
     for (const name in newTerritoryData) {
         let x = newTerritoryData[name];
         for (const route of x.Routes) {
-            let r = drawBetween(name, route);
+            let r = drawBetween(name, route, !newTerritoryData[route].Routes.includes(name));
             if (r)
                 routes.push(r);
         }
@@ -636,7 +646,10 @@ function updatesel() {
         }
     }
     routes = [];
-    drawRoutes();
+    if (routesOn)
+    {
+        drawRoutes();
+    }
     var ul = document.getElementById("sellist");
     var selc = document.getElementById("selcount");
     selc.innerText = `Selected territories (${selected.length})`;

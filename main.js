@@ -542,7 +542,7 @@ function render() {
         if (newTerritoryData[territory]) {
             let x = newTerritoryData[territory];
             if (!selmode)
-                rectangles[oldtn].bindPopup(`<b>${territory}</b><br><b>Resources:</b><br>${x.Resources.toString().replaceAll(",", "<br>")}<br><b>Trade routes:</b><br>${x.Routes.toString().replaceAll(",", "<br>")}`);
+                rectangles[oldtn].bindPopup(`<b>${territory}</b><br><b>${x.DoubleEmerald ? "DOUBLE " : ""} Emerald production</b><br><b>${x.DoubleResource ? "DOUBLE " : ""}Resources:</b><br>${x.Resources.toString().replaceAll(",", "<br>")}<br><b>Trade routes:</b><br>${x.Routes.toString().replaceAll(",", "<br>")}`);
             if (x.Resources.length > 1) {
                 c = red;
             }
@@ -568,7 +568,8 @@ function render() {
         if (selected.includes(territory))
             c = green;
         rectangles[oldtn].setStyle({
-            color: c
+            fillColor: c,
+            color: newTerritoryData[territory].DoubleEmerald || newTerritoryData[territory].DoubleResource ? "lightgreen" : c
         });
     });
     reloadLegend();

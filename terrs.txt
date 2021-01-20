@@ -1,0 +1,5784 @@
+Air Temple Upper
+emerald
+Ore
+Trading Routes:
+- Air Temple Lower
+Maro Peaks  
+emerald
+Ore
+Trading Routes:
+- Tree Island
+- Skiens Island
+Plains      
+emerald
+ Fish
+Trading Routes:
+- Nivla Woods Entrance
+- North Nivla Woods
+- Maltic Plains
+- South Farmers Valley
+Path To Thanos
+emerald
+Ore
+Trading Routes:
+- Thanos
+- Cinfras Thanos Transition
+Durum Isles Upper
+emerald
+ Crops
+Trading Routes:
+- Mage Island
+- Selchar
+- Durum Isles Center
+- Nodguj Nation
+Savannah West Lower
+emerald
+ Crops
+Trading Routes:
+- Savannah East Lower
+- Ternaves Plains Upper
+- Savannah West Upper
+Selchar     
+emerald
+ Fish
+Trading Routes:
+- Rooster Island
+- Skiens Island
+- Durum Isles Center
+- Durum Isles Upper
+- Durum Isles Lower
+Llevigar Plains West Lower
+emerald
+Wood
+Trading Routes:
+- Llevigar Farm Plains West
+- Llevigar Plains West Upper
+- Llevigar Gate West
+- Llevigar Plains East Lower
+Nesaak Plains South East
+emerald
+Wood
+Trading Routes:
+- Bob's Tomb
+- Nesaak Village
+- Nesaak Plains South West
+Llevigar Plains East Lower
+emerald
+Ore
+Trading Routes:
+- Llevigar Farm Plains East
+- Orc Lake
+- Llevigar Plains West Lower
+- Llevigar Plains East Upper
+Kander Mines
+emerald
+Wood
+Trading Routes:
+- Mesquis Tower
+- Dark Forest Village
+- Abandoned Manor
+- Path to Talor
+Swamp Dark Forest Transition Upper
+emerald
+Ore
+Trading Routes:
+- Swamp Dark Forest Transition Mid
+- Olux
+- Taproot Descent
+Mine Base Plains
+emerald
+ Crops
+Trading Routes:
+- Mining Base Lower
+- The Silent Road
+- Ternaves Plains Lower
+- Mining Base Upper
+- Plains Lake
+Detlas Savannah Transition
+emerald
+ Crops
+Trading Routes:
+- Detlas
+- Savannah West Lower
+- Mine Base Plains
+- Ternaves Plains Upper
+Fortress South
+emerald
+Wood
+Trading Routes:
+- Mansion of Insanity
+- Swamp Dark Forest Transition Lower
+- Fortress North
+- Orc Battlegrounds
+Aldorei Lowlands
+emerald
+Wood
+Trading Routes:
+- Aldorei's River
+- Aldorei's Waterfall
+- Cinfras's Small Farm
+Llevigar Gate East
+emerald
+Ore
+Trading Routes:
+- Llevigar Gate West
+- Llevigar
+- Llevigar Farm Plains East
+- Orc Road
+Viscera Pits West
+emerald
+Wood
+Trading Routes:
+- Twisted Ridge
+- Entrance to Kander
+- Lexdales Prison
+- Viscera Pits East
+Sanctuary Bridge
+emerald
+ Fish
+Trading Routes:
+- Nesaak Plains Upper North West
+- Time Valley
+Desert West Upper
+emerald
+ Crops
+Trading Routes:
+- Almuj City
+- Desert Upper
+Maltic Plains
+emerald
+ Crops
+Trading Routes:
+- Maltic
+- Ragni East Suburbs
+- Emerald Trail
+- Plains
+- South Farmers Valley
+Savannah West Upper
+emerald
+ Crops
+Trading Routes:
+- Bremminglar
+- Savannah East Upper
+- Cathedral Harbour
+- Savannah West Lower
+Mage Island 
+emerald
+ Crops
+Trading Routes:
+- Half Moon Island
+- Durum Isles Upper
+- Durum Isles East
+- Santa's Hideout
+Ahmsord     
+emerald
+Wood
+Trading Routes:
+- Path to Ahmsord Upper
+- Sky Island Ascent
+- Temple Island
+- Path to Ahmsord Lower
+Swamp Mountain Transition Mid
+emerald
+ Fish
+Trading Routes:
+- Swamp Mountain Transition Mid-Upper
+- Swamp West Upper
+- Swamp Mountain Transition Lower
+Bob's Tomb  
+emerald
+Wood
+Trading Routes:
+- Nesaak Plains South East
+- Nesaak Plains North East
+- Nesaak Village
+Fallen Factory
+emerald
+ Fish
+Trading Routes:
+- Corkus Sea Port
+- Corkus City South
+- Factory Entrance
+- Ruined Houses
+Canyon Valley South
+emerald
+Ore
+Trading Routes:
+- Canyon Mountain East
+- Bandit Camp Exit
+- Bandit Cave Lower
+Swamp East Lower
+emerald
+Ore
+Trading Routes:
+- Sunspark Camp
+- Swamp East Mid
+- Llevigar Plains East Upper
+- Swamp West Lower
+Path to Light
+emerald
+ Fish
+Trading Routes:
+- Azure Frontier
+- Otherwordly Monolith
+Corkus City 
+emerald
+ Fish
+Trading Routes:
+- Corkus City South
+- Corkus Forest South
+- Corkus Forest North
+- Corkus Countryside
+- Corkus Castle
+Canyon Path North Mid
+emerald
+Ore
+Trading Routes:
+- Canyon Waterfall Mid North
+- Canyon Entrance Waterfall
+- Canyon Path South West
+- Bandit Camp Exit
+The Silent Road
+emerald
+ Crops
+Trading Routes:
+- Mine Base Plains
+- The Broken Road
+City of Troms
+emerald
+Wood
+Trading Routes:
+- Jungle Lake
+- Temple of Legends
+- South Pigmen Ravines
+Gylia Lake South West
+emerald
+ Fish
+Trading Routes:
+- Dark Forest Cinfras Transition
+- Gylia Lake South East
+- Gylia Lake North West
+Primal Fen  
+emerald
+Ore
+Trading Routes:
+- Field of Life
+Canyon Mountain East
+emerald
+Ore
+Trading Routes:
+- Canyon Walk Way
+- Canyon Valley South
+Dark Forest Cinfras Transition  
+emerald
+Wood
+Trading Routes:
+- Gylia Lake South West
+- Cinfras Outskirts
+- Fallen Village
+Cliffside Lake
+emerald
+ Fish
+Trading Routes:
+- Canyon Of The Lost
+- Cliffside Passage
+Nemract Plains West
+emerald
+ Crops
+Trading Routes:
+- Nivla Woods Edge
+- Nemract Road
+- Arachnid Route
+- Nemract Quarry
+Twain Mansion
+Ore
+Wood
+ Fish
+ Crops
+Trading Routes:
+- Twain Lake
+Savannah East Lower
+emerald
+Wood
+Trading Routes:
+- Savannah East Upper
+- Ternaves
+- Savannah West Lower
+Swamp Lower 
+emerald
+Wood
+Trading Routes:
+- Swamp Mountain Base
+- Iron Road
+- Entrance to Olux
+- Swamp Dark Forest Transition Lower
+Bremminglar 
+emerald
+Ore
+Trading Routes:
+- Lion Lair
+- Savannah West Upper
+Road To Light Forest
+emerald
+Wood
+Trading Routes:
+- Fleris Trail
+- Leadin Fortress
+- Light Forest Entrance
+Swamp East Mid-Upper
+emerald
+Ore
+Trading Routes:
+- Swamp West Mid-Upper
+- Swamp East Upper
+- Swamp East Mid
+- Swamp Plains Basin
+Thanos Valley West
+emerald
+Wood
+Trading Routes:
+- Military Base Lower
+Llevigar Entrance
+emerald
+Ore
+Trading Routes:
+- Llevigar
+Volcanic Slope
+Ore
+Wood
+ Fish
+ Crops
+Trading Routes:
+- Active Volcano
+- Lava Lake
+Durum Isles Center
+emerald
+ Crops
+Trading Routes:
+- Durum Isles Upper
+- Durum Isles Lower
+- Durum Isles East
+- Selchar
+Canyon Waterfall North
+emerald
+Ore
+Trading Routes:
+- Canyon Upper North West
+Gelibord Corrupted Farm
+emerald
+ Crops
+Trading Routes:
+- Gelibord Castle
+- Gelibord
+- Taproot Descent
+- Twisted Housing
+Pirate Town 
+emerald
+ Fish
+Trading Routes:
+- Lost Atoll
+- Bloody Beach
+- Zhight Island
+Fungal Grove
+emerald
+Wood
+Trading Routes:
+- Cinfras Outskirts
+- Fallen Village
+- Old Crossroads South
+- Decayed Basin
+- Old Crossroads North
+Orc Road    
+emerald
+Ore
+Trading Routes:
+- Loamsprout Camp
+- Llevigar Farm Plains East
+- Orc Lake
+Llevigar Farm Plains East
+emerald
+ Crops
+Trading Routes:
+- Llevigar Farm Plains West
+- Orc Road
+- Llevigar Gate East
+- Llevigar Plains East Lower
+Old Crossroads North
+emerald
+ Crops
+Trading Routes:
+- Old Crossroads South
+- Lexdale
+- Path to Talor
+- Fungal Grove
+Corkus Docks
+emerald
+ Fish
+Trading Routes:
+- Corkus Mountain
+Canyon Upper North West
+emerald
+Wood
+Trading Routes:
+- Aldorei's Arch
+- Canyon Waterfall North
+Ahmsord Outskirts
+emerald
+Wood
+Trading Routes:
+- Central Islands
+- Swamp Island
+- Angel Refuge
+- Wybel Island
+Desert West Lower
+emerald
+ Crops
+Trading Routes:
+- Desert Lower
+- Desert Mid-Lower
+- Almuj City
+Swamp West Mid
+emerald
+Ore
+Trading Routes:
+- Swamp West Mid-Upper
+- Swamp East Mid
+- Swamp West Lower
+Krolton's Cave
+emerald
+ Fish
+Trading Routes:
+- Air Temple Lower
+- Canyon Mountain South
+- Wizard Tower North
+- Temple of the Lost East
+Royal Gate  
+emerald
+ Fish
+Trading Routes:
+- Phinas Farm
+Paths of Sludge
+emerald
+ Crops
+Trading Routes:
+- Toxic Drip
+- Lutho
+Nesaak Plains Lower North West  
+emerald
+Wood
+Trading Routes:
+- Nesaak Plains Upper North West
+- Nesaak Plains Mid North West
+- Nesaak Village
+- Nesaak Plains South West
+Lone Farmstead
+emerald
+Wood
+Trading Routes:
+- Abandoned Manor
+- Gelibord
+- Twisted Housing
+Road to Elkurn
+emerald
+ Fish
+Trading Routes:
+- Elkurn
+- South Nivla Woods
+- Elkurn Fields
+Rooster Island
+emerald
+ Fish
+Trading Routes:
+- Nemract Town
+- The Bear Zoo
+- Selchar
+- Durum Isles Lower
+Dernel Jungle Mid
+emerald
+Wood
+Trading Routes:
+- Dernel Jungle Lower
+- Dernel Jungle Upper
+Swamp Plains Basin
+emerald
+Ore
+Trading Routes:
+- Swamp Mountain Base
+- Entrance to Olux
+- Swamp East Mid-Upper
+- Swamp East Upper
+Final Step  
+emerald
+ Crops
+Trading Routes:
+- Gateway to Nothing
+- Bizarre Passage
+Tree Island 
+emerald
+Wood
+Trading Routes:
+- Volcano Upper
+- Lost Atoll
+Canyon Dropoff
+emerald
+Ore
+Trading Routes:
+- Cliff Side of the Lost
+- Mountain Path
+Ancient Nemract
+emerald
+ Crops
+Trading Routes:
+- Nemract Road
+- Cathedral Harbour
+- Nemract Cathedral
+- Detlas Trail East Plains
+- Detlas Trail West Plains
+Aldorei Valley Mid
+emerald
+ Crops
+Trading Routes:
+- Aldorei Valley Lower
+- Aldorei Valley Upper
+Cinfras County Upper
+emerald
+Wood
+Trading Routes:
+- Gylia Lake South East
+- Path To Thanos
+- Cinfras County Mid-Upper
+South Farmers Valley
+emerald
+ Crops
+Trading Routes:
+- North Farmers Valley
+- Maltic
+- Maltic Plains
+- Plains
+- Maltic Coast
+Katoa Ranch 
+emerald
+ Crops
+Trading Routes:
+- Ragni North Suburbs
+- Ragni North Entrance
+Decayed Basin
+emerald
+Wood
+Trading Routes:
+- Fungal Grove
+- Lexdale
+- Heart of Decay
+- Mushroom Hill
+Ragni North Suburbs
+emerald
+ Crops
+Trading Routes:
+- Katoa Ranch
+- Ragni Plains
+- Ragni North Entrance
+Durum Isles Lower
+emerald
+Wood
+Trading Routes:
+- Durum Isles Center
+- Rooster Island
+- Selchar
+Orc Battlegrounds
+emerald
+Ore
+Trading Routes:
+- Fortress South
+- Leadin Fortress
+Thanos      
+emerald
+Ore
+Trading Routes:
+- Path To Thanos
+- Path To Military Base
+- Gylia Lake South East
+- Path To Ozoth's Spire Lower
+Path To Ozoth's Spire Lower
+emerald
+Ore
+Trading Routes:
+- Military Base Lower
+- Thanos
+Worm Tunnel 
+emerald
+ Crops
+Trading Routes:
+- Grey Ruins
+- The Broken Road
+Cinfras County Mid-Lower
+emerald
+Wood
+Trading Routes:
+- Cinfras County Mid-Upper
+- Cinfras County Lower
+- Cinfras's Small Farm
+Tower of Ascension
+Ore
+Wood
+ Fish
+ Crops
+Trading Routes:
+- Icy Descent
+Skiens Island
+emerald
+Ore
+Trading Routes:
+- Nodguj Nation
+- Maro Peaks
+- Dead Island South West
+- Selchar
+Active Volcano
+emerald
+ Crops
+Trading Routes:
+- Volcanic Slope
+- Lava Lake
+- Lava Lake Bridge
+Cliffside Waterfall
+Ore
+Wood
+ Fish
+ Crops
+Trading Routes:
+- Canyon High Path
+Valley of the Lost
+emerald
+Ore
+Trading Routes:
+- Canyon Of The Lost
+- Canyon Fortress
+- Temple of the Lost East
+Frozen Fort 
+emerald
+ Crops
+Trading Routes:
+- Sky Falls
+Path to Cinfras
+emerald
+Wood
+Trading Routes:
+- Cinfras Entrance
+- Light Forest East Upper
+Temple Island
+emerald
+Wood
+Trading Routes:
+- Kandon Ridge
+- Central Islands
+- Swamp Island
+- Ahmsord
+- Snail Island
+Nodguj Nation
+emerald
+ Fish
+Trading Routes:
+- Dujgon Nation
+- Skiens Island
+- Icy Island
+- Mage Island
+- Santa's Hideout
+Arachnid Route
+emerald
+Wood
+Trading Routes:
+- North Nivla Woods
+- Nemract Plains West
+- Plains
+Nesaak Bridge Transition
+emerald
+Wood
+Trading Routes:
+- Great Bridge Nesaak
+- Nesaak Plains South West
+Cinfras's Small Farm
+emerald
+Wood
+Trading Routes:
+- Cinfras County Mid-Lower
+- Aldorei Valley South Entrance
+- Cinfras County Lower
+- Aldorei Lowlands
+South Nivla Woods
+emerald
+Wood
+Trading Routes:
+- Elkurn Fields
+- Road to Time Valley
+- Road to Elkurn
+- Nivla Woods Exit
+- Nivla Woods
+Heart of Decay
+emerald
+Wood
+Trading Routes:
+- Mushroom Hill
+- Decayed Basin
+- Lexdale
+Regular Island
+emerald
+Wood
+Trading Routes:
+- Dujgon Nation
+- Jofash Docks
+- Icy Island
+Quartz Mines South West
+emerald
+Ore
+Trading Routes:
+- Llevigar
+- Quartz Mines North West
+- Quartz Mines South East
+Pigmen Ravines
+emerald
+Ore
+Trading Routes:
+- Abandoned Farm
+- Pigmen Ravines Entrance
+Swamp West Mid-Upper
+Ore
+Wood
+ Fish
+ Crops
+Trading Routes:
+- Swamp West Mid
+- Swamp East Mid-Upper
+- Swamp West Upper
+Rymek West Mid
+Ore
+Wood
+ Fish
+ Crops
+Trading Routes:
+- Rymek West Upper
+- Rymek West Lower
+- Rymek East Mid
+Avos Workshop
+emerald
+ Fish
+Trading Routes:
+- Avos Temple
+Swamp Mountain Transition Lower 
+emerald
+ Fish
+Trading Routes:
+- Swamp Mountain Transition Mid
+Crater Descent
+emerald
+Ore
+Trading Routes:
+- Molten Heights Portal
+- Lava Lake Bridge
+- Rodoroc
+Jofash Docks
+emerald
+ Fish
+Trading Routes:
+- Regular Island
+- Dead Island North East
+- Jofash Tunnel
+Bandit Camp Exit
+emerald
+Ore
+Trading Routes:
+- Canyon Path North Mid
+- Canyon Valley South
+Ragni Main Entrance
+emerald
+ Crops
+Trading Routes:
+- Ragni East Suburbs
+- Emerald Trail
+- Ragni
+Canyon Fortress
+Ore
+Wood
+ Fish
+ Crops
+Trading Routes:
+- Canyon Waterfall Mid North
+- Valley of the Lost
+Llevigar Farm
+emerald
+ Crops
+Trading Routes:
+- Goblin Plains West
+- Loamsprout Camp
+- Pre-Light Forest Transition
+- Quartz Mines North East
+- Goblin Plains East
+- Quartz Mines North West
+Detlas Suburbs
+emerald
+ Crops
+Trading Routes:
+- Nether Plains Upper
+- Detlas Close Suburbs
+- Detlas Trail East Plains
+- Detlas Far Suburbs
+Corkus Sea Cove
+emerald
+ Fish
+Trading Routes:
+- Corkus Sea Port
+- Fallen Factory
+- Road To Mine
+- Corkus City Mine
+Iron Road   
+emerald
+Ore
+Trading Routes:
+- Swamp Lower
+- Meteor Crater
+- Goblin Plains West
+- Forgotten Path
+Thesead Suburbs
+emerald
+ Crops
+Trading Routes:
+- Chained House
+- Ranol's Farm
+- Entrance to Rodoroc
+- Thesead
+Burning Farm
+emerald
+Ore
+Trading Routes:
+- Burning Airship
+- Ghostly Path
+Desert Mid-Upper
+emerald
+ Crops
+Trading Routes:
+- Almuj City
+- Desert Mid-Lower
+- Desert East Mid
+- Desert Upper
+Forgotten Town
+emerald
+ Crops
+Trading Routes:
+- Grey Ruins
+- Forest of Eyes
+Nemract Quarry
+emerald
+ Crops
+Trading Routes:
+- Nemract Road
+- Nemract Plains West
+- Plains Coast
+Nether Plains Upper
+emerald
+ Crops
+Trading Routes:
+- Nether Gate
+- Detlas Close Suburbs
+- Corrupted Road
+- Detlas Far Suburbs
+- Detlas Suburbs
+- Plains Lake
+Desert East Upper
+emerald
+ Crops
+Trading Routes:
+- Desert East Mid
+Savannah East Upper
+emerald
+ Crops
+Trading Routes:
+- Almuj City
+- Savannah East Lower
+- Savannah West Upper
+Sunspark Camp
+emerald
+Ore
+Trading Routes:
+- Swamp East Lower
+- Swamp Mountain Base
+- Meteor Crater
+- Orc Lake
+- Llevigar Plains East Upper
+Icy Island  
+emerald
+ Fish
+Trading Routes:
+- Regular Island
+- Dujgon Nation
+- Nodguj Nation
+- Santa's Hideout
+Quartz Mines North East
+emerald
+Ore
+Trading Routes:
+- Llevigar Farm
+- Pre-Light Forest Transition
+- Quartz Mines North West
+- Quartz Mines South East
+Gert Camp   
+emerald
+Wood
+Trading Routes:
+- Gylia Lake North East
+- Jitak's Farm
+Thesead     
+emerald
+Ore
+Trading Routes:
+- Thesead Suburbs
+- Entrance to Thesead South
+Military Base Upper
+emerald
+Ore
+Trading Routes:
+- Military Base Lower
+- Military Base
+Volcano Upper
+emerald
+Ore
+Trading Routes:
+- Tree Island
+- Volcano Lower
+- Pirate Town
+- Lost Atoll
+Entrance to Olux
+emerald
+Ore
+Trading Routes:
+- Swamp Dark Forest Transition Lower
+- Swamp Dark Forest Transition Mid
+- Olux
+- Swamp Lower
+- Swamp Plains Basin
+Otherwordly Monolith
+emerald
+ Fish
+Trading Routes:
+- Azure Frontier
+- Path to Light
+Lava Lake Bridge
+emerald
+Ore
+Trading Routes:
+- Molten Heights Portal
+- Active Volcano
+- Crater Descent
+Aldorei Valley West Entrance
+emerald
+Wood
+Trading Routes:
+- Mantis Nest
+- Hobbit River
+- Aldorei Valley Lower
+Kandon-Beda 
+emerald
+Ore
+Trading Routes:
+- Canyon Of The Lost
+Raider's Base Upper
+emerald
+Ore
+Trading Routes:
+- Sky Island Ascent
+- Raider's Base Lower
+Light Forest East Lower
+emerald
+Wood
+Trading Routes:
+- Light Forest West Mid
+- Light Forest East Mid
+- Hobbit River
+- Mantis Nest
+Jungle Upper
+Ore
+Wood
+ Fish
+ Crops
+Trading Routes:
+- Jungle Mid
+Dead Island South East
+emerald
+ Fish
+Trading Routes:
+- Regular Island
+- Dujgon Nation
+- Dead Island South West
+- Dead Island North East
+Mesquis Tower
+emerald
+Wood
+Trading Routes:
+- Cinfras Entrance
+- Abandoned Manor
+- Path to Cinfras
+- Kander Mines
+Light Forest West Mid
+emerald
+Wood
+Trading Routes:
+- Light Forest East Lower
+- Light Forest Entrance
+- Light Forest West Lower
+- Light Forest West Upper
+Path To Military Base
+emerald
+Ore
+Trading Routes:
+- Military Base
+- Thanos
+Light Forest West Upper
+emerald
+Wood
+Trading Routes:
+- Efilim South East Plains
+- Light Forest West Mid
+- Light Forest North Entrance
+- Light Forest East Mid
+Mountain Edge
+emerald
+Wood
+Trading Routes:
+- Cliff Side of the Lost
+Nivla Woods Exit
+emerald
+Wood
+Trading Routes:
+- Nivla Woods Edge
+- South Nivla Woods
+- North Nivla Woods
+- Nivla Woods
+Legendary Island
+Ore
+Wood
+ Fish
+ Crops
+Trading Routes:
+- Southern Outpost
+- Zhight Island
+Abandoned Pass
+emerald
+Ore
+Trading Routes:
+- Ternaves Plains Lower
+- Mining Base Upper
+Nesaak Plains Upper North West  
+emerald
+Wood
+Trading Routes:
+- Elkurn
+- Nesaak Plains Lower North West
+- Sanctuary Bridge
+- Nesaak Plains Mid North West
+- Nesaak Plains North East
+Detlas      
+emerald
+ Crops
+Trading Routes:
+- Detlas Close Suburbs
+- Detlas Savannah Transition
+- Detlas Trail East Plains
+Chained House
+emerald
+Ore
+Trading Routes:
+- Hive South
+- Thesead Suburbs
+- Cherry Blossom Forest
+- Entrance to Thesead South
+Corkus City Mine
+emerald
+Ore
+Trading Routes:
+- Corkus Statue
+- Road To Mine
+- Corkus Sea Cove
+Mountain Path
+emerald
+Ore
+Trading Routes:
+- Canyon Dropoff
+Cinfras     
+emerald
+Wood
+Trading Routes:
+- Cinfras Outskirts
+- Guild Hall
+- Cinfras Entrance
+- Aldorei's River
+Lexdale     
+emerald
+Wood
+Trading Routes:
+- Viscera Pits East
+- Heart of Decay
+- Decayed Basin
+- Old Crossroads North
+Corkus City South
+emerald
+ Fish
+Trading Routes:
+- Corkus Forest South
+- Fallen Factory
+- Road To Mine
+- Factory Entrance
+- Corkus City
+Zhight Island
+emerald
+ Fish
+Trading Routes:
+- The Bear Zoo
+- Pirate Town
+- Legendary Island
+Toxic Caves 
+emerald
+ Fish
+Trading Routes:
+- Toxic Drip
+Nesaak Plains North East
+emerald
+Wood
+Trading Routes:
+- Nesaak Transition
+- Nesaak Plains Upper North West
+- Bob's Tomb
+- Nesaak Plains Lower North West
+- Nesaak Village
+Desolate Valley
+emerald
+ Crops
+Trading Routes:
+- Nesaak Transition
+- Nether Plains Lower
+- Plains Lake
+Ragni       
+emerald
+ Crops
+Trading Routes:
+- Ragni Main Entrance
+- Pigmen Ravines Entrance
+- Ragni North Entrance
+Field of Life
+emerald
+Wood
+Trading Routes:
+- Luminous Plateau
+- Primal Fen
+- Azure Frontier
+- Heavenly Ingress
+Nemract Town
+emerald
+ Crops
+Trading Routes:
+- Rooster Island
+- Nemract Road
+- Nemract Cathedral
+- Plains Coast
+Entrance to Thesead North
+emerald
+Wood
+Trading Routes:
+- Entrance to Thesead South
+- Cliffside Passage North
+Detlas Far Suburbs
+Ore
+Wood
+ Fish
+ Crops
+Trading Routes:
+- Nivla Woods Edge
+- Nether Plains Upper
+- Detlas Suburbs
+- Detlas Trail West Plains
+- Corrupted Road
+Lighthouse Plateau
+emerald
+ Fish
+Trading Routes:
+- Phinas Farm
+- Southern Outpost
+- Corkus Sea Port
+Entrance to Thesead South
+emerald
+Ore
+Trading Routes:
+- Cliffside Valley
+- Chained House
+- Entrance to Thesead North
+- Thesead
+Dark Forest Village
+emerald
+Wood
+Trading Routes:
+- Cinfras Outskirts
+- Kander Mines
+- Old Crossroads South
+- Path to Talor
+Swamp East Mid
+emerald
+Ore
+Trading Routes:
+- Swamp Mountain Base
+- Swamp West Mid
+- Swamp East Mid-Upper
+- Swamp East Lower
+Desolate Valley
+emerald
+ Crops
+Trading Routes:
+- Nether Plains Lower
+- Nesaak Transition
+- Plains Lake
+Mummy's Tomb
+emerald
+ Crops
+Trading Routes:
+- Desert Upper
+Dernel Jungle Upper
+emerald
+Wood
+Trading Routes:
+- Dernel Jungle Mid
+Lexdales Prison
+emerald
+Wood
+Trading Routes:
+- Twisted Ridge
+- Viscera Pits West
+Wybel Island
+emerald
+Wood
+Trading Routes:
+- Ahmsord Outskirts
+- Central Islands
+- Sky Falls
+Avos Temple 
+emerald
+ Fish
+Trading Routes:
+- Bloody Beach
+- Avos Workshop
+Swamp Dark Forest Transition Mid
+emerald
+Ore
+Trading Routes:
+- Swamp Dark Forest Transition Lower
+- Swamp Dark Forest Transition Upper
+- Entrance to Olux
+- Taproot Descent
+- Olux
+Rymek West Upper
+emerald
+ Crops
+Trading Routes:
+- Desert Lower
+- Rymek East Upper
+- Desert West Lower
+- Rymek West Mid
+Goblin Plains East
+emerald
+ Crops
+Trading Routes:
+- Goblin Plains West
+- Llevigar Farm
+- Pre-Light Forest Transition
+- Forgotten Path
+Azure Frontier
+emerald
+ Fish
+Trading Routes:
+- Field of Life
+- Nexus of Light
+- Path to Light
+- Otherwordly Monolith
+Cinfras County Mid-Upper
+emerald
+Wood
+Trading Routes:
+- Cinfras County Mid-Lower
+- Cinfras County Upper
+- Cinfras Thanos Transition
+Maltic      
+Ore
+Wood
+ Fish
+ Crops
+Trading Routes:
+- Ragni Plains
+- South Farmers Valley
+- Coastal Trail
+- Maltic Plains
+- Maltic Coast
+Abandoned Manor
+emerald
+Wood
+Trading Routes:
+- Entrance to Kander
+- Mesquis Tower
+- Lone Farmstead
+- Kander Mines
+Swamp West Upper
+emerald
+Ore
+Trading Routes:
+- Swamp Mountain Transition Mid
+- Swamp Mountain Transition Mid-Upper
+- Swamp East Upper
+- Swamp West Mid-Upper
+Ragni East Suburbs
+emerald
+ Crops
+Trading Routes:
+- Ragni Plains
+- Ragni Main Entrance
+- Maltic Plains
+Detlas Far Suburbs
+Ore
+Wood
+ Fish
+ Crops
+Trading Routes:
+- Nivla Woods Edge
+- Nether Plains Upper
+- Corrupted Road
+- Detlas Trail West Plains
+- Detlas Suburbs
+Plains Lake 
+emerald
+ Fish
+Trading Routes:
+- Nether Plains Upper
+- Nether Gate
+- Mine Base Plains
+- Desolate Valley
+Ternaves Plains Upper
+emerald
+ Crops
+Trading Routes:
+- Detlas Savannah Transition
+- Ternaves Plains Lower
+- Savannah West Lower
+- Ternaves
+Swamp Dark Forest Transition Lower
+emerald
+Ore
+Trading Routes:
+- Swamp Dark Forest Transition Mid
+- Fortress North
+- Entrance to Olux
+- Fortress South
+- Swamp Lower
+- Forgotten Path
+Twisted Housing
+emerald
+Wood
+Trading Routes:
+- Mansion of Insanity
+- Lone Farmstead
+- Gelibord
+- Gelibord Corrupted Farm
+- Efilim Village
+Hobbit River
+emerald
+Ore
+Trading Routes:
+- Light Forest East Lower
+- Light Forest West Lower
+- Aldorei Valley West Entrance
+Cinfras Entrance
+emerald
+Wood
+Trading Routes:
+- Cinfras
+- Mesquis Tower
+- Light Forest North Exit
+- Path to Cinfras
+Detlas Close Suburbs
+emerald
+ Crops
+Trading Routes:
+- Detlas
+- Nether Plains Upper
+- Detlas Trail East Plains
+- Detlas Suburbs
+Lost Atoll  
+emerald
+ Fish
+Trading Routes:
+- Volcano Upper
+- Tree Island
+- Pirate Town
+Twisted Ridge
+emerald
+ Fish
+Trading Routes:
+- Entrance to Kander
+- Viscera Pits West
+Cliffside Valley
+emerald
+Ore
+Trading Routes:
+- Entrance to Thesead North
+- Entrance to Thesead South
+- Bandits Toll
+- Air Temple Lower
+Detlas Trail West Plains
+emerald
+ Crops
+Trading Routes:
+- Ancient Nemract
+- Nemract Plains East
+- Detlas Suburbs
+- Detlas Far Suburbs
+Canyon Survivor
+emerald
+ Crops
+Trading Routes:
+- Canyon Lower South East
+- Cliff Side of the Lost
+Ragni       
+emerald
+ Crops
+Trading Routes:
+- Ragni North Entrance
+- Pigmen Ravines Entrance
+- Ragni Main Entrance
+Aldorei Valley South Entrance
+emerald
+Wood
+Trading Routes:
+- Cinfras's Small Farm
+- Aldorei's North Exit
+- Aldorei's Waterfall
+Path To Ozoth's Spire Upper
+emerald
+ Crops
+Trading Routes:
+- Path To Thanos
+- Bandit Cave Lower
+- Path To Ozoth's Spire Mid
+- Cinfras Thanos Transition
+Light Forest West Lower
+emerald
+Wood
+Trading Routes:
+- Light Forest South Entrance
+- Light Forest West Mid
+- Hobbit River
+Rymek East Mid
+emerald
+ Crops
+Trading Routes:
+- Rymek East Upper
+- Rymek East Lower
+- Rymek West Mid
+Forgotten Path
+emerald
+ Crops
+Trading Routes:
+- Swamp Dark Forest Transition Lower
+- Goblin Plains East
+- Iron Road
+Lusuco      
+emerald
+ Crops
+Trading Routes:
+- Icy Descent
+Ternaves    
+emerald
+ Crops
+Trading Routes:
+- Ternaves Plains Upper
+- Savannah East Lower
+- Ternaves Plains Lower
+Cinfras County Mid-Upper
+emerald
+Wood
+Trading Routes:
+- Cinfras County Mid-Lower
+- Cinfras County Upper
+- Cinfras Thanos Transition
+Ternaves    
+emerald
+ Crops
+Trading Routes:
+- Savannah East Lower
+- Ternaves Plains Upper
+- Ternaves Plains Lower
+Swamp Island
+emerald
+Wood
+Trading Routes:
+- Temple Island
+- Astraulus' Tower
+- Ahmsord Outskirts
+Temple of the Lost East
+emerald
+Ore
+Trading Routes:
+- Valley of the Lost
+- Krolton's Cave
+Gateway to Nothing
+emerald
+ Crops
+Trading Routes:
+- Final Step
+- Void Valley
+- Toxic Drip
+Goblin Plains West
+emerald
+Ore
+Trading Routes:
+- Goblin Plains East
+- Iron Road
+- Llevigar Farm
+- Sablestone Camp
+Half Moon Island
+emerald
+ Crops
+Trading Routes:
+- Mage Island
+Molten Heights Portal
+emerald
+Ore
+Trading Routes:
+- Lava Lake
+- Lava Lake Bridge
+- Crater Descent
+Jungle Lake 
+emerald
+Wood
+Trading Routes:
+- Temple of Legends
+- City of Troms
+- Jungle Mid
+Great Bridge Jungle
+emerald
+Wood
+Trading Routes:
+- Jungle Lower
+- Herb Cave
+- Great Bridge Nesaak
+Canyon Entrance Waterfall
+emerald
+Ore
+Trading Routes:
+- Canyon Path North Mid
+- Canyon Path North West
+Half Moon Island
+emerald
+ Crops
+Trading Routes:
+- Mage Island
+Ternaves Plains Upper
+emerald
+ Crops
+Trading Routes:
+- Ternaves
+- Savannah West Lower
+- Detlas Savannah Transition
+- Ternaves Plains Lower
+Orc Lake    
+emerald
+ Fish
+Trading Routes:
+- Sunspark Camp
+- Orc Road
+- Llevigar Plains East Upper
+- Sablestone Camp
+- Llevigar Plains East Lower
+Corkus Forest South
+emerald
+Wood
+Trading Routes:
+- Corkus City South
+- Factory Entrance
+- Corkus Forest North
+- Corkus City
+Nesaak Plains South West
+emerald
+Wood
+Trading Routes:
+- Icy Descent
+- Nesaak Plains South East
+- Twain Lake
+- Nesaak Plains Lower North West
+- Nesaak Village
+- Nesaak Bridge Transition
+Lusuco      
+emerald
+ Crops
+Trading Routes:
+- Icy Descent
+Nether Gate 
+emerald
+ Crops
+Trading Routes:
+- Nether Plains Upper
+- Nether Plains Lower
+- Corrupted Road
+- Plains Lake
+Aldorei's Arch
+emerald
+Ore
+Trading Routes:
+- Path To The Arch
+- Canyon Upper North West
+Gelibord Castle
+emerald
+Wood
+Trading Routes:
+- Gelibord Corrupted Farm
+- Taproot Descent
+Llevigar Gate West
+emerald
+Ore
+Trading Routes:
+- Llevigar Farm Plains West
+- Llevigar Gate East
+Cathedral Harbour
+emerald
+ Fish
+Trading Routes:
+- Durum Isles Lower
+- Ancient Nemract
+- Savannah West Upper
+- Nemract Cathedral
+- Durum Isles East
+Great Bridge Nesaak
+emerald
+Ore
+Trading Routes:
+- Great Bridge Jungle
+- Nesaak Bridge Transition
+Phinas Farm 
+emerald
+ Crops
+Trading Routes:
+- Royal Gate
+- Lighthouse Plateau
+Jofash Tunnel
+emerald
+Ore
+Trading Routes:
+- Jofash Docks
+- Sky Island Ascent
+Light Forest North Exit
+emerald
+Wood
+Trading Routes:
+- Light Forest Canyon
+- Cinfras Entrance
+- Light Forest South Exit
+Sablestone Camp
+emerald
+Ore
+Trading Routes:
+- Goblin Plains West
+- Loamsprout Camp
+- Meteor Crater
+- Orc Lake
+Viscera Pits East
+emerald
+Wood
+Trading Routes:
+- Lexdale
+- Viscera Pits West
+- Path to Talor
+The Broken Road
+emerald
+ Crops
+Trading Routes:
+- Worm Tunnel
+- The Silent Road
+Goblin Plains West
+emerald
+Ore
+Trading Routes:
+- Llevigar Farm
+- Goblin Plains East
+- Iron Road
+- Sablestone Camp
+Aldorei's Waterfall
+emerald
+ Crops
+Trading Routes:
+- Aldorei Valley Upper
+- Aldorei Valley South Entrance
+Gylia Lake North West
+emerald
+ Fish
+Trading Routes:
+- Gylia Lake South West
+- Fallen Village
+- Gylia Lake North East
+- Jitak's Farm
+Dernel Jungle Lower
+emerald
+ Fish
+Trading Routes:
+- Dernel Jungle Mid
+- Jungle Lower
+Gylia Lake South East
+emerald
+ Fish
+Trading Routes:
+- Gylia Lake South West
+- Thanos
+- Cinfras County Upper
+- Gylia Lake North East
+Mushroom Hill
+emerald
+Wood
+Trading Routes:
+- Heart of Decay
+- Fallen Village
+- Decayed Basin
+- Jitak's Farm
+Forest of Eyes
+emerald
+Wood
+Trading Routes:
+- Forgotten Town
+- Sinister Forest
+Void Valley 
+emerald
+ Crops
+Trading Routes:
+- Gateway to Nothing
+Kandon Farm 
+emerald
+ Crops
+Trading Routes:
+- Kandon Ridge
+Meteor Crater
+emerald
+Ore
+Trading Routes:
+- Sunspark Camp
+- Iron Road
+- Sablestone Camp
+Cinfras Entrance
+emerald
+Wood
+Trading Routes:
+- Light Forest North Exit
+- Mesquis Tower
+- Cinfras
+- Path to Cinfras
+Iron Road   
+emerald
+Ore
+Trading Routes:
+- Goblin Plains West
+- Meteor Crater
+- Swamp Lower
+- Forgotten Path
+Astraulus' Tower
+emerald
+Wood
+Trading Routes:
+- Dragonling Nests
+- Swamp Island
+Desert East Mid
+emerald
+ Fish
+Trading Routes:
+- Desert East Upper
+- Desert Mid-Upper
+- Desert East Lower
+Efilim South East Plains
+emerald
+ Crops
+Trading Routes:
+- Efilim South Plains
+- Light Forest West Upper
+- Efilim East Plains
+- Light Forest East Upper
+Taproot Descent
+emerald
+Wood
+Trading Routes:
+- Gelibord Castle
+- Swamp Dark Forest Transition Mid
+- Fortress North
+- Swamp Dark Forest Transition Upper
+- Gelibord Corrupted Farm
+Cinfras County Lower
+emerald
+Wood
+Trading Routes:
+- Cinfras County Mid-Lower
+- Cinfras's Small Farm
+- Aldorei's North Exit
+Dead Island North West
+Ore
+Wood
+ Fish
+ Crops
+Trading Routes:
+- Dead Island South West
+- Dead Island North East
+Cinfras Outskirts
+emerald
+Wood
+Trading Routes:
+- Fungal Grove
+- Dark Forest Cinfras Transition
+- Cinfras
+- Dark Forest Village
+- Old Crossroads South
+Twisted Ridge
+emerald
+ Fish
+Trading Routes:
+- Entrance to Kander
+- Viscera Pits West
+Lighthouse Plateau
+emerald
+ Fish
+Trading Routes:
+- Corkus Sea Port
+- Phinas Farm
+- Southern Outpost
+Plains Coast
+emerald
+ Fish
+Trading Routes:
+- Nemract Quarry
+- Nemract Town
+- North Farmers Valley
+Desert East Lower
+emerald
+ Crops
+Trading Routes:
+- Desert Mid-Lower
+- Rymek East Upper
+- Desert East Mid
+Cliff Side of the Lost
+emerald
+Ore
+Trading Routes:
+- Canyon Dropoff
+- Canyon Of The Lost
+- Canyon Survivor
+- Mountain Edge
+- Valley of the Lost
+Llevigar Plains East Upper
+emerald
+Ore
+Trading Routes:
+- Llevigar Plains West Upper
+- Sunspark Camp
+- Orc Lake
+- Swamp East Lower
+- Llevigar Plains East Lower
+Cliffside Valley
+emerald
+Ore
+Trading Routes:
+- Entrance to Thesead South
+- Bandits Toll
+- Air Temple Lower
+- Entrance to Thesead North
+Raider's Base Lower
+emerald
+Ore
+Trading Routes:
+- Raider's Base Upper
+Light Forest West Lower
+emerald
+Wood
+Trading Routes:
+- Light Forest West Mid
+- Light Forest South Entrance
+- Hobbit River
+Time Valley 
+emerald
+Wood
+Trading Routes:
+- Elkurn Fields
+- Abandoned Farm
+- Little Wood
+Swamp Mountain Transition Mid-Upper
+emerald
+ Fish
+Trading Routes:
+- Swamp East Upper
+- Swamp Mountain Transition Upper
+- Swamp Mountain Transition Mid
+Ghostly Path
+emerald
+Ore
+Trading Routes:
+- Path To The Arch
+- Burning Farm
+North Nivla Woods
+emerald
+Wood
+Trading Routes:
+- Nivla Woods Edge
+- Nivla Woods Exit
+- Plains
+Gylia Lake North East
+emerald
+ Fish
+Trading Routes:
+- Gylia Lake North West
+- Gert Camp
+- Gylia Lake South East
+- Military Base
+Bandit Cave Lower
+emerald
+Ore
+Trading Routes:
+- Path To Ozoth's Spire Upper
+- Canyon Valley South
+Toxic Caves 
+emerald
+ Fish
+Trading Routes:
+- Toxic Drip
+Military Base Lower
+emerald
+Ore
+Trading Routes:
+- Military Base Upper
+- Path To Ozoth's Spire Lower
+- Thanos Valley West
+Canyon Walk Way
+emerald
+Wood
+Trading Routes:
+- Canyon Mountain East
+- Path To Ozoth's Spire Mid
+- Bandits Toll
+Volcano Lower
+emerald
+Ore
+Trading Routes:
+- Volcano Upper
+- Bloody Beach
+- Llevigar Entrance
+Mining Base Upper
+emerald
+Ore
+Trading Routes:
+- Abandoned Pass
+- Mining Base Lower
+- Ternaves Plains Lower
+Hive South  
+emerald
+Ore
+Trading Routes:
+- Cherry Blossom Forest
+- Canyon High Path
+- Chained House
+- Hive
+- Thanos Exit Upper
+Volcano Lower
+emerald
+Ore
+Trading Routes:
+- Bloody Beach
+- Volcano Upper
+- Llevigar Entrance
+Zhight Island
+emerald
+ Fish
+Trading Routes:
+- Legendary Island
+- The Bear Zoo
+- Pirate Town
+Road To Mine
+emerald
+ Fish
+Trading Routes:
+- Corkus City South
+- Corkus City Mine
+- Corkus Sea Cove
+Swamp West Lower
+emerald
+Ore
+Trading Routes:
+- Llevigar Plains West Upper
+- Swamp West Mid
+- Swamp East Lower
+Llevigar    
+emerald
+Ore
+Trading Routes:
+- Llevigar Gate East
+- Quartz Mines South West
+- Llevigar Entrance
+Entrance to Rodoroc
+emerald
+Ore
+Trading Routes:
+- Eltom
+- Thesead Suburbs
+- Rodoroc
+Light Forest Canyon
+emerald
+Wood
+Trading Routes:
+- Light Forest North Exit
+- Mantis Nest
+- Light Forest East Mid
+Corkus Castle
+emerald
+ Fish
+Trading Routes:
+- Corkus City
+Snail Island
+emerald
+Wood
+Trading Routes:
+- Temple Island
+Lava Lake   
+emerald
+Ore
+Trading Routes:
+- Molten Heights Portal
+- Volcanic Slope
+- Active Volcano
+Sky Castle  
+emerald
+Wood
+Trading Routes:
+- Path to Ahmsord Lower
+Canyon Path South East
+emerald
+Ore
+Trading Routes:
+- Canyon Lower South East
+- Canyon Path North West
+Desert East Mid
+emerald
+ Fish
+Trading Routes:
+- Desert East Lower
+- Desert East Upper
+- Desert Mid-Upper
+Ternaves Plains Lower
+emerald
+ Crops
+Trading Routes:
+- Abandoned Pass
+- Ternaves Plains Upper
+- Mine Base Plains
+- Mining Base Upper
+- Ternaves
+The Gate    
+emerald
+ Crops
+Trading Routes:
+- Bizarre Passage
+Fleris Trail
+emerald
+Wood
+Trading Routes:
+- Road To Light Forest
+Corkus Forest North
+emerald
+Wood
+Trading Routes:
+- Corkus Forest South
+- Corkus Mountain
+- Corkus City
+- Corkus City South
+Sinister Forest
+emerald
+Wood
+Trading Routes:
+- Forest of Eyes
+- Lutho
+Swamp East Upper
+emerald
+Ore
+Trading Routes:
+- Swamp Mountain Transition Mid-Upper
+- Swamp East Mid-Upper
+- Swamp West Upper
+- Swamp Mountain Transition Upper
+- Swamp Plains Basin
+Pigmen Ravines Entrance
+emerald
+Ore
+Trading Routes:
+- South Pigmen Ravines
+- Pigmen Ravines
+- Ragni
+Corkus Outskirts
+emerald
+ Fish
+Trading Routes:
+- Corkus Statue
+- Corkus Countryside
+- Bloody Beach
+Maltic Coast
+emerald
+ Fish
+ Crops
+Trading Routes:
+- Maltic
+- South Farmers Valley
+- Coastal Trail
+- North Farmers Valley
+Quartz Mines North West
+emerald
+Ore
+Trading Routes:
+- Quartz Mines South West
+- Quartz Mines North East
+- Llevigar Farm
+- Loamsprout Camp
+Guild Hall  
+emerald
+Ore
+Trading Routes:
+- Cinfras
+Void Valley 
+emerald
+ Crops
+Trading Routes:
+- Gateway to Nothing
+Savannah East Upper
+emerald
+ Crops
+Trading Routes:
+- Almuj City
+- Savannah East Lower
+- Savannah West Upper
+Nivla Woods Exit
+emerald
+Wood
+Trading Routes:
+- Nivla Woods Edge
+- Nivla Woods
+- North Nivla Woods
+- South Nivla Woods
+Nemract Plains East
+emerald
+Ore
+Trading Routes:
+- Nemract Road
+- Detlas Trail West Plains
+Corkus Sea Port
+emerald
+ Fish
+Trading Routes:
+- Fallen Factory
+- Corkus Sea Cove
+- Ruined Houses
+- Lighthouse Plateau
+Efilim South Plains
+emerald
+Wood
+Trading Routes:
+- Efilim South East Plains
+- Efilim Village
+- Light Forest North Entrance
+Path to Talor
+emerald
+Ore
+Trading Routes:
+- Viscera Pits East
+- Entrance to Kander
+- Dark Forest Village
+- Old Crossroads South
+- Kander Mines
+- Old Crossroads North
+Mansion of Insanity
+Ore
+Wood
+ Fish
+ Crops
+Trading Routes:
+- Fortress South
+- Fortress North
+- Twisted Housing
+Cinfras County Lower
+emerald
+Wood
+Trading Routes:
+- Cinfras County Mid-Lower
+- Aldorei's North Exit
+- Cinfras's Small Farm
+Detlas Trail East Plains
+emerald
+ Crops
+Trading Routes:
+- Cathedral Harbour
+- Detlas
+- Ancient Nemract
+- Detlas Close Suburbs
+- Detlas Suburbs
+Efilim East Plains
+emerald
+Wood
+Trading Routes:
+- Efilim South East Plains
+- Efilim Village
+Light Forest West Mid
+emerald
+Wood
+Trading Routes:
+- Light Forest West Upper
+- Light Forest Entrance
+- Light Forest East Lower
+- Light Forest West Lower
+Jungle Upper
+Ore
+Wood
+ Fish
+ Crops
+Trading Routes:
+- Jungle Mid
+Sunspark Camp
+emerald
+Ore
+Trading Routes:
+- Swamp Mountain Base
+- Meteor Crater
+- Orc Lake
+- Llevigar Plains East Upper
+- Swamp East Lower
+Road To Mine
+emerald
+ Fish
+Trading Routes:
+- Corkus City Mine
+- Corkus Sea Cove
+- Corkus City South
+Light Forest Entrance
+emerald
+Wood
+Trading Routes:
+- Light Forest South Entrance
+- Light Forest West Mid
+- Light Forest North Entrance
+- Road To Light Forest
+Lone Farmstead
+emerald
+Wood
+Trading Routes:
+- Gelibord
+- Twisted Housing
+- Abandoned Manor
+Light Forest East Upper
+emerald
+Wood
+Trading Routes:
+- Efilim South East Plains
+- Path to Cinfras
+Llevigar Plains East Upper
+emerald
+Ore
+Trading Routes:
+- Swamp East Lower
+- Llevigar Plains East Lower
+- Orc Lake
+- Sunspark Camp
+- Llevigar Plains West Upper
+Eltom       
+emerald
+ Crops
+Trading Routes:
+- Ranol's Farm
+- Entrance to Rodoroc
+Molten Reach
+emerald
+Ore
+Trading Routes:
+- Molten Heights Portal
+- Angel Refuge
+Llevigar Farm Plains West
+emerald
+ Crops
+Trading Routes:
+- Llevigar Plains West Lower
+- Llevigar Farm Plains East
+- Llevigar Gate West
+Mantis Nest 
+emerald
+Wood
+Trading Routes:
+- Light Forest Canyon
+- Aldorei Valley West Entrance
+- Light Forest East Lower
+- Light Forest South Exit
+- Aldorei Valley Lower
+Thanos Valley West
+emerald
+Wood
+Trading Routes:
+- Military Base Lower
+Mantis Nest 
+emerald
+Wood
+Trading Routes:
+- Light Forest Canyon
+- Light Forest East Lower
+- Light Forest South Exit
+- Aldorei Valley Lower
+- Aldorei Valley West Entrance
+Quartz Mines South East
+emerald
+Ore
+Trading Routes:
+- Quartz Mines North East
+- Quartz Mines South West
+Dragonling Nests
+emerald
+Wood
+Trading Routes:
+- Astraulus' Tower
+- Snail Island
+Grey Ruins  
+emerald
+ Crops
+Trading Routes:
+- Worm Tunnel
+- Forgotten Town
+Corkus Mountain
+emerald
+ Fish
+Trading Routes:
+- Corkus Forest North
+- Corkus Countryside
+- Corkus Docks
+Bizarre Passage
+emerald
+ Crops
+Trading Routes:
+- Final Step
+- The Gate
+Burning Airship
+emerald
+Ore
+Trading Routes:
+- Cinfras Thanos Transition
+- Bandit Cave Upper
+- Burning Farm
+Bloody Beach
+Ore
+Wood
+ Fish
+ Crops
+Trading Routes:
+- Corkus Outskirts
+- Volcano Lower
+- Pirate Town
+- Corkus Countryside
+- Avos Temple
+Nemract Quarry
+emerald
+ Crops
+Trading Routes:
+- Plains Coast
+- Nemract Road
+- Nemract Plains West
+Nivla Woods Edge
+emerald
+Wood
+Trading Routes:
+- Road to Elkurn
+- North Nivla Woods
+- Detlas Far Suburbs
+- Nivla Woods Exit
+Nesaak Transition
+emerald
+ Crops
+Trading Routes:
+- Elkurn
+- Desolate Valley
+- Nesaak Plains North East
+- Nether Plains Lower
+Nivla Woods Edge
+emerald
+Wood
+Trading Routes:
+- North Nivla Woods
+- Nivla Woods Exit
+- Road to Elkurn
+- Detlas Far Suburbs
+Road to Time Valley
+emerald
+Wood
+Trading Routes:
+- Nivla Woods Entrance
+- Nivla Woods
+- South Nivla Woods
+Swamp Mountain Base
+emerald
+Ore
+Trading Routes:
+- Sunspark Camp
+- Swamp East Mid
+- Swamp Lower
+- Swamp Plains Basin
+Loamsprout Camp
+emerald
+Ore
+Trading Routes:
+- Llevigar Farm
+- Quartz Mines North West
+- Orc Road
+- Sablestone Camp
+Light Forest North Exit
+emerald
+Wood
+Trading Routes:
+- Light Forest Canyon
+- Cinfras Entrance
+- Light Forest South Exit
+Elkurn Fields
+emerald
+ Crops
+Trading Routes:
+- Elkurn
+- South Nivla Woods
+- Time Valley
+- Road to Elkurn
+Nexus of Light
+Ore
+Wood
+ Fish
+ Crops
+Trading Routes:
+- Azure Frontier
+Aldorei Valley Upper
+emerald
+ Crops
+Trading Routes:
+- Aldorei Valley Mid
+- Aldorei's Waterfall
+Canyon Valley South
+emerald
+Ore
+Trading Routes:
+- Canyon Mountain East
+- Bandit Cave Lower
+- Bandit Camp Exit
+Jitak's Farm
+emerald
+ Crops
+Trading Routes:
+- Mushroom Hill
+- Gylia Lake North West
+- Gert Camp
+Twain Lake  
+emerald
+ Fish
+Trading Routes:
+- Twain Mansion
+- Nesaak Plains South West
+Herb Cave   
+emerald
+ Crops
+Trading Routes:
+- Great Bridge Jungle
+Durum Isles East
+emerald
+ Crops
+Trading Routes:
+- Mage Island
+- Durum Isles Center
+Pre-Light Forest Transition
+emerald
+Wood
+Trading Routes:
+- Goblin Plains East
+- Quartz Mines North East
+- Llevigar Farm
+- Leadin Fortress
+Aldorei's River
+emerald
+Wood
+Trading Routes:
+- Cinfras
+- Aldorei Lowlands
+Swamp Mountain Transition Lower 
+emerald
+ Fish
+Trading Routes:
+- Swamp Mountain Transition Mid
+Cliffside Passage North
+emerald
+Wood
+Trading Routes:
+- Entrance to Thesead North
+- Cliffside Passage
+South Nivla Woods
+emerald
+Wood
+Trading Routes:
+- Road to Elkurn
+- Nivla Woods
+- Road to Time Valley
+- Elkurn Fields
+- Nivla Woods Exit
+Temple of Legends
+emerald
+Wood
+Trading Routes:
+- Jungle Lake
+- City of Troms
+Lion Lair   
+emerald
+Wood
+Trading Routes:
+- Bremminglar
+Nesaak Village
+emerald
+Wood
+Trading Routes:
+- Nesaak Plains South East
+- Bob's Tomb
+- Nesaak Plains North East
+- Nesaak Plains Lower North West
+- Nesaak Plains South West
+Light Forest Canyon
+emerald
+Wood
+Trading Routes:
+- Light Forest East Mid
+- Light Forest North Exit
+- Mantis Nest
+Swamp Mountain Transition Upper 
+emerald
+Ore
+Trading Routes:
+- Olux
+- Swamp Mountain Transition Mid-Upper
+- Swamp East Upper
+Leadin Fortress
+emerald
+Ore
+Trading Routes:
+- Pre-Light Forest Transition
+- Road To Light Forest
+- Orc Battlegrounds
+Corrupted Road
+emerald
+ Crops
+Trading Routes:
+- Elkurn
+- Nether Plains Upper
+- Nether Gate
+- Detlas Far Suburbs
+North Farmers Valley
+emerald
+ Crops
+Trading Routes:
+- South Farmers Valley
+- Maltic Plains
+- Maltic Coast
+Skiens Island
+emerald
+Ore
+Trading Routes:
+- Maro Peaks
+- Selchar
+- Dead Island South West
+- Nodguj Nation
+Temple Island
+emerald
+Wood
+Trading Routes:
+- Central Islands
+- Kandon Ridge
+- Swamp Island
+- Ahmsord
+- Snail Island
+Ruined Houses
+emerald
+ Fish
+Trading Routes:
+- Fallen Factory
+- Corkus Sea Port
+- Factory Entrance
+Emerald Trail
+emerald
+ Crops
+Trading Routes:
+- Nivla Woods Entrance
+- Ragni Main Entrance
+- Maltic Plains
+Heavenly Ingress
+emerald
+Wood
+Trading Routes:
+- Light Forest South Entrance
+- Field of Life
+Sky Island Ascent
+emerald
+Ore
+Trading Routes:
+- Raider's Base Upper
+- Central Islands
+- Sky Falls
+- Jofash Tunnel
+Lutho       
+emerald
+ Crops
+Trading Routes:
+- Paths of Sludge
+- Sinister Forest
+Old Coal Mine
+Ore
+Wood
+ Fish
+ Crops
+Trading Routes:
+- Kandon Ridge
+Hive South  
+emerald
+Ore
+Trading Routes:
+- Chained House
+- Cherry Blossom Forest
+- Canyon High Path
+- Hive
+- Thanos Exit Upper
+Dead Island South West
+emerald
+ Fish
+Trading Routes:
+- Dujgon Nation
+- Dead Island South East
+- Skiens Island
+- Dead Island North West
+Jungle Mid  
+emerald
+Wood
+Trading Routes:
+- Jungle Lower
+- Jungle Upper
+- Jungle Lake
+Aldorei's North Exit
+Ore
+Wood
+ Fish
+ Crops
+Trading Routes:
+- Path To The Arch
+- Aldorei Valley South Entrance
+- Cinfras County Lower
+Light Forest South Entrance
+Ore
+Wood
+ Fish
+ Crops
+Trading Routes:
+- Light Forest Entrance
+- Heavenly Ingress
+- Light Forest West Lower
+Desert Upper
+emerald
+ Crops
+Trading Routes:
+- Mummy's Tomb
+- Desert Mid-Upper
+- Desert West Upper
+Entrance to Rodoroc
+emerald
+Ore
+Trading Routes:
+- Thesead Suburbs
+- Eltom
+- Rodoroc
+Southern Outpost
+emerald
+ Fish
+Trading Routes:
+- Legendary Island
+- Lighthouse Plateau
+Factory Entrance
+emerald
+ Fish
+Trading Routes:
+- Corkus Forest South
+- Fallen Factory
+- Corkus City South
+- Ruined Houses
+Corkus Castle
+emerald
+ Fish
+Trading Routes:
+- Corkus City
+The Bear Zoo
+emerald
+ Fish
+Trading Routes:
+- Rooster Island
+- Zhight Island
+Swamp Dark Forest Transition Upper
+emerald
+Ore
+Trading Routes:
+- Swamp Dark Forest Transition Mid
+- Taproot Descent
+- Olux
+Dead Island North East
+emerald
+ Fish
+Trading Routes:
+- Jofash Docks
+- Dead Island South East
+- Dead Island North West
+Cherry Blossom Forest
+emerald
+Wood
+Trading Routes:
+- Hive South
+- Chained House
+- Ranol's Farm
+Wizard Tower North
+emerald
+Ore
+Trading Routes:
+- Bandits Toll
+- Krolton's Cave
+Canyon Of The Lost
+emerald
+Ore
+Trading Routes:
+- Cliff Side of the Lost
+- Cliffside Lake
+- Valley of the Lost
+- Kandon-Beda
+Twain Mansion
+Ore
+Wood
+ Fish
+ Crops
+Trading Routes:
+- Twain Lake
+Aldorei Valley Upper
+emerald
+ Crops
+Trading Routes:
+- Aldorei Valley Mid
+- Aldorei's Waterfall
+Eltom       
+emerald
+ Crops
+Trading Routes:
+- Ranol's Farm
+- Entrance to Rodoroc
+Rymek West Lower
+emerald
+Ore
+Trading Routes:
+- Rymek East Lower
+- Rymek West Mid
+Central Islands
+emerald
+Wood
+Trading Routes:
+- Sky Island Ascent
+- Wybel Island
+- Temple Island
+- Ahmsord Outskirts
+- Ahmsord
+Canyon Path North West
+emerald
+ Crops
+Trading Routes:
+- Canyon Path South East
+- Canyon Entrance Waterfall
+Pre-Light Forest Transition
+emerald
+Wood
+Trading Routes:
+- Llevigar Farm
+- Leadin Fortress
+- Quartz Mines North East
+- Goblin Plains East
+Canyon Waterfall Mid North
+emerald
+Ore
+Trading Routes:
+- Canyon Path North Mid
+- Canyon Fortress
+- Canyon Mountain South
+Military Base
+emerald
+Ore
+Trading Routes:
+- Path To Military Base
+- Military Base Upper
+Icy Descent 
+emerald
+Wood
+Trading Routes:
+- Tower of Ascension
+- Lusuco
+Canyon Path South West
+emerald
+Ore
+Trading Routes:
+- Canyon Lower South East
+- Canyon Path North West
+Aldorei Valley Lower
+emerald
+ Crops
+Trading Routes:
+- Aldorei Valley West Entrance
+- Aldorei Valley Mid
+Gelibord Corrupted Farm
+emerald
+ Crops
+Trading Routes:
+- Gelibord Castle
+- Gelibord
+- Twisted Housing
+- Taproot Descent
+Nesaak Plains South East
+emerald
+Wood
+Trading Routes:
+- Bob's Tomb
+- Nesaak Village
+- Nesaak Plains South West
+Gylia Lake South West
+emerald
+ Fish
+Trading Routes:
+- Dark Forest Cinfras Transition
+- Gylia Lake North West
+- Gylia Lake South East
+South Pigmen Ravines
+emerald
+Ore
+Trading Routes:
+- Pigmen Ravines Entrance
+- Little Wood
+Desert Lower
+emerald
+ Crops
+Trading Routes:
+- Rymek West Upper
+- Desert West Lower
+- Desert Mid-Lower
+Abandoned Farm
+emerald
+ Crops
+Trading Routes:
+- Time Valley
+- Pigmen Ravines
+Nether Plains Lower
+emerald
+ Crops
+Trading Routes:
+- Elkurn
+- Nether Gate
+- Desolate Valley
+- Nesaak Transition
+Air Temple Upper
+emerald
+Ore
+Trading Routes:
+- Air Temple Lower
+Olux        
+emerald
+Ore
+Trading Routes:
+- Swamp Dark Forest Transition Mid
+- Swamp Mountain Transition Upper
+- Swamp Dark Forest Transition Upper
+- Entrance to Olux
+Gelibord    
+emerald
+Wood
+Trading Routes:
+- Entrance to Kander
+- Gelibord Corrupted Farm
+- Lone Farmstead
+- Twisted Housing
+Mining Base Lower
+emerald
+Ore
+Trading Routes:
+- Mining Base Upper
+Ragni North Entrance
+emerald
+ Crops
+Trading Routes:
+- Katoa Ranch
+- Ragni North Suburbs
+- Ragni
+Royal Gate  
+emerald
+ Fish
+Trading Routes:
+- Phinas Farm
+Mine Base Plains
+emerald
+ Crops
+Trading Routes:
+- Mining Base Lower
+- Mining Base Upper
+- The Silent Road
+- Ternaves Plains Lower
+- Plains Lake
+Plains      
+emerald
+ Fish
+Trading Routes:
+- Nivla Woods Entrance
+- North Nivla Woods
+- South Farmers Valley
+- Maltic Plains
+Olux        
+emerald
+Ore
+Trading Routes:
+- Swamp Dark Forest Transition Mid
+- Swamp Dark Forest Transition Upper
+- Entrance to Olux
+- Swamp Mountain Transition Upper
+�eTerritory Map �6[Full View
+�eTerritory Map �6[Close Up
+Llevigar Plains East Lower
+emerald
+Ore
+Trading Routes:
+- Llevigar Plains West Lower
+- Llevigar Farm Plains East
+- Orc Lake
+- Llevigar Plains East Upper
+Active Volcano
+emerald
+ Crops
+Trading Routes:
+- Lava Lake
+- Lava Lake Bridge
+- Volcanic Slope
+Dernel Jungle Mid
+emerald
+Wood
+Trading Routes:
+- Dernel Jungle Upper
+- Dernel Jungle Lower
+Wybel Island
+emerald
+Wood
+Trading Routes:
+- Central Islands
+- Sky Falls
+- Ahmsord Outskirts
+Ancient Nemract
+emerald
+ Crops
+Trading Routes:
+- Cathedral Harbour
+- Nemract Road
+- Nemract Cathedral
+- Detlas Trail East Plains
+- Detlas Trail West Plains
+Swamp East Mid-Upper
+emerald
+Ore
+Trading Routes:
+- Swamp Plains Basin
+- Swamp East Mid
+- Swamp East Upper
+- Swamp West Mid-Upper
+Light Forest East Lower
+emerald
+Wood
+Trading Routes:
+- Light Forest West Mid
+- Mantis Nest
+- Hobbit River
+- Light Forest East Mid
+Swamp West Mid
+emerald
+Ore
+Trading Routes:
+- Swamp West Lower
+- Swamp East Mid
+- Swamp West Mid-Upper
+Gert Camp   
+emerald
+Wood
+Trading Routes:
+- Gylia Lake North East
+- Jitak's Farm
+Desert West Upper
+emerald
+ Crops
+Trading Routes:
+- Desert Upper
+- Almuj City
+Rymek West Upper
+emerald
+ Crops
+Trading Routes:
+- Desert Lower
+- Desert West Lower
+- Rymek East Upper
+- Rymek West Mid
+Lutho       
+emerald
+ Crops
+Trading Routes:
+- Sinister Forest
+- Paths of Sludge
+Corkus City 
+emerald
+ Fish
+Trading Routes:
+- Corkus Forest South
+- Corkus Forest North
+- Corkus Castle
+- Corkus City South
+- Corkus Countryside
+Fallen Factory
+emerald
+ Fish
+Trading Routes:
+- Corkus City South
+- Corkus Sea Port
+- Factory Entrance
+- Ruined Houses
+Plains Lake 
+emerald
+ Fish
+Trading Routes:
+- Nether Plains Upper
+- Nether Gate
+- Mine Base Plains
+- Desolate Valley
+Cinfras's Small Farm
+emerald
+Wood
+Trading Routes:
+- Cinfras County Mid-Lower
+- Aldorei Lowlands
+- Aldorei Valley South Entrance
+- Cinfras County Lower
+Nether Plains Lower
+emerald
+ Crops
+Trading Routes:
+- Nesaak Transition
+- Elkurn
+- Nether Gate
+- Desolate Valley
+Path To Ozoth's Spire Upper
+emerald
+ Crops
+Trading Routes:
+- Path To Thanos
+- Cinfras Thanos Transition
+- Bandit Cave Lower
+- Path To Ozoth's Spire Mid
+Ranol's Farm
+emerald
+ Crops
+Trading Routes:
+- Eltom
+- Cherry Blossom Forest
+- Thesead Suburbs
+Path To The Arch
+emerald
+Ore
+Trading Routes:
+- Aldorei's North Exit
+- Aldorei's Arch
+- Ghostly Path
+Worm Tunnel 
+emerald
+ Crops
+Trading Routes:
+- The Broken Road
+- Grey Ruins
+Viscera Pits West
+emerald
+Wood
+Trading Routes:
+- Viscera Pits East
+- Entrance to Kander
+- Lexdales Prison
+- Twisted Ridge
+Nesaak Bridge Transition
+emerald
+Wood
+Trading Routes:
+- Great Bridge Nesaak
+- Nesaak Plains South West
+Canyon Waterfall Mid North
+emerald
+Ore
+Trading Routes:
+- Canyon Path North Mid
+- Canyon Fortress
+- Canyon Mountain South
+Aldorei Valley Lower
+emerald
+ Crops
+Trading Routes:
+- Aldorei Valley Mid
+- Aldorei Valley West Entrance
+Nesaak Plains North East
+emerald
+Wood
+Trading Routes:
+- Nesaak Plains Lower North West
+- Bob's Tomb
+- Nesaak Plains Upper North West
+- Nesaak Village
+- Nesaak Transition
+Rymek West Mid
+Ore
+Wood
+ Fish
+ Crops
+Trading Routes:
+- Rymek West Lower
+- Rymek West Upper
+- Rymek East Mid
+Nodguj Nation
+emerald
+ Fish
+Trading Routes:
+- Dujgon Nation
+- Skiens Island
+- Mage Island
+- Icy Island
+- Santa's Hideout
+Icy Descent 
+emerald
+Wood
+Trading Routes:
+- Tower of Ascension
+- Lusuco
+Hobbit River
+emerald
+Ore
+Trading Routes:
+- Aldorei Valley West Entrance
+- Light Forest East Lower
+- Light Forest West Lower
+Light Forest North Entrance
+emerald
+Wood
+Trading Routes:
+- Light Forest Entrance
+- Efilim South Plains
+- Light Forest West Upper
+Swamp Mountain Transition Mid
+emerald
+ Fish
+Trading Routes:
+- Swamp Mountain Transition Mid-Upper
+- Swamp Mountain Transition Lower
+- Swamp West Upper
+Swamp West Mid-Upper
+Ore
+Wood
+ Fish
+ Crops
+Trading Routes:
+- Swamp East Mid-Upper
+- Swamp West Upper
+- Swamp West Mid
+Savannah West Lower
+emerald
+ Crops
+Trading Routes:
+- Ternaves Plains Upper
+- Savannah East Lower
+- Savannah West Upper
+Twisted Housing
+emerald
+Wood
+Trading Routes:
+- Gelibord
+- Gelibord Corrupted Farm
+- Efilim Village
+- Mansion of Insanity
+- Lone Farmstead
+Desert East Upper
+emerald
+ Crops
+Trading Routes:
+- Desert East Mid
+Crater Descent
+emerald
+Ore
+Trading Routes:
+- Molten Heights Portal
+- Lava Lake Bridge
+- Rodoroc
+Llevigar Gate East
+emerald
+Ore
+Trading Routes:
+- Llevigar Farm Plains East
+- Orc Road
+- Llevigar
+- Llevigar Gate West
+Arachnid Route
+emerald
+Wood
+Trading Routes:
+- North Nivla Woods
+- Nemract Plains West
+- Plains
+Valley of the Lost
+emerald
+Ore
+Trading Routes:
+- Canyon Of The Lost
+- Temple of the Lost East
+- Canyon Fortress
+Cinfras     
+emerald
+Wood
+Trading Routes:
+- Cinfras Outskirts
+- Cinfras Entrance
+- Aldorei's River
+- Guild Hall
+Maltic Plains
+emerald
+ Crops
+Trading Routes:
+- Maltic
+- South Farmers Valley
+- Ragni East Suburbs
+- Emerald Trail
+- Plains
+Canyon Dropoff
+emerald
+Ore
+Trading Routes:
+- Cliff Side of the Lost
+- Mountain Path
+Aldorei Valley Mid
+emerald
+ Crops
+Trading Routes:
+- Aldorei Valley Upper
+- Aldorei Valley Lower
+Cinfras County Upper
+emerald
+Wood
+Trading Routes:
+- Path To Thanos
+- Gylia Lake South East
+- Cinfras County Mid-Upper
+Aldorei Lowlands
+emerald
+Wood
+Trading Routes:
+- Cinfras's Small Farm
+- Aldorei's River
+- Aldorei's Waterfall
+Corkus Sea Cove
+emerald
+ Fish
+Trading Routes:
+- Fallen Factory
+- Corkus Sea Port
+- Corkus City Mine
+- Road To Mine
+Wizard Tower North
+emerald
+Ore
+Trading Routes:
+- Krolton's Cave
+- Bandits Toll
+Light Forest South Exit
+emerald
+Wood
+Trading Routes:
+- Light Forest North Exit
+- Mantis Nest
+Savannah East Lower
+emerald
+Wood
+Trading Routes:
+- Savannah West Lower
+- Ternaves
+- Savannah East Upper
+Swamp East Upper
+emerald
+Ore
+Trading Routes:
+- Swamp Mountain Transition Upper
+- Swamp Plains Basin
+- Swamp Mountain Transition Mid-Upper
+- Swamp East Mid-Upper
+- Swamp West Upper
+The Silent Road
+emerald
+ Crops
+Trading Routes:
+- Mine Base Plains
+- The Broken Road
+Maro Peaks  
+emerald
+Ore
+Trading Routes:
+- Skiens Island
+- Tree Island
+Path To Military Base
+emerald
+Ore
+Trading Routes:
+- Thanos
+- Military Base
+Tower of Ascension
+Ore
+Wood
+ Fish
+ Crops
+Trading Routes:
+- Icy Descent
+Orc Battlegrounds
+emerald
+Ore
+Trading Routes:
+- Leadin Fortress
+- Fortress South
+Nivla Woods 
+emerald
+Wood
+Trading Routes:
+- South Nivla Woods
+- Road to Time Valley
+- Nivla Woods Entrance
+- Nivla Woods Exit
+Canyon Path North Mid
+emerald
+Ore
+Trading Routes:
+- Canyon Entrance Waterfall
+- Canyon Waterfall Mid North
+- Bandit Camp Exit
+- Canyon Path South West
+Luminous Plateau
+emerald
+Wood
+Trading Routes:
+- Field of Life
+Final Step  
+emerald
+ Crops
+Trading Routes:
+- Bizarre Passage
+- Gateway to Nothing
+Durum Isles Center
+emerald
+ Crops
+Trading Routes:
+- Durum Isles East
+- Selchar
+- Durum Isles Upper
+- Durum Isles Lower
+Tree Island 
+emerald
+Wood
+Trading Routes:
+- Volcano Upper
+- Lost Atoll
+Rymek East Lower
+emerald
+Ore
+Trading Routes:
+- Rymek West Lower
+- Rymek East Mid
+Legendary Island
+Ore
+Wood
+ Fish
+ Crops
+Trading Routes:
+- Zhight Island
+- Southern Outpost
+Kandon-Beda 
+emerald
+Ore
+Trading Routes:
+- Canyon Of The Lost
+Llevigar Plains West Upper
+emerald
+Wood
+Trading Routes:
+- Llevigar Plains West Lower
+- Swamp West Lower
+- Llevigar Plains East Upper
+Canyon Waterfall North
+emerald
+Ore
+Trading Routes:
+- Canyon Upper North West
+Mushroom Hill
+emerald
+Wood
+Trading Routes:
+- Decayed Basin
+- Fallen Village
+- Heart of Decay
+- Jitak's Farm
+City of Troms
+emerald
+Wood
+Trading Routes:
+- South Pigmen Ravines
+- Jungle Lake
+- Temple of Legends
+Nesaak Plains Upper North West  
+emerald
+Wood
+Trading Routes:
+- Elkurn
+- Sanctuary Bridge
+- Nesaak Plains Mid North West
+- Nesaak Plains North East
+- Nesaak Plains Lower North West
+Desert West Lower
+emerald
+ Crops
+Trading Routes:
+- Desert Lower
+- Almuj City
+- Desert Mid-Lower
+Corkus Docks
+emerald
+ Fish
+Trading Routes:
+- Corkus Mountain
+Desert Mid-Lower
+emerald
+ Crops
+Trading Routes:
+- Desert Lower
+- Desert East Lower
+- Almuj City
+- Desert Mid-Upper
+- Desert West Lower
+Light Forest West Upper
+emerald
+Wood
+Trading Routes:
+- Efilim South East Plains
+- Light Forest West Mid
+- Light Forest East Mid
+- Light Forest North Entrance
+Fungal Grove
+emerald
+Wood
+Trading Routes:
+- Cinfras Outskirts
+- Old Crossroads South
+- Decayed Basin
+- Fallen Village
+- Old Crossroads North
+Lexdale     
+emerald
+Wood
+Trading Routes:
+- Decayed Basin
+- Viscera Pits East
+- Heart of Decay
+- Old Crossroads North
+Corkus City Mine
+emerald
+Ore
+Trading Routes:
+- Corkus Statue
+- Corkus Sea Cove
+- Road To Mine
+Corkus City South
+emerald
+ Fish
+Trading Routes:
+- Corkus Forest South
+- Fallen Factory
+- Factory Entrance
+- Road To Mine
+- Corkus City
+Light Forest Entrance
+emerald
+Wood
+Trading Routes:
+- Light Forest West Mid
+- Road To Light Forest
+- Light Forest South Entrance
+- Light Forest North Entrance
+Jofash Docks
+emerald
+ Fish
+Trading Routes:
+- Regular Island
+- Jofash Tunnel
+- Dead Island North East
+Ahmsord Outskirts
+emerald
+Wood
+Trading Routes:
+- Wybel Island
+- Angel Refuge
+- Central Islands
+- Swamp Island
+Coastal Trail
+emerald
+Wood
+Trading Routes:
+- Ragni Plains
+- Maltic Coast
+Swamp Dark Forest Transition Mid
+emerald
+Ore
+Trading Routes:
+- Swamp Dark Forest Transition Upper
+- Olux
+- Entrance to Olux
+- Taproot Descent
+- Swamp Dark Forest Transition Lower
+Thanos Exit Upper
+emerald
+Ore
+Trading Routes:
+- Hive South
+- Bandits Toll
+- Canyon High Path
+- Thanos Exit
+- Hive
+Ghostly Path
+emerald
+Ore
+Trading Routes:
+- Path To The Arch
+- Burning Farm
+Burning Airship
+emerald
+Ore
+Trading Routes:
+- Burning Farm
+- Bandit Cave Upper
+- Cinfras Thanos Transition
+Detlas Suburbs
+emerald
+ Crops
+Trading Routes:
+- Nether Plains Upper
+- Detlas Close Suburbs
+- Detlas Trail East Plains
+- Detlas Far Suburbs
+Primal Fen  
+emerald
+Ore
+Trading Routes:
+- Field of Life
+Entrance to Thesead South
+emerald
+Ore
+Trading Routes:
+- Chained House
+- Entrance to Thesead North
+- Cliffside Valley
+- Thesead
+Elkurn      
+emerald
+ Crops
+Trading Routes:
+- Elkurn Fields
+- Nesaak Plains Upper North West
+- Corrupted Road
+- Road to Elkurn
+Mummy's Tomb
+emerald
+ Crops
+Trading Routes:
+- Desert Upper
+Canyon Path South East
+emerald
+Ore
+Trading Routes:
+- Canyon Lower South East
+- Canyon Path North West
+Frozen Fort 
+emerald
+ Crops
+Trading Routes:
+- Sky Falls
+Dernel Jungle Upper
+emerald
+Wood
+Trading Routes:
+- Dernel Jungle Mid
+Meteor Crater
+emerald
+Ore
+Trading Routes:
+- Sunspark Camp
+- Iron Road
+- Sablestone Camp
+Burning Farm
+emerald
+Ore
+Trading Routes:
+- Burning Airship
+- Ghostly Path
+Ahmsord     
+emerald
+Wood
+Trading Routes:
+- Path to Ahmsord Lower
+- Temple Island
+- Path to Ahmsord Upper
+- Sky Island Ascent
+Desert Mid-Upper
+emerald
+ Crops
+Trading Routes:
+- Desert Upper
+- Desert Mid-Lower
+- Almuj City
+- Desert East Mid
+Swamp West Upper
+emerald
+Ore
+Trading Routes:
+- Swamp Mountain Transition Mid-Upper
+- Swamp West Mid-Upper
+- Swamp East Upper
+- Swamp Mountain Transition Mid
+Gylia Lake South East
+emerald
+ Fish
+Trading Routes:
+- Gylia Lake South West
+- Cinfras County Upper
+- Gylia Lake North East
+- Thanos
+Bandit Cave Lower
+emerald
+Ore
+Trading Routes:
+- Path To Ozoth's Spire Upper
+- Canyon Valley South
+Swamp Dark Forest Transition Lower
+emerald
+Ore
+Trading Routes:
+- Swamp Dark Forest Transition Mid
+- Fortress South
+- Fortress North
+- Swamp Lower
+- Entrance to Olux
+- Forgotten Path
+Ragni East Suburbs
+emerald
+ Crops
+Trading Routes:
+- Ragni Main Entrance
+- Ragni Plains
+- Maltic Plains
+Goblin Plains East
+emerald
+ Crops
+Trading Routes:
+- Pre-Light Forest Transition
+- Goblin Plains West
+- Llevigar Farm
+- Forgotten Path
+Bandit Cave Upper
+emerald
+Wood
+Trading Routes:
+- Burning Airship
+Durum Isles Upper
+emerald
+ Crops
+Trading Routes:
+- Nodguj Nation
+- Durum Isles Center
+- Mage Island
+- Selchar
+Heart of Decay
+emerald
+Wood
+Trading Routes:
+- Lexdale
+- Decayed Basin
+- Mushroom Hill
+Path To Ozoth's Spire Lower
+emerald
+Ore
+Trading Routes:
+- Thanos
+- Military Base Lower
+Cliffside Waterfall
+Ore
+Wood
+ Fish
+ Crops
+Trading Routes:
+- Canyon High Path
+Light Forest East Mid
+emerald
+ Fish
+Trading Routes:
+- Light Forest Canyon
+- Light Forest East Lower
+- Light Forest West Upper
+Fortress South
+emerald
+Wood
+Trading Routes:
+- Fortress North
+- Mansion of Insanity
+- Swamp Dark Forest Transition Lower
+- Orc Battlegrounds
+Regular Island
+emerald
+Wood
+Trading Routes:
+- Dujgon Nation
+- Jofash Docks
+- Icy Island
+Avos Workshop
+emerald
+ Fish
+Trading Routes:
+- Avos Temple
+Lexdales Prison
+emerald
+Wood
+Trading Routes:
+- Twisted Ridge
+- Viscera Pits West
+Lost Atoll  
+emerald
+ Fish
+Trading Routes:
+- Tree Island
+- Volcano Upper
+- Pirate Town
+Detlas Close Suburbs
+emerald
+ Crops
+Trading Routes:
+- Detlas
+- Nether Plains Upper
+- Detlas Suburbs
+- Detlas Trail East Plains
+Rymek East Mid
+emerald
+ Crops
+Trading Routes:
+- Rymek East Upper
+- Rymek East Lower
+- Rymek West Mid
+Krolton's Cave
+emerald
+ Fish
+Trading Routes:
+- Wizard Tower North
+- Temple of the Lost East
+- Air Temple Lower
+- Canyon Mountain South
+Detlas Trail West Plains
+emerald
+ Crops
+Trading Routes:
+- Ancient Nemract
+- Nemract Plains East
+- Detlas Far Suburbs
+- Detlas Suburbs
+Aldorei Valley South Entrance
+emerald
+Wood
+Trading Routes:
+- Aldorei's North Exit
+- Aldorei's Waterfall
+- Cinfras's Small Farm
+Corkus Countryside
+emerald
+ Fish
+Trading Routes:
+- Avos Temple
+- Corkus Outskirts
+- Corkus City
+- Corkus Mountain
+Chained House
+emerald
+Ore
+Trading Routes:
+- Cherry Blossom Forest
+- Entrance to Thesead South
+- Thesead Suburbs
+- Hive South
+Abandoned Manor
+emerald
+Wood
+Trading Routes:
+- Lone Farmstead
+- Entrance to Kander
+- Mesquis Tower
+- Kander Mines
+Light Forest South Exit
+emerald
+Wood
+Trading Routes:
+- Light Forest North Exit
+- Mantis Nest
+Path To Thanos
+emerald
+Ore
+Trading Routes:
+- Cinfras Thanos Transition
+- Thanos
+Kandon Ridge
+emerald
+Wood
+Trading Routes:
+- Old Coal Mine
+- Path to Ahmsord Upper
+- Kandon Farm
+Sanctuary Bridge
+emerald
+ Fish
+Trading Routes:
+- Time Valley
+- Nesaak Plains Upper North West
+Savannah West Upper
+emerald
+ Crops
+Trading Routes:
+- Cathedral Harbour
+- Savannah West Lower
+- Bremminglar
+- Savannah East Upper
+Jungle Lower
+emerald
+Wood
+Trading Routes:
+- Great Bridge Jungle
+- Jungle Mid
+- Dernel Jungle Lower
+Nemract Town
+emerald
+ Crops
+Trading Routes:
+- Plains Coast
+- Nemract Road
+- Rooster Island
+- Nemract Cathedral
+Orc Road    
+emerald
+Ore
+Trading Routes:
+- Llevigar Farm Plains East
+- Orc Lake
+- Loamsprout Camp
+Field of Life
+emerald
+Wood
+Trading Routes:
+- Heavenly Ingress
+- Luminous Plateau
+- Azure Frontier
+- Primal Fen
+Nether Plains Upper
+emerald
+ Crops
+Trading Routes:
+- Nether Gate
+- Detlas Close Suburbs
+- Detlas Suburbs
+- Corrupted Road
+- Detlas Far Suburbs
+- Plains Lake
+Rooster Island
+emerald
+ Fish
+Trading Routes:
+- Durum Isles Lower
+- The Bear Zoo
+- Nemract Town
+- Selchar
+Road to Elkurn
+emerald
+ Fish
+Trading Routes:
+- Elkurn
+- Elkurn Fields
+- South Nivla Woods
+Dernel Jungle Lower
+emerald
+ Fish
+Trading Routes:
+- Jungle Lower
+- Dernel Jungle Mid
+Cliffside Passage
+emerald
+Ore
+Trading Routes:
+- Cliffside Lake
+- Cliffside Passage North
+Llevigar Farm
+emerald
+ Crops
+Trading Routes:
+- Goblin Plains East
+- Pre-Light Forest Transition
+- Quartz Mines North East
+- Goblin Plains West
+- Quartz Mines North West
+- Loamsprout Camp
+Nesaak Plains Lower North West  
+emerald
+Wood
+Trading Routes:
+- Nesaak Plains Upper North West
+- Nesaak Plains Mid North West
+- Nesaak Village
+- Nesaak Plains South West
+Kander Mines
+emerald
+Wood
+Trading Routes:
+- Abandoned Manor
+- Mesquis Tower
+- Dark Forest Village
+- Path to Talor
+Lava Lake Bridge
+emerald
+Ore
+Trading Routes:
+- Active Volcano
+- Molten Heights Portal
+- Crater Descent
+Taproot Descent
+emerald
+Wood
+Trading Routes:
+- Swamp Dark Forest Transition Mid
+- Gelibord Castle
+- Swamp Dark Forest Transition Upper
+- Fortress North
+- Gelibord Corrupted Farm
+Bob's Tomb  
+emerald
+Wood
+Trading Routes:
+- Nesaak Village
+- Nesaak Plains South East
+- Nesaak Plains North East
+Swamp East Mid
+emerald
+Ore
+Trading Routes:
+- Swamp East Lower
+- Swamp Mountain Base
+- Swamp East Mid-Upper
+- Swamp West Mid
+Quartz Mines North East
+emerald
+Ore
+Trading Routes:
+- Pre-Light Forest Transition
+- Llevigar Farm
+- Quartz Mines South East
+- Quartz Mines North West
+Avos Temple 
+emerald
+ Fish
+Trading Routes:
+- Avos Workshop
+- Bloody Beach
+Great Bridge Nesaak
+emerald
+Ore
+Trading Routes:
+- Great Bridge Jungle
+- Nesaak Bridge Transition
+Thesead Suburbs
+emerald
+ Crops
+Trading Routes:
+- Ranol's Farm
+- Entrance to Rodoroc
+- Chained House
+- Thesead
+Detlas Savannah Transition
+emerald
+ Crops
+Trading Routes:
+- Detlas
+- Ternaves Plains Upper
+- Mine Base Plains
+- Savannah West Lower
+South Farmers Valley
+emerald
+ Crops
+Trading Routes:
+- Maltic
+- North Farmers Valley
+- Maltic Plains
+- Maltic Coast
+- Plains
+Military Base Lower
+emerald
+Ore
+Trading Routes:
+- Military Base Upper
+- Path To Ozoth's Spire Lower
+- Thanos Valley West
+Maltic      
+Ore
+Wood
+ Fish
+ Crops
+Trading Routes:
+- Ragni Plains
+- Coastal Trail
+- Maltic Plains
+- Maltic Coast
+- South Farmers Valley
+Katoa Ranch 
+emerald
+ Crops
+Trading Routes:
+- Ragni North Entrance
+- Ragni North Suburbs
+Path to Light
+emerald
+ Fish
+Trading Routes:
+- Azure Frontier
+- Otherwordly Monolith
+Road To Light Forest
+emerald
+Wood
+Trading Routes:
+- Fleris Trail
+- Light Forest Entrance
+- Leadin Fortress
+Detlas      
+emerald
+ Crops
+Trading Routes:
+- Detlas Savannah Transition
+- Detlas Close Suburbs
+- Detlas Trail East Plains
+Paths of Sludge
+emerald
+ Crops
+Trading Routes:
+- Lutho
+- Toxic Drip
+Swamp Lower 
+emerald
+Wood
+Trading Routes:
+- Swamp Dark Forest Transition Lower
+- Swamp Mountain Base
+- Entrance to Olux
+- Iron Road
+Azure Frontier
+emerald
+ Fish
+Trading Routes:
+- Field of Life
+- Nexus of Light
+- Path to Light
+- Otherwordly Monolith
+Volcano Upper
+emerald
+Ore
+Trading Routes:
+- Tree Island
+- Lost Atoll
+- Pirate Town
+- Volcano Lower
+Raider's Base Lower
+emerald
+Ore
+Trading Routes:
+- Raider's Base Upper
+Llevigar Gate West
+emerald
+Ore
+Trading Routes:
+- Llevigar Gate East
+- Llevigar Farm Plains West
+Dead Island South East
+emerald
+ Fish
+Trading Routes:
+- Dujgon Nation
+- Regular Island
+- Dead Island South West
+- Dead Island North East
+Forest of Eyes
+emerald
+Wood
+Trading Routes:
+- Forgotten Town
+- Sinister Forest
+Entrance to Olux
+emerald
+Ore
+Trading Routes:
+- Swamp Dark Forest Transition Mid
+- Swamp Plains Basin
+- Olux
+- Swamp Lower
+- Swamp Dark Forest Transition Lower
+Military Base Upper
+emerald
+Ore
+Trading Routes:
+- Military Base Lower
+- Military Base
+Volcanic Slope
+Ore
+Wood
+ Fish
+ Crops
+Trading Routes:
+- Lava Lake
+- Active Volcano
+Aldorei Valley West Entrance
+emerald
+Wood
+Trading Routes:
+- Aldorei Valley Lower
+- Hobbit River
+- Mantis Nest
+Raider's Base Upper
+emerald
+Ore
+Trading Routes:
+- Raider's Base Lower
+- Sky Island Ascent
+Canyon Fortress
+Ore
+Wood
+ Fish
+ Crops
+Trading Routes:
+- Canyon Waterfall Mid North
+- Valley of the Lost
+Corkus Statue
+emerald
+ Fish
+Trading Routes:
+- Corkus Outskirts
+- Corkus City Mine
+Thesead     
+emerald
+Ore
+Trading Routes:
+- Entrance to Thesead South
+- Thesead Suburbs
+Mesquis Tower
+emerald
+Wood
+Trading Routes:
+- Kander Mines
+- Abandoned Manor
+- Cinfras Entrance
+- Path to Cinfras
+Dark Forest Village
+emerald
+Wood
+Trading Routes:
+- Cinfras Outskirts
+- Old Crossroads South
+- Kander Mines
+- Path to Talor
+Hive        
+emerald
+ Crops
+Trading Routes:
+- Thanos Exit Upper
+- Hive South
+North Nivla Woods
+emerald
+Wood
+Trading Routes:
+- Nivla Woods Edge
+- Nivla Woods Exit
+- Plains
+Pirate Town 
+emerald
+ Fish
+Trading Routes:
+- Bloody Beach
+- Zhight Island
+- Lost Atoll
+Mountain Edge
+emerald
+Wood
+Trading Routes:
+- Cliff Side of the Lost
+Dark Forest Cinfras Transition  
+emerald
+Wood
+Trading Routes:
+- Gylia Lake South West
+- Cinfras Outskirts
+- Fallen Village
+Dujgon Nation
+emerald
+ Fish
+Trading Routes:
+- Regular Island
+- Nodguj Nation
+- Dead Island South East
+- Dead Island South West
+- Icy Island
+Factory Entrance
+emerald
+ Fish
+Trading Routes:
+- Corkus City South
+- Corkus Forest South
+- Fallen Factory
+- Ruined Houses
+Great Bridge Jungle
+emerald
+Wood
+Trading Routes:
+- Herb Cave
+- Great Bridge Nesaak
+- Jungle Lower
+Gylia Lake North East
+emerald
+ Fish
+Trading Routes:
+- Gylia Lake South East
+- Gylia Lake North West
+- Military Base
+- Gert Camp
+Nexus of Light
+Ore
+Wood
+ Fish
+ Crops
+Trading Routes:
+- Azure Frontier
+Canyon Walk Way
+emerald
+Wood
+Trading Routes:
+- Canyon Mountain East
+- Bandits Toll
+- Path To Ozoth's Spire Mid
+Mansion of Insanity
+Ore
+Wood
+ Fish
+ Crops
+Trading Routes:
+- Fortress North
+- Fortress South
+- Twisted Housing
+Corkus Countryside
+emerald
+ Fish
+Trading Routes:
+- Corkus Outskirts
+- Corkus Mountain
+- Corkus City
+- Avos Temple
+Efilim East Plains
+emerald
+Wood
+Trading Routes:
+- Efilim South East Plains
+- Efilim Village
+Canyon Lower South East
+emerald
+Ore
+Trading Routes:
+- Canyon Path South East
+- Canyon Survivor
+- Canyon Upper North West
+- Canyon Path South West
+Snail Island
+emerald
+Wood
+Trading Routes:
+- Temple Island
+Cliff Side of the Lost
+emerald
+Ore
+Trading Routes:
+- Canyon Of The Lost
+- Valley of the Lost
+- Canyon Survivor
+- Canyon Dropoff
+- Mountain Edge
+Canyon Survivor
+emerald
+ Crops
+Trading Routes:
+- Canyon Lower South East
+- Cliff Side of the Lost
+Bandit Cave Upper
+emerald
+Wood
+Trading Routes:
+- Burning Airship
+Canyon Lower South East
+emerald
+Ore
+Trading Routes:
+- Canyon Survivor
+- Canyon Upper North West
+- Canyon Path South West
+- Canyon Path South East
+Nemract Plains East
+emerald
+Ore
+Trading Routes:
+- Nemract Road
+- Detlas Trail West Plains
+Cherry Blossom Forest
+emerald
+Wood
+Trading Routes:
+- Ranol's Farm
+- Chained House
+- Hive South
+Road to Time Valley
+emerald
+Wood
+Trading Routes:
+- South Nivla Woods
+- Nivla Woods Entrance
+- Nivla Woods
+Detlas Trail East Plains
+emerald
+ Crops
+Trading Routes:
+- Detlas
+- Cathedral Harbour
+- Ancient Nemract
+- Detlas Close Suburbs
+- Detlas Suburbs
+Corkus Statue
+emerald
+ Fish
+Trading Routes:
+- Corkus Outskirts
+- Corkus City Mine
+Sky Falls   
+emerald
+Ore
+Trading Routes:
+- Sky Island Ascent
+- Wybel Island
+- Frozen Fort
+Lava Lake   
+emerald
+Ore
+Trading Routes:
+- Active Volcano
+- Volcanic Slope
+- Molten Heights Portal
+Entrance to Thesead North
+emerald
+Wood
+Trading Routes:
+- Entrance to Thesead South
+- Cliffside Passage North
+Elkurn Fields
+emerald
+ Crops
+Trading Routes:
+- Time Valley
+- Road to Elkurn
+- Elkurn
+- South Nivla Woods
+Sky Falls   
+emerald
+Ore
+Trading Routes:
+- Frozen Fort
+- Wybel Island
+- Sky Island Ascent
+Icy Island  
+emerald
+ Fish
+Trading Routes:
+- Dujgon Nation
+- Regular Island
+- Nodguj Nation
+- Santa's Hideout
+Jungle Mid  
+emerald
+Wood
+Trading Routes:
+- Jungle Lake
+- Jungle Upper
+- Jungle Lower
+Mountain Path
+emerald
+Ore
+Trading Routes:
+- Canyon Dropoff
+Rodoroc     
+emerald
+Ore
+Trading Routes:
+- Crater Descent
+Quartz Mines North West
+emerald
+Ore
+Trading Routes:
+- Llevigar Farm
+- Loamsprout Camp
+- Quartz Mines North East
+- Quartz Mines South West
+Almuj City  
+emerald
+ Crops
+Trading Routes:
+- Desert Mid-Lower
+- Desert Mid-Upper
+- Desert West Upper
+- Desert West Lower
+- Savannah East Upper
+Maltic Coast
+emerald
+ Fish
+ Crops
+Trading Routes:
+- North Farmers Valley
+- Maltic
+- Coastal Trail
+- South Farmers Valley
+Bandit Camp Exit
+emerald
+Ore
+Trading Routes:
+- Canyon Path North Mid
+- Canyon Valley South
+Corkus Sea Port
+emerald
+ Fish
+Trading Routes:
+- Fallen Factory
+- Lighthouse Plateau
+- Ruined Houses
+- Corkus Sea Cove
+Sinister Forest
+emerald
+Wood
+Trading Routes:
+- Forest of Eyes
+- Lutho
+Grey Ruins  
+emerald
+ Crops
+Trading Routes:
+- Worm Tunnel
+- Forgotten Town
+Forgotten Town
+emerald
+ Crops
+Trading Routes:
+- Forest of Eyes
+- Grey Ruins
+Dujgon Nation
+emerald
+ Fish
+Trading Routes:
+- Dead Island South East
+- Regular Island
+- Icy Island
+- Dead Island South West
+- Nodguj Nation
+Bizarre Passage
+emerald
+ Crops
+Trading Routes:
+- The Gate
+- Final Step
+Cliffside Passage
+emerald
+Ore
+Trading Routes:
+- Cliffside Lake
+- Cliffside Passage North
+Bandits Toll
+emerald
+Ore
+Trading Routes:
+- Cliffside Valley
+- Wizard Tower North
+- Thanos Exit Upper
+- Canyon Walk Way
+Toxic Drip  
+emerald
+ Crops
+Trading Routes:
+- Gateway to Nothing
+- Paths of Sludge
+- Toxic Caves
+Canyon High Path
+emerald
+Ore
+Trading Routes:
+- Thanos Exit Upper
+- Cliffside Waterfall
+- Hive South
+Llevigar    
+emerald
+Ore
+Trading Routes:
+- Quartz Mines South West
+- Llevigar Gate East
+- Llevigar Entrance
+Jungle Lower
+emerald
+Wood
+Trading Routes:
+- Jungle Mid
+- Dernel Jungle Lower
+- Great Bridge Jungle
+Thanos Exit Upper
+emerald
+Ore
+Trading Routes:
+- Canyon High Path
+- Hive
+- Bandits Toll
+- Thanos Exit
+- Hive South
+Rymek East Upper
+emerald
+ Crops
+Trading Routes:
+- Desert East Lower
+- Rymek West Upper
+- Rymek East Mid
+Llevigar Farm Plains West
+emerald
+ Crops
+Trading Routes:
+- Llevigar Gate West
+- Llevigar Farm Plains East
+- Llevigar Plains West Lower
+Cinfras Thanos Transition
+emerald
+Ore
+Trading Routes:
+- Path To Thanos
+- Burning Airship
+- Cinfras County Mid-Upper
+Fortress North
+emerald
+Wood
+Trading Routes:
+- Mansion of Insanity
+- Taproot Descent
+- Fortress South
+Orc Lake    
+emerald
+ Fish
+Trading Routes:
+- Llevigar Plains East Lower
+- Sunspark Camp
+- Llevigar Plains East Upper
+- Sablestone Camp
+- Orc Road
+Corkus Forest South
+emerald
+Wood
+Trading Routes:
+- Corkus Forest North
+- Corkus City
+- Corkus City South
+- Factory Entrance
+Kandon Ridge
+emerald
+Wood
+Trading Routes:
+- Path to Ahmsord Upper
+- Old Coal Mine
+- Kandon Farm
+Ternaves Plains Lower
+emerald
+ Crops
+Trading Routes:
+- Abandoned Pass
+- Ternaves
+- Mining Base Upper
+- Ternaves Plains Upper
+- Mine Base Plains
+Forgotten Path
+emerald
+ Crops
+Trading Routes:
+- Goblin Plains East
+- Iron Road
+- Swamp Dark Forest Transition Lower
+Canyon Entrance Waterfall
+emerald
+Ore
+Trading Routes:
+- Canyon Path North West
+- Canyon Path North Mid
+Santa's Hideout
+Ore
+Wood
+ Fish
+ Crops
+Trading Routes:
+- Icy Island
+- Mage Island
+Path To Ozoth's Spire Mid
+emerald
+Ore
+Trading Routes:
+- Canyon Walk Way
+- Path To Ozoth's Spire Upper
+Nivla Woods Entrance
+emerald
+Wood
+Trading Routes:
+- Nivla Woods
+- Emerald Trail
+- Road to Time Valley
+- Plains
+Aldorei's Waterfall
+emerald
+ Crops
+Trading Routes:
+- Aldorei Valley South Entrance
+- Aldorei Valley Upper
+Fortress North
+emerald
+Wood
+Trading Routes:
+- Fortress South
+- Taproot Descent
+- Mansion of Insanity
+Nether Gate 
+emerald
+ Crops
+Trading Routes:
+- Nether Plains Upper
+- Corrupted Road
+- Nether Plains Lower
+- Plains Lake
+Elkurn      
+emerald
+ Crops
+Trading Routes:
+- Road to Elkurn
+- Nesaak Plains Upper North West
+- Corrupted Road
+- Elkurn Fields
+Sablestone Camp
+emerald
+Ore
+Trading Routes:
+- Meteor Crater
+- Orc Lake
+- Goblin Plains West
+- Loamsprout Camp
+Cathedral Harbour
+emerald
+ Fish
+Trading Routes:
+- Nemract Cathedral
+- Ancient Nemract
+- Durum Isles East
+- Durum Isles Lower
+- Savannah West Upper
+Bloody Beach
+Ore
+Wood
+ Fish
+ Crops
+Trading Routes:
+- Avos Temple
+- Corkus Countryside
+- Pirate Town
+- Volcano Lower
+- Corkus Outskirts
+Gelibord Castle
+emerald
+Wood
+Trading Routes:
+- Gelibord Corrupted Farm
+- Taproot Descent
+Path to Ahmsord Lower
+emerald
+Wood
+Trading Routes:
+- Path to Ahmsord Upper
+- Sky Castle
+- Ahmsord
+Aldorei's Arch
+emerald
+Ore
+Trading Routes:
+- Canyon Upper North West
+- Path To The Arch
+Canyon High Path
+emerald
+Ore
+Trading Routes:
+- Hive South
+- Cliffside Waterfall
+- Thanos Exit Upper
+Cinfras Outskirts
+emerald
+Wood
+Trading Routes:
+- Dark Forest Cinfras Transition
+- Old Crossroads South
+- Dark Forest Village
+- Cinfras
+- Fungal Grove
+Path to Ahmsord Lower
+emerald
+Wood
+Trading Routes:
+- Sky Castle
+- Path to Ahmsord Upper
+- Ahmsord
+Otherwordly Monolith
+emerald
+ Fish
+Trading Routes:
+- Azure Frontier
+- Path to Light
+Nivla Woods 
+emerald
+Wood
+Trading Routes:
+- Nivla Woods Entrance
+- South Nivla Woods
+- Road to Time Valley
+- Nivla Woods Exit
+Temple of the Lost East
+emerald
+Ore
+Trading Routes:
+- Valley of the Lost
+- Krolton's Cave
+Old Coal Mine
+Ore
+Wood
+ Fish
+ Crops
+Trading Routes:
+- Kandon Ridge
+Nesaak Plains South West
+emerald
+Wood
+Trading Routes:
+- Nesaak Plains Lower North West
+- Twain Lake
+- Icy Descent
+- Nesaak Village
+- Nesaak Plains South East
+- Nesaak Bridge Transition
+Mining Base Upper
+emerald
+Ore
+Trading Routes:
+- Mining Base Lower
+- Abandoned Pass
+- Ternaves Plains Lower
+Swamp Island
+emerald
+Wood
+Trading Routes:
+- Temple Island
+- Astraulus' Tower
+- Ahmsord Outskirts
+Path to Talor
+emerald
+Ore
+Trading Routes:
+- Old Crossroads South
+- Entrance to Kander
+- Viscera Pits East
+- Dark Forest Village
+- Old Crossroads North
+- Kander Mines
+Coastal Trail
+emerald
+Wood
+Trading Routes:
+- Ragni Plains
+- Maltic Coast
+The Broken Road
+emerald
+ Crops
+Trading Routes:
+- Worm Tunnel
+- The Silent Road
+Pigmen Ravines Entrance
+emerald
+Ore
+Trading Routes:
+- Ragni
+- South Pigmen Ravines
+- Pigmen Ravines
+Corrupted Road
+emerald
+ Crops
+Trading Routes:
+- Nether Plains Upper
+- Nether Gate
+- Elkurn
+- Detlas Far Suburbs
+Swamp Mountain Transition Mid-Upper
+emerald
+ Fish
+Trading Routes:
+- Swamp Mountain Transition Upper
+- Swamp Mountain Transition Mid
+- Swamp East Upper
+Path to Ahmsord Upper
+emerald
+Wood
+Trading Routes:
+- Kandon Ridge
+- Path to Ahmsord Lower
+Cliffside Passage North
+emerald
+Wood
+Trading Routes:
+- Entrance to Thesead North
+- Cliffside Passage
+Canyon Mountain South
+emerald
+Ore
+Trading Routes:
+- Canyon Waterfall Mid North
+- Krolton's Cave
+Dead Island North West
+Ore
+Wood
+ Fish
+ Crops
+Trading Routes:
+- Dead Island South West
+- Dead Island North East
+Light Forest East Mid
+emerald
+ Fish
+Trading Routes:
+- Light Forest West Upper
+- Light Forest Canyon
+- Light Forest East Lower
+Path to Cinfras
+emerald
+Wood
+Trading Routes:
+- Cinfras Entrance
+- Light Forest East Upper
+Plains Coast
+emerald
+ Fish
+Trading Routes:
+- North Farmers Valley
+- Nemract Town
+- Nemract Quarry
+Abandoned Pass
+emerald
+Ore
+Trading Routes:
+- Mining Base Upper
+- Ternaves Plains Lower
+The Gate    
+emerald
+ Crops
+Trading Routes:
+- Bizarre Passage
+Gateway to Nothing
+emerald
+ Crops
+Trading Routes:
+- Void Valley
+- Final Step
+- Toxic Drip
+Nesaak Village
+emerald
+Wood
+Trading Routes:
+- Nesaak Plains Lower North West
+- Bob's Tomb
+- Nesaak Plains South East
+- Nesaak Plains North East
+- Nesaak Plains South West
+Hive        
+emerald
+ Crops
+Trading Routes:
+- Hive South
+- Thanos Exit Upper
+Efilim South East Plains
+emerald
+ Crops
+Trading Routes:
+- Efilim East Plains
+- Light Forest East Upper
+- Efilim South Plains
+- Light Forest West Upper
+Desert East Lower
+emerald
+ Crops
+Trading Routes:
+- Rymek East Upper
+- Desert Mid-Lower
+- Desert East Mid
+Herb Cave   
+emerald
+ Crops
+Trading Routes:
+- Great Bridge Jungle
+Toxic Drip  
+emerald
+ Crops
+Trading Routes:
+- Toxic Caves
+- Gateway to Nothing
+- Paths of Sludge
+Swamp West Lower
+emerald
+Ore
+Trading Routes:
+- Swamp East Lower
+- Llevigar Plains West Upper
+- Swamp West Mid
+Air Temple Lower
+Ore
+Wood
+ Fish
+ Crops
+Trading Routes:
+- Air Temple Upper
+- Cliffside Valley
+- Krolton's Cave
+Sky Island Ascent
+emerald
+Ore
+Trading Routes:
+- Jofash Tunnel
+- Central Islands
+- Sky Falls
+- Raider's Base Upper
+Bremminglar 
+emerald
+Ore
+Trading Routes:
+- Savannah West Upper
+- Lion Lair
+Canyon Upper North West
+emerald
+Wood
+Trading Routes:
+- Canyon Waterfall North
+- Aldorei's Arch
+Heavenly Ingress
+emerald
+Wood
+Trading Routes:
+- Field of Life
+- Light Forest South Entrance
+Fallen Village
+emerald
+Wood
+Trading Routes:
+- Mushroom Hill
+- Dark Forest Cinfras Transition
+- Gylia Lake North West
+- Fungal Grove
+Corkus Forest North
+emerald
+Wood
+Trading Routes:
+- Corkus City South
+- Corkus Forest South
+- Corkus City
+- Corkus Mountain
+Cliffside Lake
+emerald
+ Fish
+Trading Routes:
+- Canyon Of The Lost
+- Cliffside Passage
+Fleris Trail
+emerald
+Wood
+Trading Routes:
+- Road To Light Forest
+Fallen Village
+emerald
+Wood
+Trading Routes:
+- Fungal Grove
+- Dark Forest Cinfras Transition
+- Gylia Lake North West
+- Mushroom Hill
+Llevigar Farm Plains East
+emerald
+ Crops
+Trading Routes:
+- Llevigar Plains East Lower
+- Llevigar Gate East
+- Llevigar Farm Plains West
+- Orc Road
+Guild Hall  
+emerald
+Ore
+Trading Routes:
+- Cinfras
+Light Forest North Entrance
+emerald
+Wood
+Trading Routes:
+- Efilim South Plains
+- Light Forest West Upper
+- Light Forest Entrance
+Ragni Main Entrance
+emerald
+ Crops
+Trading Routes:
+- Ragni East Suburbs
+- Ragni
+- Emerald Trail
+Time Valley 
+emerald
+Wood
+Trading Routes:
+- Abandoned Farm
+- Little Wood
+- Elkurn Fields
+Decayed Basin
+emerald
+Wood
+Trading Routes:
+- Mushroom Hill
+- Lexdale
+- Heart of Decay
+- Fungal Grove
+Efilim South Plains
+emerald
+Wood
+Trading Routes:
+- Efilim South East Plains
+- Light Forest North Entrance
+- Efilim Village
+Swamp Plains Basin
+emerald
+Ore
+Trading Routes:
+- Swamp Mountain Base
+- Swamp East Upper
+- Entrance to Olux
+- Swamp East Mid-Upper
+Molten Heights Portal
+emerald
+Ore
+Trading Routes:
+- Lava Lake
+- Crater Descent
+- Lava Lake Bridge
+Dead Island North East
+emerald
+ Fish
+Trading Routes:
+- Dead Island North West
+- Dead Island South East
+- Jofash Docks
+Leadin Fortress
+emerald
+Ore
+Trading Routes:
+- Pre-Light Forest Transition
+- Road To Light Forest
+- Orc Battlegrounds
+Entrance to Kander
+emerald
+Wood
+Trading Routes:
+- Gelibord
+- Abandoned Manor
+- Viscera Pits West
+- Path to Talor
+Mining Base Lower
+emerald
+Ore
+Trading Routes:
+- Mining Base Upper
+Phinas Farm 
+emerald
+ Crops
+Trading Routes:
+- Royal Gate
+- Lighthouse Plateau
+Astraulus' Tower
+emerald
+Wood
+Trading Routes:
+- Dragonling Nests
+- Swamp Island
+Sky Castle  
+emerald
+Wood
+Trading Routes:
+- Path to Ahmsord Lower
+Entrance to Kander
+emerald
+Wood
+Trading Routes:
+- Abandoned Manor
+- Gelibord
+- Viscera Pits West
+- Path to Talor
+Desert Upper
+emerald
+ Crops
+Trading Routes:
+- Mummy's Tomb
+- Desert West Upper
+- Desert Mid-Upper
+Luminous Plateau
+emerald
+Wood
+Trading Routes:
+- Field of Life
+Abandoned Farm
+emerald
+ Crops
+Trading Routes:
+- Pigmen Ravines
+- Time Valley
+Thanos      
+emerald
+Ore
+Trading Routes:
+- Gylia Lake South East
+- Path To Thanos
+- Path To Military Base
+- Path To Ozoth's Spire Lower
+Llevigar Plains West Upper
+emerald
+Wood
+Trading Routes:
+- Llevigar Plains West Lower
+- Llevigar Plains East Upper
+- Swamp West Lower
+Viscera Pits East
+emerald
+Wood
+Trading Routes:
+- Viscera Pits West
+- Lexdale
+- Path to Talor
+Thanos Exit 
+emerald
+Ore
+Trading Routes:
+- Thanos Exit Upper
+Canyon Mountain South
+emerald
+Ore
+Trading Routes:
+- Canyon Waterfall Mid North
+- Krolton's Cave
+Gylia Lake North West
+emerald
+ Fish
+Trading Routes:
+- Gylia Lake South West
+- Fallen Village
+- Gylia Lake North East
+- Jitak's Farm
+Nemract Road
+emerald
+ Crops
+Trading Routes:
+- Ancient Nemract
+- Nemract Plains East
+- Nemract Town
+- Nemract Quarry
+- Nemract Plains West
+- Nemract Cathedral
+Jungle Lake 
+emerald
+Wood
+Trading Routes:
+- Jungle Mid
+- Temple of Legends
+- City of Troms
+Angel Refuge
+emerald
+ Fish
+Trading Routes:
+- Molten Reach
+- Ahmsord Outskirts
+Light Forest East Upper
+emerald
+Wood
+Trading Routes:
+- Efilim South East Plains
+- Path to Cinfras
+Path to Ahmsord Upper
+emerald
+Wood
+Trading Routes:
+- Path to Ahmsord Lower
+- Kandon Ridge
+Nesaak Transition
+emerald
+ Crops
+Trading Routes:
+- Elkurn
+- Nether Plains Lower
+- Nesaak Plains North East
+- Desolate Valley
+Air Temple Lower
+Ore
+Wood
+ Fish
+ Crops
+Trading Routes:
+- Air Temple Upper
+- Krolton's Cave
+- Cliffside Valley
+Efilim Village
+emerald
+Ore
+Trading Routes:
+- Efilim East Plains
+- Twisted Housing
+- Efilim South Plains
+Llevigar Plains West Lower
+emerald
+Wood
+Trading Routes:
+- Llevigar Gate West
+- Llevigar Plains East Lower
+- Llevigar Farm Plains West
+- Llevigar Plains West Upper
+Rymek West Lower
+emerald
+Ore
+Trading Routes:
+- Rymek East Lower
+- Rymek West Mid
+Rymek East Lower
+emerald
+Ore
+Trading Routes:
+- Rymek West Lower
+- Rymek East Mid
+Quartz Mines South West
+emerald
+Ore
+Trading Routes:
+- Llevigar
+- Quartz Mines South East
+- Quartz Mines North West
+Emerald Trail
+emerald
+ Crops
+Trading Routes:
+- Nivla Woods Entrance
+- Ragni Main Entrance
+- Maltic Plains
+South Pigmen Ravines
+emerald
+Ore
+Trading Routes:
+- Pigmen Ravines Entrance
+- Little Wood
+Desert Mid-Lower
+emerald
+ Crops
+Trading Routes:
+- Desert Lower
+- Almuj City
+- Desert West Lower
+- Desert Mid-Upper
+- Desert East Lower
+Southern Outpost
+emerald
+ Fish
+Trading Routes:
+- Legendary Island
+- Lighthouse Plateau
+Pigmen Ravines
+emerald
+Ore
+Trading Routes:
+- Pigmen Ravines Entrance
+- Abandoned Farm
+Cinfras County Mid-Lower
+emerald
+Wood
+Trading Routes:
+- Cinfras County Lower
+- Cinfras's Small Farm
+- Cinfras County Mid-Upper
+Selchar     
+emerald
+ Fish
+Trading Routes:
+- Durum Isles Upper
+- Durum Isles Lower
+- Durum Isles Center
+- Skiens Island
+- Rooster Island
+Nesaak Plains Mid North West
+emerald
+Wood
+Trading Routes:
+- Nesaak Plains Upper North West
+- Nesaak Plains Lower North West
+Corkus Outskirts
+emerald
+ Fish
+Trading Routes:
+- Bloody Beach
+- Corkus Statue
+- Corkus Countryside
+Nemract Cathedral
+emerald
+ Fish
+Trading Routes:
+- Cathedral Harbour
+- Ancient Nemract
+- Nemract Road
+- Nemract Town
+Nivla Woods Entrance
+emerald
+Wood
+Trading Routes:
+- Road to Time Valley
+- Emerald Trail
+- Plains
+- Nivla Woods
+Durum Isles East
+emerald
+ Crops
+Trading Routes:
+- Durum Isles Center
+- Mage Island
+Nemract Cathedral
+emerald
+ Fish
+Trading Routes:
+- Nemract Road
+- Cathedral Harbour
+- Nemract Town
+- Ancient Nemract
+Ragni North Suburbs
+emerald
+ Crops
+Trading Routes:
+- Katoa Ranch
+- Ragni North Entrance
+- Ragni Plains
+Desert Lower
+emerald
+ Crops
+Trading Routes:
+- Rymek West Upper
+- Desert Mid-Lower
+- Desert West Lower
+Ragni Plains
+emerald
+ Crops
+Trading Routes:
+- Ragni East Suburbs
+- Maltic
+- Ragni North Suburbs
+- Coastal Trail
+Lion Lair   
+emerald
+Wood
+Trading Routes:
+- Bremminglar
+Gelibord    
+emerald
+Wood
+Trading Routes:
+- Lone Farmstead
+- Entrance to Kander
+- Gelibord Corrupted Farm
+- Twisted Housing
+Swamp Mountain Base
+emerald
+Ore
+Trading Routes:
+- Swamp Plains Basin
+- Sunspark Camp
+- Swamp East Mid
+- Swamp Lower
+Military Base
+emerald
+Ore
+Trading Routes:
+- Path To Military Base
+- Military Base Upper
+Santa's Hideout
+Ore
+Wood
+ Fish
+ Crops
+Trading Routes:
+- Mage Island
+- Icy Island
+Ragni Plains
+emerald
+ Crops
+Trading Routes:
+- Maltic
+- Ragni East Suburbs
+- Ragni North Suburbs
+- Coastal Trail
+Aldorei's River
+emerald
+Wood
+Trading Routes:
+- Aldorei Lowlands
+- Cinfras
+Durum Isles Lower
+emerald
+Wood
+Trading Routes:
+- Rooster Island
+- Selchar
+- Durum Isles Center
+Mage Island 
+emerald
+ Crops
+Trading Routes:
+- Durum Isles East
+- Durum Isles Upper
+- Half Moon Island
+- Santa's Hideout
+Loamsprout Camp
+emerald
+Ore
+Trading Routes:
+- Orc Road
+- Llevigar Farm
+- Quartz Mines North West
+- Sablestone Camp
+Old Crossroads South
+emerald
+Wood
+Trading Routes:
+- Fungal Grove
+- Cinfras Outskirts
+- Dark Forest Village
+- Old Crossroads North
+- Path to Talor
+Canyon Path South West
+emerald
+Ore
+Trading Routes:
+- Canyon Lower South East
+- Canyon Path North West
+Canyon Path North West
+emerald
+ Crops
+Trading Routes:
+- Canyon Entrance Waterfall
+- Canyon Path South East
+Path To Ozoth's Spire Mid
+emerald
+Ore
+Trading Routes:
+- Path To Ozoth's Spire Upper
+- Canyon Walk Way
+Old Crossroads South
+emerald
+Wood
+Trading Routes:
+- Cinfras Outskirts
+- Dark Forest Village
+- Old Crossroads North
+- Path to Talor
+- Fungal Grove
+Little Wood 
+emerald
+Wood
+Trading Routes:
+- South Pigmen Ravines
+- Time Valley
+Central Islands
+emerald
+Wood
+Trading Routes:
+- Temple Island
+- Ahmsord Outskirts
+- Ahmsord
+- Wybel Island
+- Sky Island Ascent
+Jofash Tunnel
+emerald
+Ore
+Trading Routes:
+- Jofash Docks
+- Sky Island Ascent
+Little Wood 
+emerald
+Wood
+Trading Routes:
+- Time Valley
+- South Pigmen Ravines
+Canyon Mountain East
+emerald
+Ore
+Trading Routes:
+- Canyon Walk Way
+- Canyon Valley South
+Swamp East Lower
+emerald
+Ore
+Trading Routes:
+- Sunspark Camp
+- Swamp West Lower
+- Swamp East Mid
+- Llevigar Plains East Upper
+Nemract Plains West
+emerald
+ Crops
+Trading Routes:
+- Nivla Woods Edge
+- Nemract Road
+- Nemract Quarry
+- Arachnid Route
+Ragni North Entrance
+emerald
+ Crops
+Trading Routes:
+- Katoa Ranch
+- Ragni
+- Ragni North Suburbs
+Molten Reach
+emerald
+Ore
+Trading Routes:
+- Molten Heights Portal
+- Angel Refuge
+Rodoroc     
+emerald
+Ore
+Trading Routes:
+- Crater Descent
+Path To The Arch
+emerald
+Ore
+Trading Routes:
+- Aldorei's Arch
+- Aldorei's North Exit
+- Ghostly Path
+Almuj City  
+emerald
+ Crops
+Trading Routes:
+- Savannah East Upper
+- Desert West Upper
+- Desert West Lower
+- Desert Mid-Upper
+- Desert Mid-Lower
+Llevigar Entrance
+emerald
+Ore
+Trading Routes:
+- Llevigar
+Angel Refuge
+emerald
+ Fish
+Trading Routes:
+- Ahmsord Outskirts
+- Molten Reach
+Twain Lake  
+emerald
+ Fish
+Trading Routes:
+- Nesaak Plains South West
+- Twain Mansion
+North Farmers Valley
+emerald
+ Crops
+Trading Routes:
+- Maltic Plains
+- Maltic Coast
+- South Farmers Valley
+Canyon Of The Lost
+emerald
+Ore
+Trading Routes:
+- Kandon-Beda
+- Cliff Side of the Lost
+- Cliffside Lake
+- Valley of the Lost
+The Bear Zoo
+emerald
+ Fish
+Trading Routes:
+- Rooster Island
+- Zhight Island
+Nemract Road
+emerald
+ Crops
+Trading Routes:
+- Nemract Town
+- Nemract Cathedral
+- Ancient Nemract
+- Nemract Plains East
+- Nemract Plains West
+- Nemract Quarry
+Ranol's Farm
+emerald
+ Crops
+Trading Routes:
+- Thesead Suburbs
+- Cherry Blossom Forest
+- Eltom
+Old Crossroads North
+emerald
+ Crops
+Trading Routes:
+- Fungal Grove
+- Lexdale
+- Old Crossroads South
+- Path to Talor
+Corkus Mountain
+emerald
+ Fish
+Trading Routes:
+- Corkus Forest North
+- Corkus Countryside
+- Corkus Docks
+Dragonling Nests
+emerald
+Wood
+Trading Routes:
+- Astraulus' Tower
+- Snail Island
+Temple of Legends
+emerald
+Wood
+Trading Routes:
+- Jungle Lake
+- City of Troms
+Ruined Houses
+emerald
+ Fish
+Trading Routes:
+- Corkus Sea Port
+- Fallen Factory
+- Factory Entrance
+Bandits Toll
+emerald
+Ore
+Trading Routes:
+- Canyon Walk Way
+- Wizard Tower North
+- Cliffside Valley
+- Thanos Exit Upper
+Cinfras Thanos Transition
+emerald
+Ore
+Trading Routes:
+- Path To Thanos
+- Burning Airship
+- Cinfras County Mid-Upper
+Swamp Mountain Transition Upper 
+emerald
+Ore
+Trading Routes:
+- Swamp Mountain Transition Mid-Upper
+- Swamp East Upper
+- Olux
+Thanos Exit 
+emerald
+Ore
+Trading Routes:
+- Thanos Exit Upper
+Light Forest South Entrance
+Ore
+Wood
+ Fish
+ Crops
+Trading Routes:
+- Heavenly Ingress
+- Light Forest Entrance
+- Light Forest West Lower
+Kandon Farm 
+emerald
+ Crops
+Trading Routes:
+- Kandon Ridge
+Quartz Mines South East
+emerald
+Ore
+Trading Routes:
+- Quartz Mines South West
+- Quartz Mines North East
+Dead Island South West
+emerald
+ Fish
+Trading Routes:
+- Dead Island North West
+- Dujgon Nation
+- Dead Island South East
+- Skiens Island
+Nesaak Plains Mid North West
+emerald
+Wood
+Trading Routes:
+- Nesaak Plains Lower North West
+- Nesaak Plains Upper North West
+Rymek East Upper
+emerald
+ Crops
+Trading Routes:
+- Rymek West Upper
+- Rymek East Mid
+- Desert East Lower
+Efilim Village
+emerald
+Ore
+Trading Routes:
+- Efilim South Plains
+- Twisted Housing
+- Efilim East Plains
+Aldorei's North Exit
+Ore
+Wood
+ Fish
+ Crops
+Trading Routes:
+- Path To The Arch
+- Aldorei Valley South Entrance
+- Cinfras County Lower
+Jitak's Farm
+emerald
+ Crops
+Trading Routes:
+- Gylia Lake North West
+- Gert Camp
+- Mushroom Hill

@@ -19,7 +19,7 @@
         ],
         "Emeralds": true
     },
-    "Maro Peaks  ": {
+    "Maro Peaks": {
         "Routes": [
             "Skiens Island",
             "Tree Island"
@@ -30,7 +30,7 @@
         "Storage": [],
         "Emeralds": true
     },
-    "Plains      ": {
+    "Plains": {
         "Routes": [
             "Nivla Woods Entrance",
             "North Nivla Woods",
@@ -97,7 +97,7 @@
         ],
         "Emeralds": true
     },
-    "Selchar     ": {
+    "Selchar": {
         "Routes": [
             "Durum Isles Upper",
             "Durum Isles Lower",
@@ -379,7 +379,7 @@
         ],
         "Emeralds": true
     },
-    "Mage Island ": {
+    "Mage Island": {
         "Routes": [
             "Durum Isles East",
             "Durum Isles Upper",
@@ -392,7 +392,7 @@
         "Storage": [],
         "Emeralds": true
     },
-    "Ahmsord     ": {
+    "Ahmsord": {
         "Routes": [
             "Path to Ahmsord Lower",
             "Temple Island",
@@ -422,7 +422,7 @@
         ],
         "Emeralds": true
     },
-    "Bob's Tomb  ": {
+    "Bob's Tomb": {
         "Routes": [
             "Nesaak Village",
             "Nesaak Plains South East",
@@ -500,7 +500,7 @@
         "Storage": [],
         "Emeralds": true
     },
-    "Corkus City ": {
+    "Corkus City": {
         "Routes": [
             "Corkus Forest South",
             "Corkus Forest North",
@@ -587,7 +587,7 @@
         ],
         "Emeralds": true
     },
-    "Primal Fen  ": {
+    "Primal Fen": {
         "Routes": [
             "Field of Life"
         ],
@@ -615,7 +615,7 @@
         ],
         "Emeralds": true
     },
-    "Dark Forest Cinfras Transition  ": {
+    "Dark Forest Cinfras Transition": {
         "Routes": [
             "Gylia Lake South West",
             "Cinfras Outskirts",
@@ -702,7 +702,7 @@
         ],
         "Emeralds": true
     },
-    "Swamp Lower ": {
+    "Swamp Lower": {
         "Routes": [
             "Swamp Dark Forest Transition Lower",
             "Swamp Mountain Base",
@@ -715,7 +715,7 @@
         "Storage": [],
         "Emeralds": true
     },
-    "Bremminglar ": {
+    "Bremminglar": {
         "Routes": [
             "Savannah West Upper",
             "Lion Lair"
@@ -860,7 +860,7 @@
         ],
         "Emeralds": true
     },
-    "Pirate Town ": {
+    "Pirate Town": {
         "Routes": [
             "Bloody Beach",
             "Zhight Island",
@@ -893,7 +893,7 @@
         ],
         "Emeralds": true
     },
-    "Orc Road    ": {
+    "Orc Road": {
         "Routes": [
             "Llevigar Farm Plains East",
             "Orc Lake",
@@ -1036,7 +1036,7 @@
         ],
         "Emeralds": true
     },
-    "Royal Gate  ": {
+    "Royal Gate": {
         "Routes": [
             "Phinas Farm"
         ],
@@ -1064,7 +1064,7 @@
         ],
         "Emeralds": true
     },
-    "Nesaak Plains Lower North West  ": {
+    "Nesaak Plains Lower North West": {
         "Routes": [
             "Nesaak Plains Upper North West",
             "Nesaak Plains Mid North West",
@@ -1161,7 +1161,7 @@
         ],
         "Emeralds": true
     },
-    "Final Step  ": {
+    "Final Step": {
         "Routes": [
             "Bizarre Passage",
             "Gateway to Nothing"
@@ -1172,7 +1172,7 @@
         "Storage": [],
         "Emeralds": true
     },
-    "Tree Island ": {
+    "Tree Island": {
         "Routes": [
             "Volcano Upper",
             "Lost Atoll"
@@ -1275,7 +1275,7 @@
         ],
         "Emeralds": true
     },
-    "Katoa Ranch ": {
+    "Katoa Ranch": {
         "Routes": [
             "Ragni North Entrance",
             "Ragni North Suburbs"
@@ -1354,7 +1354,7 @@
         ],
         "Emeralds": true
     },
-    "Thanos      ": {
+    "Thanos": {
         "Routes": [
             "Gylia Lake South East",
             "Path To Thanos",
@@ -1385,7 +1385,7 @@
         ],
         "Emeralds": true
     },
-    "Worm Tunnel ": {
+    "Worm Tunnel": {
         "Routes": [
             "The Broken Road",
             "Grey Ruins"
@@ -1498,7 +1498,7 @@
         ],
         "Emeralds": true
     },
-    "Frozen Fort ": {
+    "Frozen Fort": {
         "Routes": [
             "Sky Falls"
         ],
@@ -1751,7 +1751,7 @@
         ],
         "Emeralds": true
     },
-    "Swamp Mountain Transition Lower ": {
+    "Swamp Mountain Transition Lower": {
         "Routes": [
             "Swamp Mountain Transition Mid"
         ],
@@ -1907,7 +1907,7 @@
         ],
         "Emeralds": true
     },
-    "Iron Road   ": {
+    "Iron Road": {
         "Routes": [
             "Goblin Plains West",
             "Meteor Crater",
@@ -2078,7 +2078,7 @@
         ],
         "Emeralds": true
     },
-    "Icy Island  ": {
+    "Icy Island": {
         "Routes": [
             "Dujgon Nation",
             "Regular Island",
@@ -2110,7 +2110,7 @@
         ],
         "Emeralds": true
     },
-    "Gert Camp   ": {
+    "Gert Camp": {
         "Routes": [
             "Gylia Lake North East",
             "Jitak's Farm"
@@ -2121,7 +2121,7 @@
         "Storage": [],
         "Emeralds": true
     },
-    "Thesead     ": {
+    "Thesead": {
         "Routes": [
             "Entrance to Thesead South",
             "Thesead Suburbs"
@@ -2221,7 +2221,7 @@
         ],
         "Emeralds": true
     },
-    "Kandon-Beda ": {
+    "Kandon-Beda": {
         "Routes": [
             "Canyon Of The Lost"
         ],
@@ -2439,7 +2439,7 @@
         ],
         "Emeralds": true
     },
-    "Nesaak Plains Upper North West  ": {
+    "Nesaak Plains Upper North West": {
         "Routes": [
             "Elkurn",
             "Sanctuary Bridge",
@@ -2453,7 +2453,7 @@
         "Storage": [],
         "Emeralds": true
     },
-    "Detlas      ": {
+    "Detlas": {
         "Routes": [
             "Detlas Savannah Transition",
             "Detlas Close Suburbs",
@@ -2516,7 +2516,7 @@
         ],
         "Emeralds": true
     },
-    "Cinfras     ": {
+    "Cinfras": {
         "Routes": [
             "Cinfras Outskirts",
             "Cinfras Entrance",
@@ -2529,7 +2529,7 @@
         "Storage": [],
         "Emeralds": true
     },
-    "Lexdale     ": {
+    "Lexdale": {
         "Routes": [
             "Decayed Basin",
             "Viscera Pits East",
@@ -2581,7 +2581,7 @@
         ],
         "Emeralds": true
     },
-    "Toxic Caves ": {
+    "Toxic Caves": {
         "Routes": [
             "Toxic Drip"
         ],
@@ -2627,7 +2627,7 @@
         ],
         "Emeralds": true
     },
-    "Ragni       ": {
+    "Ragni": {
         "Routes": [
             "Ragni North Entrance",
             "Pigmen Ravines Entrance",
@@ -2843,7 +2843,7 @@
         ],
         "Emeralds": true
     },
-    "Avos Temple ": {
+    "Avos Temple": {
         "Routes": [
             "Avos Workshop",
             "Bloody Beach"
@@ -2941,7 +2941,7 @@
         ],
         "Emeralds": true
     },
-    "Maltic      ": {
+    "Maltic": {
         "Routes": [
             "Ragni Plains",
             "Coastal Trail",
@@ -3009,7 +3009,7 @@
         ],
         "Emeralds": true
     },
-    "Plains Lake ": {
+    "Plains Lake": {
         "Routes": [
             "Nether Plains Upper",
             "Nether Gate",
@@ -3132,7 +3132,7 @@
         ],
         "Emeralds": true
     },
-    "Lost Atoll  ": {
+    "Lost Atoll": {
         "Routes": [
             "Tree Island",
             "Volcano Upper",
@@ -3303,7 +3303,7 @@
         ],
         "Emeralds": true
     },
-    "Lusuco      ": {
+    "Lusuco": {
         "Routes": [
             "Icy Descent"
         ],
@@ -3313,7 +3313,7 @@
         "Storage": [],
         "Emeralds": true
     },
-    "Ternaves    ": {
+    "Ternaves": {
         "Routes": [
             "Savannah East Lower",
             "Ternaves Plains Upper",
@@ -3421,7 +3421,7 @@
         ],
         "Emeralds": true
     },
-    "Jungle Lake ": {
+    "Jungle Lake": {
         "Routes": [
             "Jungle Mid",
             "Temple of Legends",
@@ -3462,7 +3462,7 @@
         ],
         "Emeralds": true
     },
-    "Orc Lake    ": {
+    "Orc Lake": {
         "Routes": [
             "Llevigar Plains East Lower",
             "Sunspark Camp",
@@ -3511,7 +3511,7 @@
         ],
         "Emeralds": true
     },
-    "Nether Gate ": {
+    "Nether Gate": {
         "Routes": [
             "Nether Plains Upper",
             "Corrupted Road",
@@ -3605,7 +3605,7 @@
         ],
         "Emeralds": true
     },
-    "Phinas Farm ": {
+    "Phinas Farm": {
         "Routes": [
             "Royal Gate",
             "Lighthouse Plateau"
@@ -3806,7 +3806,7 @@
         ],
         "Emeralds": true
     },
-    "Void Valley ": {
+    "Void Valley": {
         "Routes": [
             "Gateway to Nothing"
         ],
@@ -3816,7 +3816,7 @@
         "Storage": [],
         "Emeralds": true
     },
-    "Kandon Farm ": {
+    "Kandon Farm": {
         "Routes": [
             "Kandon Ridge"
         ],
@@ -4058,7 +4058,7 @@
         ],
         "Emeralds": true
     },
-    "Time Valley ": {
+    "Time Valley": {
         "Routes": [
             "Abandoned Farm",
             "Little Wood",
@@ -4226,7 +4226,7 @@
         ],
         "Emeralds": true
     },
-    "Hive South  ": {
+    "Hive South": {
         "Routes": [
             "Chained House",
             "Cherry Blossom Forest",
@@ -4275,7 +4275,7 @@
         ],
         "Emeralds": true
     },
-    "Llevigar    ": {
+    "Llevigar": {
         "Routes": [
             "Quartz Mines South West",
             "Llevigar Gate East",
@@ -4351,7 +4351,7 @@
         ],
         "Emeralds": true
     },
-    "Lava Lake   ": {
+    "Lava Lake": {
         "Routes": [
             "Active Volcano",
             "Volcanic Slope",
@@ -4363,7 +4363,7 @@
         "Storage": [],
         "Emeralds": true
     },
-    "Sky Castle  ": {
+    "Sky Castle": {
         "Routes": [
             "Path to Ahmsord Lower"
         ],
@@ -4407,7 +4407,7 @@
         ],
         "Emeralds": true
     },
-    "The Gate    ": {
+    "The Gate": {
         "Routes": [
             "Bizarre Passage"
         ],
@@ -4561,7 +4561,7 @@
         ],
         "Emeralds": true
     },
-    "Guild Hall  ": {
+    "Guild Hall": {
         "Routes": [
             "Cinfras"
         ],
@@ -4732,7 +4732,7 @@
         ],
         "Emeralds": true
     },
-    "Eltom       ": {
+    "Eltom": {
         "Routes": [
             "Ranol's Farm",
             "Entrance to Rodoroc"
@@ -4780,7 +4780,7 @@
         ],
         "Emeralds": true
     },
-    "Mantis Nest ": {
+    "Mantis Nest": {
         "Routes": [
             "Light Forest Canyon",
             "Light Forest East Lower",
@@ -4828,7 +4828,7 @@
         ],
         "Emeralds": true
     },
-    "Grey Ruins  ": {
+    "Grey Ruins": {
         "Routes": [
             "Worm Tunnel",
             "Forgotten Town"
@@ -5061,7 +5061,7 @@
         ],
         "Emeralds": true
     },
-    "Twain Lake  ": {
+    "Twain Lake": {
         "Routes": [
             "Nesaak Plains South West",
             "Twain Mansion"
@@ -5072,7 +5072,7 @@
         "Storage": [],
         "Emeralds": true
     },
-    "Herb Cave   ": {
+    "Herb Cave": {
         "Routes": [
             "Great Bridge Jungle"
         ],
@@ -5164,7 +5164,7 @@
         ],
         "Emeralds": true
     },
-    "Lion Lair   ": {
+    "Lion Lair": {
         "Routes": [
             "Bremminglar"
         ],
@@ -5194,7 +5194,7 @@
         ],
         "Emeralds": true
     },
-    "Swamp Mountain Transition Upper ": {
+    "Swamp Mountain Transition Upper": {
         "Routes": [
             "Swamp Mountain Transition Mid-Upper",
             "Swamp East Upper",
@@ -5323,7 +5323,7 @@
         ],
         "Emeralds": true
     },
-    "Lutho       ": {
+    "Lutho": {
         "Routes": [
             "Sinister Forest",
             "Paths of Sludge"
@@ -5369,7 +5369,7 @@
         ],
         "Emeralds": true
     },
-    "Jungle Mid  ": {
+    "Jungle Mid": {
         "Routes": [
             "Jungle Lake",
             "Jungle Upper",
@@ -5645,7 +5645,7 @@
         ],
         "Emeralds": true
     },
-    "Icy Descent ": {
+    "Icy Descent": {
         "Routes": [
             "Tower of Ascension",
             "Lusuco"
@@ -5756,7 +5756,7 @@
         ],
         "Emeralds": true
     },
-    "Olux        ": {
+    "Olux": {
         "Routes": [
             "Swamp Dark Forest Transition Mid",
             "Swamp Dark Forest Transition Upper",
@@ -5769,7 +5769,7 @@
         "Storage": [],
         "Emeralds": true
     },
-    "Gelibord    ": {
+    "Gelibord": {
         "Routes": [
             "Lone Farmstead",
             "Entrance to Kander",
@@ -5905,7 +5905,7 @@
         ],
         "Emeralds": true
     },
-    "Nivla Woods ": {
+    "Nivla Woods": {
         "Routes": [
             "Nivla Woods Entrance",
             "South Nivla Woods",
@@ -6012,7 +6012,7 @@
         ],
         "Emeralds": true
     },
-    "Elkurn      ": {
+    "Elkurn": {
         "Routes": [
             "Road to Elkurn",
             "Nesaak Plains Upper North West",
@@ -6147,7 +6147,7 @@
         ],
         "Emeralds": true
     },
-    "Hive        ": {
+    "Hive": {
         "Routes": [
             "Hive South",
             "Thanos Exit Upper"
@@ -6197,7 +6197,7 @@
         ],
         "Emeralds": true
     },
-    "Sky Falls   ": {
+    "Sky Falls": {
         "Routes": [
             "Frozen Fort",
             "Wybel Island",
@@ -6209,7 +6209,7 @@
         "Storage": [],
         "Emeralds": true
     },
-    "Rodoroc     ": {
+    "Rodoroc": {
         "Routes": [
             "Crater Descent"
         ],
@@ -6219,7 +6219,7 @@
         "Storage": [],
         "Emeralds": true
     },
-    "Almuj City  ": {
+    "Almuj City": {
         "Routes": [
             "Savannah East Upper",
             "Desert West Upper",
@@ -6252,7 +6252,7 @@
         ],
         "Emeralds": true
     },
-    "Toxic Drip  ": {
+    "Toxic Drip": {
         "Routes": [
             "Toxic Caves",
             "Gateway to Nothing",
@@ -6496,7 +6496,7 @@
         ],
         "Emeralds": true
     },
-    "Thanos Exit ": {
+    "Thanos Exit": {
         "Routes": [
             "Thanos Exit Upper"
         ],
@@ -6633,7 +6633,7 @@
         ],
         "Emeralds": true
     },
-    "Little Wood ": {
+    "Little Wood": {
         "Routes": [
             "Time Valley",
             "South Pigmen Ravines"

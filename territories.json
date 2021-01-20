@@ -206,7 +206,7 @@
         "DoubleEmerald": false,
         "DoubleResource": false
     },
-    "Swamp Dark Forest Transition Upper�a]": {
+    "Swamp Dark Forest Transition Upper": {
         "Routes": [
             "Swamp Dark Forest Transition Mid",
             "Taproot Descent",
@@ -3227,7 +3227,7 @@
         "DoubleEmerald": false,
         "DoubleResource": false
     },
-    "Swamp Dark Forest Transition Mid�a]": {
+    "Swamp Dark Forest Transition Mid": {
         "Routes": [
             "Swamp Dark Forest Transition Upper",
             "Olux",
@@ -3437,7 +3437,7 @@
         "DoubleEmerald": false,
         "DoubleResource": false
     },
-    "Swamp Dark Forest Transition Lower�a]": {
+    "Swamp Dark Forest Transition Lower": {
         "Routes": [
             "Swamp Dark Forest Transition Mid",
             "Fortress South",
@@ -4602,7 +4602,7 @@
         "DoubleEmerald": false,
         "DoubleResource": false
     },
-    "Swamp Mountain Transition Mid-Upper�a]": {
+    "Swamp Mountain Transition Mid-Upper": {
         "Routes": [
             "Swamp Mountain Transition Upper",
             "Swamp Mountain Transition Mid",

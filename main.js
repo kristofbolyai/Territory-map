@@ -342,9 +342,14 @@ function drawRoutes() {
     for (const name in newTerritoryData) {
         let x = newTerritoryData[name];
         for (const route of x.Routes) {
-            let r = drawBetween(name, route, !newTerritoryData[route].Routes.includes(name));
-            if (r)
-                routes.push(r);
+            try {
+                let r = drawBetween(name, route, !newTerritoryData[route].Routes.includes(name));
+                if (r)
+                    routes.push(r);
+            } catch (error) {
+                console.log("error drawing between", route, name)
+            }
+
         }
     }
 }

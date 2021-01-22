@@ -48,21 +48,25 @@
 			<div style="overflow: scroll;" id="menu">
 				<div class="menu-section">
 					<p class="menu-text menu-title guild-name">Wynncraft 1.20 Map</p>
-					<p class="menu-text guild-name">Version 2.0.1</p>
+					<p class="menu-text guild-name">Version 2.1.1</p>
 				</div>
 				<hr style="width: 100%; color: black; height: 1px; background-color:white;" />
 				<h2 style="color: white; text-align:center">Map mode</h2><br>
-				<p style="color: red;text-align: center;">Includes all 1.20 terrs with correct borders except the 8 Realm of light territories</p>
+				<p style="color: red;text-align: center;font-style: oblique;">Includes all 1.20 terrs with correct borders except the 8 Realm of light territories</p>
 				<input style="width: 100%"; id="changemode" class="input-button" type="button" value="Change to: Resource map" onclick="changemode()">
+				<p style="color: white;text-align: center;margin-top: 10px;">Color meanings:<br>Yellow: Crops<br>Blue: Fish<br>Gray: Ores<br>Brown: Wood<br><br><b>If the territory has a green border, it has double resource or emerald rate.</b><br><br>Click on any territory to show advanced details</p>
 				<hr style="width: 100%; color: black; height: 1px; background-color:white;" />
 				<input id="showr" class="input-button" type="button" value="Show routes" onclick="showr()">
 				<input id="shown" class="input-button" type="button" value="Show territory names" onclick="shownames()">
+				<p style="color: rgb(255, 255, 255);text-align: center;margin-top: 10px;">If enabled, zoom in to show territory names</p>
 				<hr style="width: 100%; color: black; height: 1px; background-color:white;" />
 				<input id="sel" class="input-button" type="button" value="Turn on select mode" onclick="sel()">
 				<input id="copy" class="input-button" type="button" value="Copy data" onclick="copy()">
 				<hr style="width: 100%; color: black; height: 1px; background-color:white;" />
 				<h3 id="selcount" style="color: white;margin-left: 5%;">Selected territories (0)</h3>
 				<ul id = "sellist" style="color: white">
+
+				
 					
 				</ul>
 				<hr style="width: 100%; color: black; height: 1px; background-color:white;" />

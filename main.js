@@ -632,7 +632,13 @@ function render() {
             if (newTerritoryData[territory]) {
                 let x = newTerritoryData[territory];
                 if (!selmode)
-                    rectangles[oldtn].bindPopup(`<b>${territory}</b><br><b>${x.DoubleEmerald ? "DOUBLE " : ""} Emerald production</b><br><b>${x.DoubleResource ? "DOUBLE " : ""}Resources:</b><br>${x.Resources.toString().replaceAll(",", "<br>")}<br><b>Trade routes:</b><br>${x.Routes.toString().replaceAll(",", "<br>")}`);
+                {
+                    let restext = "";
+                    for (const res of x.Resources) {
+                        restext += `${res}: ${x.DoubleResource ? 7200 : 3600}/h\n`;
+                    }
+                    rectangles[oldtn].bindPopup(`<b>${territory}</b><br><b>${x.DoubleEmerald ? "DOUBLE " : ""} Emerald production: ${x.DoubleEmerald ? 18000 : 9000}/h</b><br><b>${x.DoubleResource ? "DOUBLE " : ""}Resources:</b><br>${restext}<br><b>Trade routes:</b><br>${x.Routes.toString().replaceAll(",", "<br>")}`);
+                }
                 if (x.Resources.length > 1) {
                     c = red;
                 }

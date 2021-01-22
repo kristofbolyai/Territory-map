@@ -32,6 +32,8 @@
 		integrity="sha512-GffPMF3RvMeYyc1LWMHtK8EbPv0iNZ8/oTtHPx9/cc2ILxQ+u905qIwdpULaqDkyBKgOaB57QTMg7ztg8Jm2Og=="
 		crossorigin=""></script>
 
+	<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+
 	<script src="./leaflet-geometryutil.js"></script>
 	<script src="./leaflet-arrowheads.js"></script>
 
@@ -46,8 +48,12 @@
 			<div style="overflow: scroll;" id="menu">
 				<div class="menu-section">
 					<p class="menu-text menu-title guild-name">Wynncraft 1.20 Map</p>
-					<p class="menu-text guild-name">Version 1.2.3</p>
+					<p class="menu-text guild-name">Version 2.0.1</p>
 				</div>
+				<hr style="width: 100%; color: black; height: 1px; background-color:white;" />
+				<h2 style="color: white; text-align:center">Map mode</h2><br>
+				<p style="color: red;text-align: center;">Includes all 1.20 terrs with correct borders except the 8 Realm of light territories</p>
+				<input style="width: 100%"; id="changemode" class="input-button" type="button" value="Change to: Resource map" onclick="changemode()">
 				<hr style="width: 100%; color: black; height: 1px; background-color:white;" />
 				<input id="showr" class="input-button" type="button" value="Show routes" onclick="showr()">
 				<input id="shown" class="input-button" type="button" value="Show territory names" onclick="shownames()">

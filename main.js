@@ -7,6 +7,11 @@ var markers = [];
 var map;
 var rectangleselect = false;
 var visible = false;
+let territories;
+
+
+let terrmode = true; //terr map is true res map if false 
+let latestterrdata;
 
 $(document).ready(function () {
     // Help popup
@@ -65,8 +70,6 @@ function addguild() {
     alert("Successfully added the guild!");
 }
 
-let territories;
-
 function initTerrs() {
     var xhttp = new XMLHttpRequest();
     xhttp.onreadystatechange = function () {
@@ -74,12 +77,27 @@ function initTerrs() {
             territories = JSON.parse(this.responseText);
             //ADD FILTER HERE
             territories = territories.filter(x => newTerritoryData.hasOwnProperty(x.name));
+            let specified = new Set();
+            let notspecified = new Set();
             for (const x in newtloc) {
                 let a = {};
                 a.start = newtloc[x].start;
                 a.end = newtloc[x].end;
                 a.name = x;
                 territories.push(a);
+            }
+            for (const x of territories) {
+                specified.add(x.name);
+            }
+            for (const x in newTerritoryData) {
+                for (const route of newTerritoryData[x].Routes) {
+                    if (!specified.has(route)) {
+                        notspecified.add(route);
+                    }
+                }
+            }
+            for (const x of Array.from(notspecified.values())) {
+                console.log("Missing terr data: ", x);
             }
             for (let i in territories) {
                 Territories[territories[i].name] = null;
@@ -149,7 +167,7 @@ function toggleLegend() {
     }
 }
 
-function run() {
+async function run() {
     // initializing map
     let bounds = [];
     let images = [];
@@ -219,6 +237,27 @@ function run() {
         });
         rectangle.addTo(map);
     }
+
+    setTimeout(async () => {
+        while (true) {
+            if (terrmode) {
+                try {
+                    let data = (await axios.get("https://api.wynncraft.com/public_api.php?action=territoryList")).data.territories;
+                    if (data) {
+                        latestterrdata = data;
+                        console.log("Got new territory data!");
+                        render();
+                    }
+                } catch (error) {
+                    console.log("error fetching terr data", error);
+                }
+            }
+            await new Promise(r => setTimeout(r, 6000));
+        }
+    }, 1);
+
+    while (!latestterrdata)
+        await new Promise(r => setTimeout(r, 100));
 
     render();
     reloadLegend();
@@ -319,17 +358,15 @@ function drawBetween(g1, g2, directional) {
     bounds[1][0] *= -1;
     if (index >= colors.length)
         index = 0;
-    if (selected.includes(g2) && selected.includes(g1))
-    {
+    if (selected.includes(g2) && selected.includes(g1)) {
         if (directional)
-            return L.polyline(bounds, { color: colors[2] }).arrowheads({size: "10px"}).addTo(map);
+            return L.polyline(bounds, { color: colors[2] }).arrowheads({ size: "10px" }).addTo(map);
         else
             return L.polyline(bounds, { color: colors[3] }).addTo(map);
     }
-    else
-    {
+    else {
         if (directional)
-            return L.polyline(bounds, { color: colors[1] }).arrowheads({size: "10px"}).addTo(map);
+            return L.polyline(bounds, { color: colors[1] }).arrowheads({ size: "10px" }).addTo(map);
         else
             return L.polyline(bounds, { color: colors[0] }).addTo(map);
     }
@@ -533,50 +570,99 @@ function checkRectOverlap(rect1, rect2) {
     return false;
 }
 
+let colormap = new Map();
+
 function render() {
     console.log("RENDERING");
     if (!visible) changeVisibility();
-    Object.keys(Territories).forEach(territory => {
-        rectangles[territory].unbindTooltip();
-        rectangles[territory].unbindPopup();
-        if (map.getZoom() >= 9 && visible)
-            rectangles[territory].bindTooltip('<span class="territoryGuildName" style="color: #FFFFFF">' + territory + '</span>', { sticky: true, interactive: false, permanent: true, direction: 'center', className: 'territoryName', opacity: 1 })
-        let c;
-        let oldtn = territory;
-        territory = territory.replace('’', "'");
-        if (newTerritoryData[territory]) {
-            let x = newTerritoryData[territory];
-            if (!selmode)
-                rectangles[oldtn].bindPopup(`<b>${territory}</b><br><b>${x.DoubleEmerald ? "DOUBLE " : ""} Emerald production</b><br><b>${x.DoubleResource ? "DOUBLE " : ""}Resources:</b><br>${x.Resources.toString().replaceAll(",", "<br>")}<br><b>Trade routes:</b><br>${x.Routes.toString().replaceAll(",", "<br>")}`);
-            if (x.Resources.length > 1) {
-                c = red;
-            }
-            else {
-                switch (x.Resources[0]) {
-                    case "Wood":
-                        c = brown;
-                        break;
-                    case "Ore":
-                        c = gray;
-                        break;
-                    case "Fish":
-                        c = blue;
-                        break;
-                    case "Crops":
-                        c = yellow;
-                        break;
+    if (terrmode) {
+        let guilds = new Set();
+        for (const x in latestterrdata) {
+            guilds.add(latestterrdata[x].guild);
+        }
+        for (const guild of Array.from(guilds.values())) {
+            setTimeout(() => {
+                Object.keys(latestterrdata).filter(x => latestterrdata[x].guild === guild).forEach(territory => {
+                    try {
+                        rectangles[territory].unbindTooltip();
+                        rectangles[territory].unbindPopup();
+                        let c;
+                        let oldtn = territory;
+                        territory = territory.replace('’', "'");
+                        if (newTerritoryData[territory]) {
+                            let x = newTerritoryData[territory];
+                            if (!selmode)
+                                rectangles[oldtn].bindPopup(`<b>${territory}</b><br>${latestterrdata[territory].guild}`);
+            
+                        }
+            
+                        if (colormap.has(latestterrdata[territory].guild))
+                            c = colormap.get(latestterrdata[territory].guild);
+                        else {
+                            c = '#' + (Math.random() * 0xFFFFFF << 0).toString(16).padStart(6, '0');
+                            colormap.set(latestterrdata[territory].guild, c);
+                        }
+            
+                        if (selected.includes(territory))
+                            c = green;
+            
+                        if (map.getZoom() >= 9 && visible)
+                            rectangles[territory].bindTooltip(`<span class="territoryGuildName" style="color: ${c}">` + territory + '</span>', { sticky: true, interactive: false, permanent: true, direction: 'center', className: 'territoryName', opacity: 1 })
+            
+                        rectangles[oldtn].setStyle({
+                            fillColor: c,
+                            color: c
+                        }); 
+                    } catch (error) {
+                        
+                    }
+                });
+            }, 0);
+        }
+    }
+    else {
+        Object.keys(Territories).forEach(territory => {
+            rectangles[territory].unbindTooltip();
+            rectangles[territory].unbindPopup();
+            if (map.getZoom() >= 9 && visible)
+                rectangles[territory].bindTooltip('<span class="territoryGuildName" style="color: #FFFFFF">' + territory + '</span>', { sticky: true, interactive: false, permanent: true, direction: 'center', className: 'territoryName', opacity: 1 })
+            let c;
+            let oldtn = territory;
+            territory = territory.replace('’', "'");
+            if (newTerritoryData[territory]) {
+                let x = newTerritoryData[territory];
+                if (!selmode)
+                    rectangles[oldtn].bindPopup(`<b>${territory}</b><br><b>${x.DoubleEmerald ? "DOUBLE " : ""} Emerald production</b><br><b>${x.DoubleResource ? "DOUBLE " : ""}Resources:</b><br>${x.Resources.toString().replaceAll(",", "<br>")}<br><b>Trade routes:</b><br>${x.Routes.toString().replaceAll(",", "<br>")}`);
+                if (x.Resources.length > 1) {
+                    c = red;
+                }
+                else {
+                    switch (x.Resources[0]) {
+                        case "Wood":
+                            c = brown;
+                            break;
+                        case "Ore":
+                            c = gray;
+                            break;
+                        case "Fish":
+                            c = blue;
+                            break;
+                        case "Crops":
+                            c = yellow;
+                            break;
+                    }
                 }
             }
-        }
-        else
-            c = "#ffffff";
-        if (selected.includes(territory))
-            c = green;
-        rectangles[oldtn].setStyle({
-            fillColor: c,
-            color: newTerritoryData[territory].DoubleEmerald || newTerritoryData[territory].DoubleResource ? "lightgreen" : c
+            else
+                c = "#ffffff";
+            if (selected.includes(territory))
+                c = green;
+            rectangles[oldtn].setStyle({
+                fillColor: c,
+                color: newTerritoryData[territory].DoubleEmerald || newTerritoryData[territory].DoubleResource ? "lightgreen" : c
+            });
         });
-    });
+    }
     reloadLegend();
 }
 
@@ -652,8 +738,7 @@ function updatesel() {
         }
     }
     routes = [];
-    if (routesOn)
-    {
+    if (routesOn) {
         drawRoutes();
     }
     var ul = document.getElementById("sellist");
@@ -677,4 +762,11 @@ function updateClipboard(newClip) {
     }, function () {
         /* clipboard write failed */
     });
+}
+
+function changemode() {
+    terrmode = !terrmode;
+    let button = document.getElementById("changemode");
+    button.value = !terrmode ? "Change to: Territory map" : "Change to: Resource map";
+    render();
 }

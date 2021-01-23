@@ -72,39 +72,6 @@ function initTerrs() {
     xhttp.send();
 }
 
-function onclickevent(e) {
-    var coord = e.latlng;
-    var lat = coord.lat;
-    var lng = coord.lng;
-    let length = markers.length;
-    if (length <= 1) {
-        let marker = L.marker([lat, lng]).addTo(map);
-        markers.push(marker);
-    }
-    else {
-        let marker = markers.reverse().pop()
-        map.removeLayer(marker);
-        marker = L.marker([lat, lng]).addTo(map);
-        markers.push(marker);
-    }
-    if (markers.length == 2) {
-
-        let first = markers[0].getLatLng();
-        let second = markers[1].getLatLng();
-        let rect = [[first.lat, first.lng], [second.lat, second.lng]];
-        selectedTerritory = [];
-        Object.keys(rectangles).forEach(territory => {
-            let bounds = rectangles[territory]._bounds;
-            let current = [[bounds._southWest.lat, bounds._southWest.lng], [bounds._northEast.lat, bounds._northEast.lng]];
-            let overlap = checkRectOverlap(rect, current);
-            if (overlap)
-                selectedTerritory.push(territory);
-        });
-        reloadMenu();
-    }
-    console.log("You clicked the map at latitude: " + lat + " and longitude: " + lng);
-}
-
 async function run() {
     // initializing map
     let images = [];
@@ -117,7 +84,7 @@ async function run() {
         zoom: 1
     });
 
-    map.on('click', onclickevent);
+    //map.on('click', onclickevent);
 
 
     var bounds = [[0,0], [6485,4091]];

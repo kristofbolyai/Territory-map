@@ -39,7 +39,8 @@ function initTerrs() {
         if (this.readyState == 4 && this.status == 200) {
             territories = JSON.parse(this.responseText);
             //ADD FILTER HERE
-            territories = territories.filter(x => newTerritoryData.hasOwnProperty(x.name));
+            
+            territories = territories.filter(x => !newtloc[x.name] && newTerritoryData.hasOwnProperty(x.name));
             let specified = new Set();
             let notspecified = new Set();
             for (const x in newtloc) {

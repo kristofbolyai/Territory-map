@@ -5,70 +5,33 @@ var selectedTerritory = [];
 var actual_JSON;
 var markers = [];
 var map;
-var rectangleselect = false;
 var visible = false;
 let territories;
+
+let newTerritoryData, newtloc;
 
 
 let terrmode = true; //terr map is true res map if false 
 let latestterrdata;
 
-$(document).ready(function () {
+$(document).ready(async function () {
     // Help popup
     $(function () {
         $('#help').popover({
             trigger: 'focus'
         })
     })
-    // Initialize map
-    // var realButton = document.getElementById('file-button');
-    // var importButton = document.getElementById('import-button');
-
-    // importButton.addEventListener('click', function () {
-    //     realButton.click();
-    //     realButton.addEventListener('change', importMap, false);
-    // });
-    newTerritoryData = JSON.parse(newTerritoryData);
+    newTerritoryData = await loadTerrData();
+    newtloc = await loadNewBounds();
     initTerrs();
 });
 
-class Guild {
-    constructor(name, color) {
-        this.name = name;
-        this.mapcolor = color;
-        let option1 = document.createElement("option");
-        let option2 = document.createElement("option");
-        var select1 = document.getElementById("changeguild");
-        var select2 = document.getElementById("removeguild");
-        option1.text = name;
-        option2.text = name;
-        select1.add(option1);
-        select2.add(option2);
-        console.log(`New guild with the name ${name} and color ${color}`);
-    }
-    changecolor(ncolor) {
-        this.mapcolor = ncolor;
-    }
-}
 
 function removeselections() {
     selectedTerritory = [];
     reloadMenu();
 }
 
-function addguild() {
-    let name = document.getElementById("name");
-    let color = document.getElementById("color");
-    if (name.value === "") {
-        alert("No guild name specified!");
-        return;
-    }
-    Guilds.push(new Guild(name.value, color.value));
-    name.value = "";
-    color.value = "#000000";
-    reloadLegend();
-    alert("Successfully added the guild!");
-}
 
 function initTerrs() {
     var xhttp = new XMLHttpRequest();
@@ -109,16 +72,7 @@ function initTerrs() {
     xhttp.send();
 }
 
-
-function removeselectionmarkers() {
-    markers.forEach(element => {
-        map.removeLayer(element);
-    });
-}
-
 function onclickevent(e) {
-    if (!rectangleselect)
-        return;
     var coord = e.latlng;
     var lat = coord.lat;
     var lng = coord.lng;
@@ -151,60 +105,29 @@ function onclickevent(e) {
     console.log("You clicked the map at latitude: " + lat + " and longitude: " + lng);
 }
 
-function toggleMenu() {
-    if (document.getElementById("menu").style.display !== "none") {
-        document.getElementById("menu").style.display = "none";
-    } else {
-        document.getElementById("menu").style.display = "block";
-    }
-}
-
-function toggleLegend() {
-    if (document.getElementById("legend").style.display !== "none") {
-        document.getElementById("legend").style.display = "none";
-    } else {
-        document.getElementById("legend").style.display = "block";
-    }
-}
-
 async function run() {
     // initializing map
-    let bounds = [];
     let images = [];
 
     map = L.map("map", {
         crs: L.CRS.Simple,
-        minZoom: 6,
-        maxZoom: 10,
+        minZoom: -5,
+        maxZoom: 1,
         zoomControl: false,
-        zoom: 8
+        zoom: 1
     });
 
-    //map.on('click', onclickevent);
+    map.on('click', onclickevent);
+
+
+    var bounds = [[0,0], [6485,4091]];
+    var image = L.imageOverlay('./tiles/main-map.png', bounds).addTo(map);
+
+    map.fitBounds(bounds);
 
     L.control.zoom({
         position: 'topright'
     }).addTo(map);
-
-    map.fitBounds([[0, -4], [6, 2]]);
-
-    for (let a = 0; a < 4; a++) {
-        for (let b = 0; b < 3; b++) {
-            bounds.push([[a * 2, (2 * b) - 4], [(a + 1) * 2, (2 * (b + 1)) - 4]])
-        }
-    }
-
-    for (let bound of bounds) {
-        images.push(L.imageOverlay(`./tiles/${bound[0][1]}/${bound[0][0]}.png`,
-            bound, {
-            attribution: "<a href='https://wynndata.tk/map'>WYNNDATA</a>"
-        }
-        ));
-    }
-
-    for (let image of images) {
-        image.addTo(map);
-    }
 
     //initializing variables
     let prevZoom = 7;
@@ -212,16 +135,19 @@ async function run() {
     //setting up territories
     for (let territory of territories) {
         let bounds = [territory["start"].split(","), territory["end"].split(",")];
-        for (let i in bounds) {
-            bounds[i][0] *= .001
-            bounds[i][1] *= .001
-        }
 
         bounds[0].reverse();
         bounds[1].reverse();
 
         bounds[0][0] *= -1;
         bounds[1][0] *= -1;
+
+        bounds[0][1] = parseInt(bounds[0][1])+2393;
+        bounds[1][1] = parseInt(bounds[1][1])+2393;
+
+        bounds[0][0] = parseInt(bounds[0][0])-130;
+        bounds[1][0] = parseInt(bounds[1][0])-130;
+
         let rectangle = L.rectangle(bounds,
             { color: "rgb(0, 0, 0, 0)", weight: 2 })
         rectangles[territory["name"]] = rectangle;
@@ -344,18 +270,18 @@ function drawBetween(g1, g2, directional) {
     diffz /= 2;
     bounds[1].push(bigger - diffz);
 
-    // bounds[0] = [bounds[0][0], bounds[0][2]];
-    // bounds[1] = [bounds[1][0], bounds[1][2]];
-    for (let i in bounds) {
-        bounds[i][0] *= .001
-        bounds[i][1] *= .001
-    }
-
     bounds[0].reverse();
     bounds[1].reverse();
 
     bounds[0][0] *= -1;
     bounds[1][0] *= -1;
+
+    bounds[0][1] = parseInt(bounds[0][1])+2393;
+    bounds[1][1] = parseInt(bounds[1][1])+2393;
+
+    bounds[0][0] = parseInt(bounds[0][0])-130;
+    bounds[1][0] = parseInt(bounds[1][0])-130;
+
     if (index >= colors.length)
         index = 0;
     if (selected.includes(g2) && selected.includes(g1)) {
@@ -606,7 +532,7 @@ function render() {
                         if (selected.includes(territory))
                             c = green;
             
-                        if (map.getZoom() >= 9 && visible)
+                        if (map.getZoom() >= -1 && visible)
                             rectangles[territory].bindTooltip(`<span class="territoryGuildName" style="color: ${c}">` + territory + '</span>', { sticky: true, interactive: false, permanent: true, direction: 'center', className: 'territoryName', opacity: 1 })
             
                         rectangles[oldtn].setStyle({

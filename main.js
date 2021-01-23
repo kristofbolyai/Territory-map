@@ -528,7 +528,7 @@ function render() {
                 {
                     let restext = "";
                     for (const res of x.Resources) {
-                        restext += `${res}: ${x.DoubleResource ? 7200 : 3600}/h\n`;
+                        restext += `${res} `;
                     }
                     rectangles[oldtn].bindPopup(`<b>${territory}</b><br><b>${x.DoubleEmerald ? "DOUBLE " : ""} Emerald production: ${x.DoubleEmerald ? 18000 : 9000}/h</b><br><b>${x.DoubleResource ? "DOUBLE " : ""}Resources:</b><br>${restext}<br><b>Trade routes:</b><br>${x.Routes.toString().replaceAll(",", "<br>")}`);
                 }

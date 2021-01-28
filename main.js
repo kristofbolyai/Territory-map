@@ -63,7 +63,7 @@ async function run() {
     //map.on('click', onclickevent);
 
 
-    var bounds = [[0,0], [6485,4091]];
+    var bounds = [[0, 0], [6485, 4091]];
     var image = L.imageOverlay('./tiles/main-map.png', bounds).addTo(map);
 
     map.fitBounds(bounds);
@@ -92,11 +92,11 @@ async function run() {
         bounds[0][0] *= -1;
         bounds[1][0] *= -1;
 
-        bounds[0][1] = parseInt(bounds[0][1])+2393;
-        bounds[1][1] = parseInt(bounds[1][1])+2393;
+        bounds[0][1] = parseInt(bounds[0][1]) + 2393;
+        bounds[1][1] = parseInt(bounds[1][1]) + 2393;
 
-        bounds[0][0] = parseInt(bounds[0][0])-130;
-        bounds[1][0] = parseInt(bounds[1][0])-130;
+        bounds[0][0] = parseInt(bounds[0][0]) - 130;
+        bounds[1][0] = parseInt(bounds[1][0]) - 130;
 
         let rectangle = L.rectangle(bounds,
             { color: "rgb(0, 0, 0, 0)", weight: 2 })
@@ -228,11 +228,11 @@ function drawBetween(g1, g2, directional) {
     bounds[0][0] *= -1;
     bounds[1][0] *= -1;
 
-    bounds[0][1] = parseInt(bounds[0][1])+2393;
-    bounds[1][1] = parseInt(bounds[1][1])+2393;
+    bounds[0][1] = parseInt(bounds[0][1]) + 2393;
+    bounds[1][1] = parseInt(bounds[1][1]) + 2393;
 
-    bounds[0][0] = parseInt(bounds[0][0])-130;
-    bounds[1][0] = parseInt(bounds[1][0])-130;
+    bounds[0][0] = parseInt(bounds[0][0]) - 130;
+    bounds[1][0] = parseInt(bounds[1][0]) - 130;
 
     if (index >= colors.length)
         index = 0;
@@ -258,9 +258,11 @@ function drawRoutes() {
         let x = newTerritoryData[name];
         for (const route of x.Routes) {
             try {
-                let r = drawBetween(name, route, !newTerritoryData[route].Routes.includes(name));
-                if (r)
-                    routes.push(r);
+                setTimeout(() => {
+                    let r = drawBetween(name, route, !newTerritoryData[route].Routes.includes(name));
+                    if (r)
+                        routes.push(r);
+                }, 0);
             } catch (error) {
                 console.log("error drawing between", route, name)
             }
@@ -448,19 +450,21 @@ function checkRectOverlap(rect1, rect2) {
     return false;
 }
 
-let colormap = new Map();
-
 function render() {
-    console.log("RENDERING");
-    if (!visible) changeVisibility();
+    console.log("RENDERING");  
+    //if (!visible) changeVisibility();
     if (terrmode) {
         let guilds = new Set();
         for (const x in latestterrdata) {
             guilds.add(latestterrdata[x].guild);
         }
-        for (const guild of Array.from(guilds.values())) {
-            setTimeout(() => {
-                Object.keys(latestterrdata).filter(x => latestterrdata[x].guild === guild).forEach(territory => {
+        let guildsarray = Array.from(guilds.values());
+        let tags = {};
+        for (const guild of guildsarray) {
+            setTimeout(async () => {
+                let tag = await getTag(guild);
+                tags[guild] = tag;
+                Object.keys(latestterrdata).filter(x => latestterrdata[x].guild === guild).forEach(async territory => {
                     try {
                         rectangles[territory].unbindTooltip();
                         rectangles[territory].unbindPopup();
@@ -471,28 +475,31 @@ function render() {
                             let x = newTerritoryData[territory];
                             if (!selmode)
                                 rectangles[oldtn].bindPopup(`<b>${territory}</b><br>${latestterrdata[territory].guild}`);
-            
+
                         }
-            
+
                         if (colormap.has(latestterrdata[territory].guild))
                             c = colormap.get(latestterrdata[territory].guild);
                         else {
                             c = '#' + (Math.random() * 0xFFFFFF << 0).toString(16).padStart(6, '0');
                             colormap.set(latestterrdata[territory].guild, c);
                         }
-            
+
                         if (selected.includes(territory))
                             c = green;
-            
-                        if (map.getZoom() >= -1 && visible)
-                            rectangles[territory].bindTooltip(`<span class="territoryGuildName" style="color: ${c}">` + territory + '</span>', { sticky: true, interactive: false, permanent: true, direction: 'center', className: 'territoryName', opacity: 1 })
-            
+
+                        if (visible && map.getZoom() >= -1)
+                            rectangles[territory].bindTooltip(`<span class="territoryGuildName" style="color: ${c}">${territory}\n[${tags[latestterrdata[territory].guild]}]</span>`, { sticky: true, interactive: false, permanent: true, direction: 'center', className: 'territoryName', opacity: 1 })
+                        else
+                            rectangles[territory].bindTooltip(`<span class="territoryGuildName" style="color: ${c}">${tags[latestterrdata[territory].guild]}</span>`, { sticky: true, interactive: false, permanent: true, direction: 'center', className: 'territoryName', opacity: 1 });
+
+
                         rectangles[oldtn].setStyle({
                             fillColor: c,
                             color: c
-                        }); 
+                        });
                     } catch (error) {
-                        
+ 
                     }
                 });
             }, 0);
@@ -509,8 +516,7 @@ function render() {
             territory = territory.replace('’', "'");
             if (newTerritoryData[territory]) {
                 let x = newTerritoryData[territory];
-                if (!selmode)
-                {
+                if (!selmode) {
                     let restext = "";
                     for (const res of x.Resources) {
                         restext += `${res} `;
@@ -558,8 +564,21 @@ let gray = "#82827c";
 let green = '#09d60f';
 
 function changeVisibility() {
-    Object.keys(Territories).forEach(territory => {
+    Object.keys(Territories).forEach(async territory => {
         rectangles[territory].unbindTooltip();
+        let c;
+        if (colormap.has(latestterrdata[territory].guild))
+            c = colormap.get(latestterrdata[territory].guild);
+        else {
+            c = '#' + (Math.random() * 0xFFFFFF << 0).toString(16).padStart(6, '0');
+            colormap.set(latestterrdata[territory].guild, c);
+        }
+
+        if (selected.includes(territory))
+            c = green;
+        //let tag = await getTag(latestterrdata[territory].guild);
+        let tag = "???";
+        rectangles[territory].bindTooltip(`<span class="territoryGuildName" style="color: ${c}">${tag}</span>`, { sticky: true, interactive: false, permanent: true, direction: 'center', className: 'territoryName', opacity: 1 });
     });
 }
 
@@ -653,4 +672,25 @@ function changemode() {
     let button = document.getElementById("changemode");
     button.value = !terrmode ? "Change to: Territory map" : "Change to: Resource map";
     render();
+}
+
+let tagCache = {};
+
+async function getTag(name) {
+    if (!name)
+        return "???";
+    if (tagCache.hasOwnProperty(name))
+        return tagCache[name];
+
+    try {
+        console.log("request", name);
+        let data = (await fetch("https://api.wynncraft.com/public_api.php?action=guildStats&command=" + name, { mode: 'cors' }));
+        let json = await data.json();
+        tagCache[name] = json.prefix;
+        return json.prefix;
+    } catch (error) {
+        console.log("error fetching guild", name)
+    }
+
+    return "???";
 }

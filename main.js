@@ -22,7 +22,7 @@ $(document).ready(async function () {
         })
     })
     newTerritoryData = await loadTerrData();
-    newtloc = await loadNewBounds();
+    //newtloc = await loadNewBounds();
     initTerrs();
 });
 
@@ -38,38 +38,13 @@ function initTerrs() {
     xhttp.onreadystatechange = function () {
         if (this.readyState == 4 && this.status == 200) {
             territories = JSON.parse(this.responseText);
-            //ADD FILTER HERE
-            
-            territories = territories.filter(x => !newtloc[x.name] && newTerritoryData.hasOwnProperty(x.name));
-            let specified = new Set();
-            let notspecified = new Set();
-            for (const x in newtloc) {
-                let a = {};
-                a.start = newtloc[x].start;
-                a.end = newtloc[x].end;
-                a.name = x;
-                territories.push(a);
-            }
-            for (const x of territories) {
-                specified.add(x.name);
-            }
-            for (const x in newTerritoryData) {
-                for (const route of newTerritoryData[x].Routes) {
-                    if (!specified.has(route)) {
-                        notspecified.add(route);
-                    }
-                }
-            }
-            for (const x of Array.from(notspecified.values())) {
-                console.log("Missing terr data: ", x);
-            }
             for (let i in territories) {
-                Territories[territories[i].name] = null;
+                Territories[i] = null;
             }
             run();
         }
     };
-    xhttp.open("GET", "https://raw.githubusercontent.com/DevScyu/Wynn/master/territories.json", true);
+    xhttp.open("GET", "https://gist.githubusercontent.com/kristofbolyai/bd3c5d30fbe93a4804f8c868e90dc44e/raw/9378bc35730db4cc7e5949489dc4e7eb3d537934/terrs", true);
     xhttp.send();
 }
 
@@ -101,8 +76,15 @@ async function run() {
     let prevZoom = 7;
 
     //setting up territories
-    for (let territory of territories) {
-        let bounds = [territory["start"].split(","), territory["end"].split(",")];
+    //let data = (await axios.get("https://api.wynncraft.com/public_api.php?action=territoryList")).data.territories;
+    //let json = {};
+    for (let name in territories) {
+        let territory = territories[name];
+        let bounds = [territory.start.split(","), territory.end.split(",")];
+
+        /*json[name] = {};
+        json[name].start = bounds[0].toString();
+        json[name].end = bounds[1].toString();*/
 
         bounds[0].reverse();
         bounds[1].reverse();
@@ -118,7 +100,7 @@ async function run() {
 
         let rectangle = L.rectangle(bounds,
             { color: "rgb(0, 0, 0, 0)", weight: 2 })
-        rectangles[territory["name"]] = rectangle;
+        rectangles[name] = rectangle;
         rectangle.on('click', function () {
             if (selmode) {
                 if (!selected.includes(territory.name))
@@ -131,6 +113,8 @@ async function run() {
         });
         rectangle.addTo(map);
     }
+
+    //console.log(JSON.stringify(json));
 
     setTimeout(async () => {
         while (true) {
@@ -170,8 +154,8 @@ function drawBetween(g1, g2, directional) {
         console.log("not drawing line, terr does not exist");
         return false;
     }
-    let territory1 = territories.find(x => x.name.toLowerCase().replace('’', "'") === g1.toLowerCase());
-    let territory2 = territories.find(x => x.name.toLowerCase().replace('’', "'") === g2.toLowerCase());
+    let territory1 = territories[g1];
+    let territory2 = territories[g2];
     if (!territory1 || !territory2) {
         console.log("not drawing line, terr does not exist", g1, g2);
         return false;
@@ -518,7 +502,7 @@ function render() {
         Object.keys(Territories).forEach(territory => {
             rectangles[territory].unbindTooltip();
             rectangles[territory].unbindPopup();
-            if (map.getZoom() >= 9 && visible)
+            if (map.getZoom() >= -1 && visible)
                 rectangles[territory].bindTooltip('<span class="territoryGuildName" style="color: #FFFFFF">' + territory + '</span>', { sticky: true, interactive: false, permanent: true, direction: 'center', className: 'territoryName', opacity: 1 })
             let c;
             let oldtn = territory;

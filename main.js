@@ -44,7 +44,7 @@ function initTerrs() {
             run();
         }
     };
-    xhttp.open("GET", "https://gist.githubusercontent.com/kristofbolyai/bd3c5d30fbe93a4804f8c868e90dc44e/raw/9378bc35730db4cc7e5949489dc4e7eb3d537934/terrs", true);
+    xhttp.open("GET", "https://gist.githubusercontent.com/kristofbolyai/bd3c5d30fbe93a4804f8c868e90dc44e/raw/8239f85f7957bdbde2a3c0097013ebfdfca419de/terrs", true);
     xhttp.send();
 }
 

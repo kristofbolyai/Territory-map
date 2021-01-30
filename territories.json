@@ -1332,7 +1332,8 @@
     "Tree Island": {
         "Routes": [
             "Volcano Upper",
-            "Lost Atoll"
+            "Lost Atoll",
+            "Light Peninsula"
         ],
         "Resources": [
             "Wood"
@@ -2429,7 +2430,8 @@
             "Tree Island",
             "Lost Atoll",
             "Pirate Town",
-            "Volcano Lower"
+            "Volcano Lower",
+            "Light Peninsula"
         ],
         "Resources": [
             "Ore"
@@ -3480,7 +3482,8 @@
         "Routes": [
             "Aldorei Valley West Entrance",
             "Light Forest East Lower",
-            "Light Forest West Lower"
+            "Light Forest West Lower",
+            "Light Peninsula"
         ],
         "Resources": [
             "Ore"
@@ -4732,7 +4735,8 @@
         "Routes": [
             "Bloody Beach",
             "Volcano Upper",
-            "Llevigar Entrance"
+            "Llevigar Entrance",
+            "Light Peninsula"
         ],
         "Resources": [
             "Ore"
@@ -7480,6 +7484,26 @@
             "Wood",
             "Fish",
             "Crops"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
+    },
+    "Light Peninsula": {
+        "Routes": [
+            "Volcano Lower",
+            "Tree Island",
+            "Hobbit River",
+            "Volcano Upper"
+        ],
+        "Resources": [
+            "Ore"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish"
         ],
         "Emeralds": true,
         "DoubleEmerald": false,

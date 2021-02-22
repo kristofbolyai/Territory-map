@@ -259,7 +259,7 @@ function drawRoutes() {
         for (const route of x.Routes) {
             try {
                 setTimeout(() => {
-                    let r = drawBetween(name, route, !newTerritoryData[route].Routes.includes(name));
+                    let r = drawBetween(name, route, false);
                     if (r)
                         routes.push(r);
                 }, 0);

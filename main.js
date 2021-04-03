@@ -103,10 +103,10 @@ async function run() {
         rectangles[name] = rectangle;
         rectangle.on('click', function () {
             if (selmode) {
-                if (!selected.includes(territory.name))
-                    selected.push(territory.name);
+                if (!selected.includes(name))
+                    selected.push(name);
                 else {
-                    selected = selected.filter(x => x !== territory.name);
+                    selected = selected.filter(x => x !== name);
                 }
             }
             updatesel();

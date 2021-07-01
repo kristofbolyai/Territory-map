@@ -8,7 +8,8 @@ let colordata = {
     "TheNoLifes":"#1b7529",
     "The Simple Ones":"#0fCAD6",
     "Nefarious Ravens":"#444444",
-    "Eden":"#5ef743"
+    "Eden":"#5ef743",
+    "Sins of Seedia":"#831f18"
 };
 
 let colormap = new Map();
